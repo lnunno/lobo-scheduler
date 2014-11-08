@@ -1,1 +1,3226 @@
-[{"id":"libraries","label":"Libraries","icon":"http:\/\/search.unm.edu\/maps\/images\/libraryicon.png","locs":[{"id":"zimmermanlibrary","name":"Zimmerman Library","campus":"Albuquerque"},{"id":"parishlibrary","name":"Parish Library","campus":"Albuquerque"},{"id":"healthscienceslibrary","name":"Health Sciences Library","campus":"Albuquerque"},{"id":"fineartslibrary","name":"Fine Arts & Design Library","campus":"Albuquerque"},{"id":"lawlibrary","name":"School of Law Library","campus":"Albuquerque"},{"id":"centenniallibrary","name":"Centennial Library","campus":"Albuquerque"},{"id":"taoslibrary","name":"Taos Library","campus":"Taos"},{"id":"zollingerlibrary","name":"Gallup Zollinger Library","campus":"Gallup"},{"id":"valencialibrary","name":"Valencia Library","campus":"Valencia"},{"id":"losalamoslibrary","name":"Los Alamos Library","campus":"Los Alamos"}]},{"id":"meteredparking","label":"Visitor Parking","icon":"http:\/\/maps.google.com\/mapfiles\/kml\/shapes\/parking_lot.png","locs":[{"id":"cornellparkingstructure","name":"Cornell Parking Structure","campus":"Albuquerque"},{"id":"yaleparkingstructure","name":"Yale Parking Structure","campus":"Albuquerque"}]},{"id":"dining","label":"Dining","icon":"http:\/\/maps.google.com\/mapfiles\/ms\/micons\/restaurant.png","locs":[{"id":"subdining","name":"Student Union Building","campus":"Albuquerque"},{"id":"laposadadining","name":"La Posada Dining Hall","campus":"Albuquerque"},{"id":"danesmithdining","name":"Danes Deli @ Dane Smith Hall","campus":"Albuquerque"},{"id":"mitchelldining","name":"Mitchell Hall","campus":"Albuquerque"},{"id":"starbuckszimmermandining","name":"Starbucks Zimmerman","campus":"Albuquerque"},{"id":"satellitebookstoredining","name":"Satellite Coffee @ UNM Book Store","campus":"Albuquerque"},{"id":"mediicafedining","name":"Med II Cafe","campus":"Albuquerque"},{"id":"srccornerstoredining","name":"SRC Corner Store","campus":"Albuquerque"},{"id":"outtakeslawschooldining","name":"Outtakes Law School","campus":"Albuquerque"},{"id":"outtakeswestdining","name":"Outtakes West","campus":"Albuquerque"},{"id":"lamantanitadining","name":"La Mantanita Grab and Go","campus":"Albuquerque"},{"id":"facultyclubdining","name":"UNM Faculty\/Staff Club","campus":"Albuquerque"}]},{"id":"infocenters","label":"Info Centers","icon":"http:\/\/maps.google.com\/mapfiles\/kml\/shapes\/info.png","locs":[{"id":"communicationsinfocenter","name":"Welcome Center\/University Communications and Marketing","campus":"Albuquerque"},{"id":"subinfocenter","name":"Welcome Center\/Student Union Building","campus":"Albuquerque"}]},{"id":"abqbuildings-A_E","label":"ABQ Buildings A_E","icon":"http:\/\/maps.google.com\/mapfiles\/ms\/micons\/red-pushpin.png","locs":[{"id":"AEROb159","name":"Aerospace Studies","campus":"Albuquerque"},{"id":"ALUMNIb25","name":"Alumni Memorial Chapel","campus":"Albuquerque"},{"id":"ALVRDOb157","name":"Alvarado Hall Dormitory","campus":"Albuquerque"},{"id":"ANTHOb11","name":"Anthropology","campus":"Albuquerque"},{"id":"ANTHXb12","name":"Anthropology Annex","campus":"Albuquerque"},{"id":"ANTHSTb220","name":"Anthropology Storage And PPD Training","campus":"Albuquerque"},{"id":"ARMYb175","name":"Army ROTC","campus":"Albuquerque"},{"id":"b175A","name":"Army Rotc Annex","campus":"Albuquerque"},{"id":"ARTb84","name":"Art Building","campus":"Albuquerque"},{"id":"ARTXb105","name":"Art Annex","campus":"Albuquerque"},{"id":"ATHLETb307","name":"Athletics","campus":"Albuquerque"},{"id":"ATHMNTb353","name":"Athletics Maintenance Building","campus":"Albuquerque"},{"id":"AUTOMOb216","name":"Automotive","campus":"Albuquerque"},{"id":"b314","name":"Baker Memorial Building","campus":"Albuquerque"},{"id":"BANDEb8","name":"Bandelier Hall East","campus":"Albuquerque"},{"id":"BANDWb16","name":"Bandelier Hall West","campus":"Albuquerque"},{"id":"b286","name":"Barbara And Bill Richardson Pavilion","campus":"Albuquerque"},{"id":"b309A","name":"Baseball Batting Cages","campus":"Albuquerque"},{"id":"b309","name":"Baseball Press Box","campus":"Albuquerque"},{"id":"BSMBb211","name":"Basic Medical Sciences","campus":"Albuquerque"},{"id":"BIOANXb19","name":"Biology Annex","campus":"Albuquerque"},{"id":"BRFb253","name":"Biomedical Research Facility","campus":"Albuquerque"},{"id":"b102","name":"Bookstore","campus":"Albuquerque"},{"id":"BRATTNb218","name":"Bratton Hall","campus":"Albuquerque"},{"id":"DATAb168","name":"Bureau Of Business And Economic Research Data Bank","campus":"Albuquerque"},{"id":"b272","name":"Bus Stop Shelter","campus":"Albuquerque"},{"id":"CRFb229","name":"Cancer Research Facility","campus":"Albuquerque"},{"id":"CARLb4","name":"Carlisle Gymnasium","campus":"Albuquerque"},{"id":"CTHOSPb270","name":"Carrie Tingley Hospital","campus":"Albuquerque"},{"id":"b184","name":"CARS (Counseling, Assistance And Referral Service)","campus":"Albuquerque"},{"id":"b279","name":"Casita De Milagros","campus":"Albuquerque"},{"id":"CASTb21","name":"Castetter Hall","campus":"Albuquerque"},{"id":"b112","name":"Centennial Engineering Center","campus":"Albuquerque"},{"id":"CTRARTb62","name":"Center For The Arts","campus":"Albuquerque"},{"id":"WILDLWb280","name":"Center For Wildlife Law","campus":"Albuquerque"},{"id":"b277","name":"Child Care Center","campus":"Albuquerque"},{"id":"b281A","name":"Child Care Center","campus":"Albuquerque"},{"id":"b281B","name":"Child Care Center","campus":"Albuquerque"},{"id":"b281C","name":"Child Care Center","campus":"Albuquerque"},{"id":"b194","name":"Chilled Water Plant","campus":"Albuquerque"},{"id":"CLARKb22","name":"Clark Hall","campus":"Albuquerque"},{"id":"CRTCb227","name":"Clinical and Translational Science Center","campus":"Albuquerque"},{"id":"b176","name":"Cogeneration Plant","campus":"Albuquerque"},{"id":"COMMJb115","name":"Communication And Journalism","campus":"Albuquerque"},{"id":"b301E","name":"Concession Stand","campus":"Albuquerque"},{"id":"b301T","name":"Concessions","campus":"Albuquerque"},{"id":"b301V","name":"Concessions","campus":"Albuquerque"},{"id":"b301W","name":"Concessions","campus":"Albuquerque"},{"id":"CERIAb83","name":"Consortium For Enviro. Research, Informatics and Art","campus":"Albuquerque"},{"id":"CENORb259","name":"Continuing Education","campus":"Albuquerque"},{"id":"CESOUb258","name":"Continuing Education South Wing","campus":"Albuquerque"},{"id":"CONTARb273","name":"Contract Archeology and P.P.D. Warehouse","campus":"Albuquerque"},{"id":"b155","name":"Coronado Hall Dormitory","campus":"Albuquerque"},{"id":"CRYSTLb331","name":"Crystal Growth Facility","campus":"Albuquerque"},{"id":"DSHb48","name":"Dane Smith Hall","campus":"Albuquerque"},{"id":"b420","name":"Dermatology Building","campus":"Albuquerque"},{"id":"DEVARGb75","name":"Devargas Hall Dormitory","campus":"Albuquerque"},{"id":"DIABETb264","name":"Diabetes Control And Complications Trial","campus":"Albuquerque"},{"id":"DISPb29","name":"Dispute Resolution","campus":"Albuquerque"},{"id":"DOMCTRb200","name":"Domenici Center For Health Sciences Education","campus":"Albuquerque"},{"id":"bDP1","name":"Duck Pond","campus":"Albuquerque"},{"id":"ECONb57","name":"Economics","campus":"Albuquerque"},{"id":"EDUCb67","name":"Education Classrooms","campus":"Albuquerque"},{"id":"EECEb46","name":"Electrical And Computer Engineering","campus":"Albuquerque"},{"id":"EEGb231","name":"Empirical Ethics Group, HSC Department Of Psychiatry","campus":"Albuquerque"},{"id":"b440","name":"Encino Plaza #09","campus":"Albuquerque"},{"id":"EOPb42","name":"Equal Opportunity Programs","campus":"Albuquerque"},{"id":"b47","name":"Estufa","campus":"Albuquerque"},{"id":"ExtendedUniversity","name":"Extended University","campus":"Albuquerque"},{"id":"emsacademy","name":"EMS Academy","campus":"Albuquerque"}]},{"id":"abqbuildings-F_L","label":"ABQ Buildings F_L","icon":"http:\/\/maps.google.com\/mapfiles\/ms\/micons\/red-pushpin.png","locs":[{"id":"FAMILYb271","name":"Family Health: University Clinic","campus":"Albuquerque"},{"id":"FPCTb248","name":"Family Practice Center","campus":"Albuquerque"},{"id":"FECb119","name":"Farris Engineering Center","campus":"Albuquerque"},{"id":"b62C","name":"Fine Arts Museum","campus":"Albuquerque"},{"id":"FordUtilitiesCenter","name":"Ford Utilities Center","campus":"Albuquerque"},{"id":"b124","name":"Gazebo","campus":"Albuquerque"},{"id":"b24A","name":"Geology Museum","campus":"Albuquerque"},{"id":"b195","name":"George Pearl Hall","campus":"Albuquerque"},{"id":"b275","name":"Golf Course Maintenance","campus":"Albuquerque"},{"id":"b21A","name":"Greenhouse Conservatory","campus":"Albuquerque"},{"id":"HSSBb266","name":"Health Sciences And Services Building","campus":"Albuquerque"},{"id":"HSCUCb232","name":"Health Sciences Center University Counsel","campus":"Albuquerque"},{"id":"HIBBb15","name":"Hibben Center For Archaeology Research","campus":"Albuquerque"},{"id":"b126","name":"High Performance Computing Center (HPC)\/ Art, Research, Technology and Science Laboratory (Arts Lab Old) (Galles Bldg)","campus":"Albuquerque"},{"id":"HODGINb103","name":"Hodgin Hall","campus":"Albuquerque"},{"id":"HOKWb58","name":"Hokona Hall (Housing)","campus":"Albuquerque"},{"id":"b345","name":"Hospital Operations For Patients And Employees","campus":"Albuquerque"},{"id":"b191","name":"House Of Prevention Epidemiology (Hope)","campus":"Albuquerque"},{"id":"HSCPAb221","name":"HSC Public Affairs","campus":"Albuquerque"},{"id":"b140","name":"Huber House","campus":"Albuquerque"},{"id":"b183A","name":"Human Resources","campus":"Albuquerque"},{"id":"HUMb81","name":"Humanities","campus":"Albuquerque"},{"id":"b354","name":"Indoor Practice Facility","campus":"Albuquerque"},{"id":"TENNISb311B","name":"Indoor Tennis Dome","campus":"Albuquerque"},{"id":"ITBb153","name":"Information Technologies Building","campus":"Albuquerque"},{"id":"ITNb255","name":"Information Technologies North","campus":"Albuquerque"},{"id":"ETHICb225","name":"Institute For Ethics","campus":"Albuquerque"},{"id":"b185","name":"Institute For Public Policy","campus":"Albuquerque"},{"id":"InstituteforSocialResearch","name":"Institute for Social Research","campus":"Albuquerque"},{"id":"b424","name":"Integrity Building","campus":"Albuquerque"},{"id":"b183","name":"John And June Perovich Business Center","campus":"Albuquerque"},{"id":"bJF1","name":"Johnson Field","campus":"Albuquerque"},{"id":"b62E","name":"Johnson Gallery","campus":"Albuquerque"},{"id":"JONGALb152","name":"Jonson Gallery\/RWJ","campus":"Albuquerque"},{"id":"b182C","name":"Jorrin Seminar Room","campus":"Albuquerque"},{"id":"KIVAb69","name":"Kiva Lecture Hall","campus":"Albuquerque"},{"id":"b265","name":"KNME TV Store and Development Dept.","campus":"Albuquerque"},{"id":"KNMEb217","name":"KNME TV Studio","campus":"Albuquerque"},{"id":"b77","name":"La Posada Dining Hall","campus":"Albuquerque"},{"id":"LAGUNAb74","name":"Laguna Hall Dormitory","campus":"Albuquerque"},{"id":"b276","name":"Landscape And Grounds Greenhouse","campus":"Albuquerque"},{"id":"b49","name":"Landscape Equipment Building","campus":"Albuquerque"},{"id":"LADBb182A","name":"Latin American Data Base And Latin American Outreach","campus":"Albuquerque"},{"id":"LAIIb165","name":"Latin American\/Iberian Institute","campus":"Albuquerque"},{"id":"b165A","name":"Latin American\/Iberian Institute Garage","campus":"Albuquerque"},{"id":"b60A","name":"Lobo Lab At Student Union","campus":"Albuquerque"},{"id":"b311","name":"Lobo Tennis Club","campus":"Albuquerque"},{"id":"LoboVillage","name":"Lobo Village","campus":"Albuquerque"},{"id":"LOGANb34","name":"Logan Hall","campus":"Albuquerque"},{"id":"LomasParkingStructure","name":"Lomas Parking Structure","campus":"Albuquerque"}]},{"id":"abqbuildings-M_P","label":"ABQ Buildings M_P","icon":"http:\/\/maps.google.com\/mapfiles\/ms\/micons\/red-pushpin.png","locs":[{"id":"MANZb70","name":"Manzanita Center","campus":"Albuquerque"},{"id":"MARNb9","name":"Marron Hall","campus":"Albuquerque"},{"id":"MASLEYb68","name":"Masley Hall","campus":"Albuquerque"},{"id":"b68A","name":"Masley Hall Art Gallery","campus":"Albuquerque"},{"id":"b262","name":"Materiel Management (Records Management And Postal Services)","campus":"Albuquerque"},{"id":"MATTOXb123","name":"Mattox Sculpture Center","campus":"Albuquerque"},{"id":"MECHb122","name":"Mechanical Engineering","campus":"Albuquerque"},{"id":"b299B","name":"Mental Health Center: Administration \/ Activity","campus":"Albuquerque"},{"id":"b299C","name":"Mental Health Center: Inpatient","campus":"Albuquerque"},{"id":"b299D","name":"Mental Health Center: Programs For Children","campus":"Albuquerque"},{"id":"b299A","name":"Mental Health Center: Psycho Social Rehab","campus":"Albuquerque"},{"id":"MVHb56","name":"Mesa Vista Hall","campus":"Albuquerque"},{"id":"b24B","name":"Meteoric Museum","campus":"Albuquerque"},{"id":"MITCHb23","name":"Mitchell Hall","campus":"Albuquerque"},{"id":"b215","name":"Multidisciplinary Research Facility","campus":"Albuquerque"},{"id":"NAVALb151","name":"Naval Science","campus":"Albuquerque"},{"id":"CPHADMb236A","name":"New Mexico Children's Psychiatric Center Administration Building","campus":"Albuquerque"},{"id":"CPHBRAb239","name":"New Mexico Children's Psychiatric Center Brazos Cottage","campus":"Albuquerque"},{"id":"CPHCPTb240","name":"New Mexico Children's Psychiatric Center Capitan Cottage","campus":"Albuquerque"},{"id":"CPHCHAb237","name":"New Mexico Children's Psychiatric Center Chama Cottage","campus":"Albuquerque"},{"id":"CPHCIBb242","name":"New Mexico Children's Psychiatric Center Cibola Cottage","campus":"Albuquerque"},{"id":"CPHCOMb243","name":"New Mexico Children's Psychiatric Center Commons And Service Building","campus":"Albuquerque"},{"id":"CPHDTCb254","name":"New Mexico Children's Psychiatric Center Day Treatment Center","campus":"Albuquerque"},{"id":"CPHEDUb236B","name":"New Mexico Children's Psychiatric Center Education Building","campus":"Albuquerque"},{"id":"CPHGILb238","name":"New Mexico Children's Psychiatric Center Gila Cottage","campus":"Albuquerque"},{"id":"CPHJEMb244","name":"New Mexico Children's Psychiatric Center Jemez Office Building","campus":"Albuquerque"},{"id":"CPHPECb241","name":"New Mexico Children's Psychiatric Center Pecos Cottage","campus":"Albuquerque"},{"id":"b245","name":"New Mexico Children's Psychiatric Center Storage\/Shop","campus":"Albuquerque"},{"id":"NewMexicoLawCenter","name":"New Mexico Law Center","campus":"Albuquerque"},{"id":"NorthGolfCourseClubhouse","name":"North Golf Course Clubhouse","campus":"Albuquerque"},{"id":"NTHPb24","name":"Northrop Hall","campus":"Albuquerque"},{"id":"b301P","name":"Novelty Booth","campus":"Albuquerque"},{"id":"b301Q","name":"Novelty Booth","campus":"Albuquerque"},{"id":"b301U","name":"Novelty Booth","campus":"Albuquerque"},{"id":"NOVHb249","name":"Novitski Hall","campus":"Albuquerque"},{"id":"NUCLb121","name":"Nuclear Engineering Laboratory","campus":"Albuquerque"},{"id":"NRPHb228","name":"Nursing and Pharmacy","campus":"Albuquerque"},{"id":"OBSVb208","name":"Observatory","campus":"Albuquerque"},{"id":"HRPERb26","name":"Office Of Research","campus":"Albuquerque"},{"id":"b725","name":"Office Of The Medical Investigator","campus":"Albuquerque"},{"id":"ONATEb156","name":"Onate Hall","campus":"Albuquerque"},{"id":"ORTGb79","name":"Ortega Hall","campus":"Albuquerque"},{"id":"b423","name":"Orthopaedics","campus":"Albuquerque"},{"id":"OSICb283","name":"Outpatient Surgery and Imaging Center","campus":"Albuquerque"},{"id":"b274","name":"P.P.D. Storage","campus":"Albuquerque"},{"id":"b125","name":"Parking And Transportation Services","campus":"Albuquerque"},{"id":"b147","name":"PATS Parking Facility","campus":"Albuquerque"},{"id":"b146","name":"PATS Transportation Facility","campus":"Albuquerque"},{"id":"LINKb20","name":"Payroll LINK","campus":"Albuquerque"},{"id":"PAYRLb20A","name":"Payroll LINK","campus":"Albuquerque"},{"id":"b182B","name":"Peace Corps","campus":"Albuquerque"},{"id":"DOMINb260","name":"Pete And Nancy Domenici Hall","campus":"Albuquerque"},{"id":"PHARMb247","name":"Pharmacy Programs","campus":"Albuquerque"},{"id":"PANDAb207","name":"Physics And Astronomy","campus":"Albuquerque"},{"id":"PCDb203","name":"Planning And Campus Development - PCD","campus":"Albuquerque"},{"id":"b127","name":"PPD Annex","campus":"Albuquerque"},{"id":"ProjectLinkServiceCenter","name":"Project Link Service Center","campus":"Albuquerque"},{"id":"b268","name":"Psychiatry","campus":"Albuquerque"},{"id":"PsychologyClinic","name":"Psychology Clinic","campus":"Albuquerque"},{"id":"b85A","name":"Pump House","campus":"Albuquerque"}]},{"id":"abqbuildings-R_S","label":"ABQ Buildings R_S","icon":"http:\/\/maps.google.com\/mapfiles\/ms\/micons\/red-pushpin.png","locs":[{"id":"GSMb87","name":"R.O. Anderson Graduate School Of Management","campus":"Albuquerque"},{"id":"ASMb76","name":"R.O. Anderson School Of Management","campus":"Albuquerque"},{"id":"BRIGGSb311A","name":"Randy Briggs Indoor Tennis Dome","campus":"Albuquerque"},{"id":"b193A","name":"Redondo Village Student Residences","campus":"Albuquerque"},{"id":"b193B","name":"Redondo Village Student Residences","campus":"Albuquerque"},{"id":"b193C","name":"Redondo Village Student Residences","campus":"Albuquerque"},{"id":"b193D","name":"Redondo Village Student Residences","campus":"Albuquerque"},{"id":"b193E","name":"Redondo Village Student Residences","campus":"Albuquerque"},{"id":"REGHb35","name":"Regener Hall","campus":"Albuquerque"},{"id":"b421","name":"Rehab Services","campus":"Albuquerque"},{"id":"RIBb205","name":"Research Incubator Building","campus":"Albuquerque"},{"id":"b180","name":"Residence","campus":"Albuquerque"},{"id":"b187","name":"Residence","campus":"Albuquerque"},{"id":"b190","name":"Residence","campus":"Albuquerque"},{"id":"b192","name":"Residence","campus":"Albuquerque"},{"id":"b179","name":"Residence Building","campus":"Albuquerque"},{"id":"b301F","name":"Restrooms","campus":"Albuquerque"},{"id":"b301G","name":"Restrooms","campus":"Albuquerque"},{"id":"b301X","name":"Restrooms, Ticket Sales, and Storage","campus":"Albuquerque"},{"id":"RobertHartungBuilding","name":"Robert Hartung Building","campus":"Albuquerque"},{"id":"RudyDavalosBasketballCenter","name":"Rudy Davalos Basketball Center","campus":"Albuquerque"},{"id":"SHEAb233","name":"Safety, Health And Environmental Affairs","campus":"Albuquerque"},{"id":"b71","name":"Santa Ana Hall Dormitory","campus":"Albuquerque"},{"id":"b61","name":"Santa Clara Hall Dormitory","campus":"Albuquerque"},{"id":"SARARb104","name":"Sara Raynolds Hall","campus":"Albuquerque"},{"id":"SCHLb10","name":"Scholes Hall","campus":"Albuquerque"},{"id":"SOM2b201","name":"School Of Medicine Building No.2","campus":"Albuquerque"},{"id":"b14","name":"Science and Mathematics Learning Center","campus":"Albuquerque"},{"id":"b339","name":"Science And Technology Park (Park North) Office And Light Lab Facility Light","campus":"Albuquerque"},{"id":"TCCb334","name":"Science And Technology Park and Technology Commercialization Center","campus":"Albuquerque"},{"id":"CHTMb338","name":"Science And Technology Park Center For High Tech Materials","campus":"Albuquerque"},{"id":"MTTCb341","name":"Science And Technology Park Manufacturing Technology And Training Center","campus":"Albuquerque"},{"id":"NMERIb333","name":"Science And Technology Park New Mexico Engineering Research Institute","campus":"Albuquerque"},{"id":"STPCb332","name":"Science And Technology Park Park Center","campus":"Albuquerque"},{"id":"b340","name":"Science And Technology Park Parking Structure","campus":"Albuquerque"},{"id":"ADVMATb337","name":"Science And Technology Park UNM\/SNL Advanced Materials Laboratory","campus":"Albuquerque"},{"id":"SERVb204","name":"Service Building (PPD and OCP)","campus":"Albuquerque"},{"id":"SIMPb66","name":"Simpson Hall","campus":"Albuquerque"},{"id":"b422","name":"Sleep Disorders Center","campus":"Albuquerque"},{"id":"b219","name":"Small Engine Repair Shop","campus":"Albuquerque"},{"id":"bSP1","name":"Smith Plaza","campus":"Albuquerque"},{"id":"SSCOb78","name":"Social Sciences","campus":"Albuquerque"},{"id":"b343","name":"Softball Home Team Facility","campus":"Albuquerque"},{"id":"b347","name":"Softball Visitors Dugout","campus":"Albuquerque"},{"id":"SHRIb171","name":"Southwest Hispanic Research Institute And Chicano Studies","campus":"Albuquerque"},{"id":"AAPb158","name":"Southwest Research And Information Center","campus":"Albuquerque"},{"id":"b149","name":"Special Programs: Ronald McNair Scholars Program, Research Opportunity Program, And College Preparation Program","campus":"Albuquerque"},{"id":"b317","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b318","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b319","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b320","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b321","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b322","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b323","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b324","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b325","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b326","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b327","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b328","name":"Student Family Housing","campus":"Albuquerque"},{"id":"b329","name":"Student Family Housing","campus":"Albuquerque"},{"id":"SHCb73","name":"Student Health Center And Undergraduate Studies","campus":"Albuquerque"},{"id":"b88A","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88B","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88C","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88D","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88E","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88F","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88G","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88H","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88I","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88J","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88K","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b88L","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b90A","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b90B","name":"Student Residence Center","campus":"Albuquerque"},{"id":"b89","name":"Student Residence Center Commons","campus":"Albuquerque"},{"id":"b346","name":"Student Support and Success Center","campus":"Albuquerque"},{"id":"SSDHHb150","name":"Student Support Services And Deaf and Hard Of Hearing Services","campus":"Albuquerque"},{"id":"NMUb60","name":"Student Union Building","campus":"Albuquerque"},{"id":"SURGEb226","name":"Surge Building","campus":"Albuquerque"}]},{"id":"abqbuildings-T_Z","label":"ABQ Buildings T_Z","icon":"http:\/\/maps.google.com\/mapfiles\/ms\/micons\/red-pushpin.png","locs":[{"id":"AAPXb162","name":"Tamarind Institute","campus":"Albuquerque"},{"id":"TECHb64","name":"Technology and Education Center","campus":"Albuquerque"},{"id":"TELEMEb263","name":"Telemedicine Program","campus":"Albuquerque"},{"id":"b301C","name":"Tickets\/Restrooms","campus":"Albuquerque"},{"id":"PSYCb44","name":"Title V and Mentoring Institute","campus":"Albuquerque"},{"id":"TOWDEHb308","name":"Tow Diehm Athletic Facility","campus":"Albuquerque"},{"id":"TRAVb65","name":"Travelstead Hall","campus":"Albuquerque"},{"id":"UAECb85","name":"University Advisement and Enrichment Center","campus":"Albuquerque"},{"id":"b302","name":"University Arena (Basketball Arena - A.K.A. The Pit) Arena","campus":"Albuquerque"},{"id":"UCLUBb160","name":"University Club","campus":"Albuquerque"},{"id":"UNIVHb51","name":"University House","campus":"Albuquerque"},{"id":"UNMHb235","name":"University Of New Mexico Hospital","campus":"Albuquerque"},{"id":"b235A","name":"University Of New Mexico Hospital - Central Utility Bldg","campus":"Albuquerque"},{"id":"UniversityServices","name":"University Services","campus":"Albuquerque"},{"id":"UniversityStadium","name":"University Stadium","campus":"Albuquerque"},{"id":"STADb301","name":"University Stadium Electrical Vault","campus":"Albuquerque"},{"id":"b301A","name":"University Stadium Seating And Press Box","campus":"Albuquerque"},{"id":"b284","name":"UNM Cancer Center","campus":"Albuquerque"},{"id":"UNMDentalClinic","name":"UNM Dental Clinic","campus":"Albuquerque"},{"id":"b278","name":"UNM Health Services Center","campus":"Albuquerque"},{"id":"ACCb269","name":"UNM Hospital Ambulatory Care Center","campus":"Albuquerque"},{"id":"b167","name":"UNM Main Substation","campus":"Albuquerque"},{"id":"MHCPb246","name":"UNM Mental Health Center Programs","campus":"Albuquerque"},{"id":"b257","name":"UNM North Campus Substation","campus":"Albuquerque"},{"id":"UNMPress","name":"UNM Press","campus":"Albuquerque"},{"id":"b178","name":"UNM Resident Theatre Group","campus":"Albuquerque"},{"id":"b128","name":"UNM Support Building 1","campus":"Albuquerque"},{"id":"b129","name":"UNM Support Building 2","campus":"Albuquerque"},{"id":"b148","name":"UNM Support Building 3","campus":"Albuquerque"},{"id":"b202","name":"UNMH Parking Structure","campus":"Albuquerque"},{"id":"UNMHPatientFinancialServices","name":"UNMH Patient Financial Services","campus":"Albuquerque"},{"id":"b223","name":"Warehouse","campus":"Albuquerque"},{"id":"b250","name":"Warehouse Building (PPD Quonset No.1)","campus":"Albuquerque"},{"id":"b251","name":"Warehouse Building (PPD Quonset No.2)","campus":"Albuquerque"},{"id":"b252","name":"Welding Shop (PPD Quonset No.3)","campus":"Albuquerque"},{"id":"b261","name":"Well No.8 North Golf Course","campus":"Albuquerque"},{"id":"b750","name":"Woodward Center","campus":"Albuquerque"},{"id":"WOODb82","name":"Woodward Lecture Hall","campus":"Albuquerque"},{"id":"bYM1","name":"Yale Mall","campus":"Albuquerque"},{"id":"unmemergencyroom","name":"UNM Hospitals Emergency Room \/ Urgent Care","campus":"Albuquerque"}]},{"id":"othercampuses","label":"Other Campuses","icon":"http:\/\/maps.google.com\/mapfiles\/ms\/micons\/red-pushpin.png","locs":[{"id":"Valencia1","name":"Valencia Campus","campus":"Valencia"},{"id":"Gallup450","name":"Zuni Educational Center","campus":"Gallup"},{"id":"Rio Rancho1","name":"UNM West Campus","campus":"Rio Rancho"},{"id":"Gallup8","name":"Child Care Facility","campus":"Gallup"},{"id":"Gallup4","name":"College Center","campus":"Gallup"},{"id":"Gallup10","name":"Construction Tech House","campus":"Gallup"},{"id":"Gallup3","name":"Construction Technology","campus":"Gallup"},{"id":"Gallup2","name":"Gurley Hall","campus":"Gallup"},{"id":"Gallup11","name":"Health Lab","campus":"Gallup"},{"id":"Gallup13","name":"Health Lab 2","campus":"Gallup"},{"id":"Gallup12","name":"Learning Center","campus":"Gallup"},{"id":"Gallup1","name":"Lions Hall","campus":"Gallup"},{"id":"Gallup9","name":"North Education Center","campus":"Gallup"},{"id":"Gallup5","name":"Physical Education","campus":"Gallup"},{"id":"Gallup7","name":"Pump House","campus":"Gallup"},{"id":"Gallup14","name":"Student Services Center","campus":"Gallup"},{"id":"Young Ranch401","name":"Canada De Cochiti Residence","campus":"Young Ranch"},{"id":"Los Alamos21","name":"Los Alamos Campus Housing - 1027 9th St","campus":"Los Alamos"},{"id":"Los Alamos20","name":"Los Alamos Campus Housing - 1203 9th St","campus":"Los Alamos"},{"id":"Los Alamos1","name":"Los Alamos Campus","campus":"Los Alamos"},{"id":"Taos5","name":"Business And Computer Technology Center (Klauer Campus - Bldg. #5)","campus":"Taos"},{"id":"Taos4","name":"Kids Campus - Center For Early Learning (Klauer Campus - Bldg. #4)","campus":"Taos"},{"id":"Taos1","name":"Martinez Hall (Klauer Campus)","campus":"Taos"},{"id":"Taos2","name":"Peralta Hall (Klauer Campus)","campus":"Taos"},{"id":"Taos3","name":"Pueblo Hall (Klauer Campus)","campus":"Taos"},{"id":"Taos1003","name":"Medical Sciences","campus":"Taos"},{"id":"Taos1002","name":"Family Resource Center","campus":"Taos"},{"id":"Taos1006","name":"Water Resource Center","campus":"Taos"},{"id":"Taos1005","name":"Classroom Overflow Building","campus":"Taos"},{"id":"Taos1004","name":"Classroom Building","campus":"Taos"},{"id":"Taos400","name":"Harwood Library\/Museum","campus":"Taos"},{"id":"Taos1001","name":"Student Resource Center","campus":"Taos"},{"id":"Taos1000","name":"Taos Edu Cntr","campus":"Taos"},{"id":"Taos406","name":"D.H. Lawrence Ranch","campus":"Taos"}]},{"id":"placesofinterest","label":"Places of Interest","icon":"http:\/\/www.visual-case.it\/vc\/pics\/casetta_green.png","locs":[{"id":"Sevilleta407","name":"Sevilleta Field Station","campus":"Sevilleta"},{"id":"Capilla402","name":"Capilla Peak Observatory","campus":"Capilla"},{"id":"DuckPond","name":"Duck Pond","campus":"Albuquerque"},{"id":"JohnsonField","name":"Johnson Field","campus":"Albuquerque"},{"id":"UNMGolfTeamPracticeFacility","name":"UNM Golf Team Practice Facility","campus":"Albuquerque"},{"id":"ChampionshipGolfCourseClubhouse","name":"Championship Golf Course Clubhouse","campus":"Albuquerque"},{"id":"PattiHowardOfficeBuilding","name":"Patti Howard Office Building","campus":"Albuquerque"},{"id":"MaxwellMuseum","name":"Maxwell Museum","campus":"Albuquerque"},{"id":"HumanResources","name":"Human Resources","campus":"Albuquerque"},{"id":"GreenhouseConservatory","name":"Greenhouse Conservatory","campus":"Albuquerque"},{"id":"GeologyMuseum","name":"The Silver Family Geology Museum","campus":"Albuquerque"},{"id":"MeteoricMuseum","name":"Meteoric Museum","campus":"Albuquerque"},{"id":"RodeyTheatre","name":"Rodey Theatre ","campus":"Albuquerque"},{"id":"b62B","name":"Popejoy Hall","campus":"Albuquerque"},{"id":"FineArtsMuseum","name":"Fine Arts Museum","campus":"Albuquerque"},{"id":"ExperimentalTheatre","name":"Experimental Theatre (The X)","campus":"Albuquerque"},{"id":"JonsonGallery","name":"Jonson Gallery","campus":"Albuquerque"},{"id":"KellerHall","name":"Keller Hall","campus":"Albuquerque"},{"id":"MasleyHallArtGallery","name":"Masley Hall Art Gallery","campus":"Albuquerque"},{"id":"SommersGallery","name":"Sommers Gallery","campus":"Albuquerque"},{"id":"SmithPlaza","name":"Smith Plaza","campus":"Albuquerque"},{"id":"YaleMall","name":"Yale Mall","campus":"Albuquerque"}]},{"id":"gyms","label":"Gyms","icon":"http:\/\/maps.google.com\/mapfiles\/kml\/shapes\/play.png","locs":[{"id":"johnsongym","name":"Johnson Center","campus":"Albuquerque"},{"id":"carlislegym","name":"Carlisle Performance Space","campus":"Albuquerque"}]},{"id":"bluephonesnorth","label":"Blue Phones","icon":"http:\/\/search.unm.edu\/maps\/images\/blue-phone.png","locs":[{"id":"bpContinuingEducation","name":"Continuing Education","campus":"Albuquerque"},{"id":"bpLandsWest5","name":"Lands West 5","campus":"Albuquerque"},{"id":"bpQLot","name":"Q Lot","campus":"Albuquerque"},{"id":"bpLandsWest6","name":"Lands West 6","campus":"Albuquerque"},{"id":"bpChildcareN","name":"Childcare N","campus":"Albuquerque"},{"id":"bpChildcareNorth","name":"Childcare North","campus":"Albuquerque"},{"id":"bpDomeniciHallN","name":"Domenici Hall N","campus":"Albuquerque"},{"id":"bpChildcareSouth","name":"Childcare South","campus":"Albuquerque"},{"id":"bpLandsWest4","name":"Lands West 4","campus":"Albuquerque"},{"id":"bpLandsWest1","name":"Lands West 1","campus":"Albuquerque"},{"id":"bpLandsWest2","name":"Lands West 2","campus":"Albuquerque"},{"id":"bpLandsWest3","name":"Lands West 3","campus":"Albuquerque"},{"id":"bpBrattonNE","name":"Bratton NE","campus":"Albuquerque"},{"id":"bpGLot","name":"G Lot","campus":"Albuquerque"},{"id":"bpSleepDisorders","name":"Sleep Disorders","campus":"Albuquerque"},{"id":"bpBrattonMainEntrance","name":"Bratton Main Entrance","campus":"Albuquerque"},{"id":"bpObservatoryNE","name":"Observatory NE","campus":"Albuquerque"},{"id":"bpDomeniciCenterConS","name":"Domenici Center Con S","campus":"Albuquerque"},{"id":"bpDomeniciCenterLounge","name":"Domenici Center Lounge","campus":"Albuquerque"},{"id":"bpFamilyPracticeNE","name":"Family Practice NE","campus":"Albuquerque"},{"id":"bpMentalHealthCenterNE","name":"Mental Health Center NE","campus":"Albuquerque"},{"id":"bpObservatorySE","name":"Observatory SE","campus":"Albuquerque"},{"id":"bpNovitskyHallSwitchRoom","name":"Novitsky Hall Switch Room","campus":"Albuquerque"},{"id":"bpFamilyPracticeS","name":"Family Practice S","campus":"Albuquerque"},{"id":"bpOMILoadingDockE","name":"OMI Loading Dock E","campus":"Albuquerque"},{"id":"bpTLot","name":"T Lot","campus":"Albuquerque"},{"id":"bpCancerCenterNW","name":"Cancer Center NW","campus":"Albuquerque"},{"id":"bpSURGEBuildingS","name":"SURGE Building S","campus":"Albuquerque"},{"id":"bpSURGEBuildingSE","name":"SURGE Building SE","campus":"Albuquerque"},{"id":"bpMed1WalkwayGroundFloor","name":"Med 1 Walkway Ground Floor","campus":"Albuquerque"},{"id":"bpMed1Walkway1stFloor","name":"Med 1 Walkway 1st Floor","campus":"Albuquerque"},{"id":"bpBMSBEast","name":"BMSB East","campus":"Albuquerque"},{"id":"bpMed1Walkway3rdFloor","name":"Med 1 Walkway 3rd Floor","campus":"Albuquerque"},{"id":"bpMed1Walkway2ndFloor","name":"Med 1 Walkway 2nd Floor","campus":"Albuquerque"},{"id":"bpCancerCenter3rdFloorStairs","name":"Cancer Center 3rd Floor Stairs","campus":"Albuquerque"},{"id":"bpBMSBTunnel","name":"BMSB Tunnel","campus":"Albuquerque"},{"id":"bpSpeechandHearingSciencesE","name":"Speech and Hearing Sciences E","campus":"Albuquerque"},{"id":"bpSpeechandHearingSciencesW","name":"Speech and Hearing Sciences W","campus":"Albuquerque"},{"id":"bpDeVargasW","name":"De Vargas W","campus":"Albuquerque"},{"id":"bpITS","name":"ITS","campus":"Albuquerque"},{"id":"bpITS","name":"ITS","campus":"Albuquerque"},{"id":"bpUNMHParkingStructureN4","name":"UNMH Parking Structure N 4","campus":"Albuquerque"},{"id":"bpUNMHParkingStructureNG","name":"UNMH Parking Structure N G","campus":"Albuquerque"},{"id":"bpUNMHParkingStructureN3","name":"UNMH Parking Structure N 3","campus":"Albuquerque"},{"id":"bpUNMHParkingStructureNB","name":"UNMH Parking Structure N B","campus":"Albuquerque"},{"id":"bpUNMHParkingStructureN2","name":"UNMH Parking Structure N 2","campus":"Albuquerque"},{"id":"bpUNMHParkingStructureN1","name":"UNMH Parking Structure N 1","campus":"Albuquerque"},{"id":"bpMesaVistaStreet","name":"Mesa Vista Street","campus":"Albuquerque"},{"id":"bpCARS","name":"CARS","campus":"Albuquerque"},{"id":"bpUNMHParkingStructureSB","name":"UNMH Parking Structure S B","campus":"Albuquerque"},{"id":"bpUNMHParkingStructureS1","name":"UNMH Parking Structure S 1","campus":"Albuquerque"},{"id":"bpSigmaChi","name":"Sigma Chi","campus":"Albuquerque"},{"id":"bpHPSW4thFloorNStairs","name":"HPS W 4th Floor N Stairs","campus":"Albuquerque"},{"id":"bpHPSW3rdFloorNStairs","name":"HPS W 3rd Floor N Stairs","campus":"Albuquerque"},{"id":"bpHPSW2ndFloorNStairs","name":"HPS W 2nd Floor N Stairs","campus":"Albuquerque"},{"id":"bpHPSW1stFloorNStairs","name":"HPS W 1st Floor N Stairs","campus":"Albuquerque"},{"id":"bpHPSWCodeBlue3rdFloorE","name":"HPS W CodeBlue 3rd Floor E","campus":"Albuquerque"},{"id":"bpHPSWCodeBLue2ndFloorE","name":"HPS W CodeBLue 2nd Floor E","campus":"Albuquerque"},{"id":"bpHPSWCodeBlue1stFloorE","name":"HPS W CodeBlue 1st Floor E","campus":"Albuquerque"},{"id":"bpHPSE2ndFloorNEStairs","name":"HPS E 2nd Floor NE Stairs","campus":"Albuquerque"},{"id":"bpHPSE1stFloorNEStairs","name":"HPS E 1st Floor NE Stairs","campus":"Albuquerque"},{"id":"bpHPSW3rdFloorWStairs","name":"HPS W 3rd Floor W Stairs","campus":"Albuquerque"},{"id":"bpHPSWCodeBlue1stFloorW","name":"HPS W CodeBlue 1st Floor W","campus":"Albuquerque"},{"id":"bpHPSE3rdFloorNEStairs","name":"HPS E 3rd Floor NE Stairs","campus":"Albuquerque"},{"id":"bpHPSW4thFloorWStairs","name":"HPS W 4th Floor W Stairs","campus":"Albuquerque"},{"id":"bpHPSE4thFloorNEStairs","name":"HPS E 4th Floor NE Stairs","campus":"Albuquerque"},{"id":"bpHPSW2ndFloorWStairs","name":"HPS W 2nd Floor W Stairs","campus":"Albuquerque"},{"id":"bpHPSW1stFloorWStairs","name":"HPS W 1st Floor W Stairs","campus":"Albuquerque"},{"id":"bpParishLibrary","name":"Parish Library","campus":"Albuquerque"},{"id":"bpHPSW1stFloorSStairs","name":"HPS W 1st Floor S Stairs","campus":"Albuquerque"},{"id":"bpHPSW4thFloorSStairs","name":"HPS W 4th Floor S Stairs","campus":"Albuquerque"},{"id":"bpHPSW2ndFloorSStairs","name":"HPS W 2nd Floor S Stairs","campus":"Albuquerque"},{"id":"bpHPSW3rdFloorSStairs","name":"HPS W 3rd Floor S Stairs","campus":"Albuquerque"},{"id":"bpAnderson","name":"Anderson","campus":"Albuquerque"},{"id":"bpHokonaPoliceEntrance","name":"Hokona Police Entrance","campus":"Albuquerque"},{"id":"bpHPSE4thFloorSWStairs","name":"HPS E 4th Floor SW Stairs","campus":"Albuquerque"},{"id":"bpHPSE2ndFloorSWStairs","name":"HPS E 2nd Floor SW Stairs","campus":"Albuquerque"},{"id":"bpHPSE3rdFloorSWStairs","name":"HPS E 3rd Floor SW Stairs","campus":"Albuquerque"},{"id":"bpHPSE1stFloorSWStairs","name":"HPS E 1st Floor SW Stairs","campus":"Albuquerque"},{"id":"bpHokonaSEntrance","name":"Hokona S Entrance","campus":"Albuquerque"},{"id":"bpDeVargasS","name":"De Vargas S","campus":"Albuquerque"}]},{"id":"bluephonessouth","label":"Blue Phones - South","icon":"http:\/\/search.unm.edu\/maps\/images\/blue-phone.png","locs":[{"id":"bpITSS(CIRTPod)","name":"ITS S (CIRT Pod)","campus":"Albuquerque"},{"id":"bpLagunaNorthEntrance","name":"Laguna North Entrance","campus":"Albuquerque"},{"id":"bpHokonaSouth","name":"Hokona South","campus":"Albuquerque"},{"id":"bpSocialSciencesSE","name":"Social Sciences SE","campus":"Albuquerque"},{"id":"bpDuckPondBusStop","name":"Duck Pond Bus Stop","campus":"Albuquerque"},{"id":"bpSantaClaraNEntrance","name":"Santa Clara N Entrance","campus":"Albuquerque"},{"id":"bpZimmermanBStairsNE","name":"Zimmerman B Stairs NE","campus":"Albuquerque"},{"id":"bpSantaAnaNEntrance","name":"Santa Ana N Entrance","campus":"Albuquerque"},{"id":"bpSantaAnaS","name":"Santa Ana S","campus":"Albuquerque"},{"id":"bpMasleyHallSouth","name":"Masley Hall South","campus":"Albuquerque"},{"id":"bpScholesHall","name":"Scholes Hall","campus":"Albuquerque"},{"id":"bpSantaAnaSEntrance","name":"Santa Ana S Entrance","campus":"Albuquerque"},{"id":"bpZimmerman\/DuckPond","name":"Zimmerman\/Duck Pond","campus":"Albuquerque"},{"id":"bpSRCSouth","name":"SRC South","campus":"Albuquerque"},{"id":"bpAlumniChapel","name":"Alumni Chapel","campus":"Albuquerque"},{"id":"bpAlvaradoSEEntrance","name":"Alvarado SE Entrance","campus":"Albuquerque"},{"id":"bpStudentUnionNE","name":"Student Union NE","campus":"Albuquerque"},{"id":"bpOnateHall","name":"Onate Hall","campus":"Albuquerque"},{"id":"bpFordCenter","name":"Ford Center","campus":"Albuquerque"},{"id":"bpOrtegaHall129","name":"Ortega Hall 129","campus":"Albuquerque"},{"id":"bpStudentServiceCourtyard","name":"Student Service Courtyard","campus":"Albuquerque"},{"id":"bpHumanitiesNorth","name":"Humanities North","campus":"Albuquerque"},{"id":"bpCoronadoEEntrance","name":"Coronado E Entrance","campus":"Albuquerque"},{"id":"bpOrtegaHall103","name":"Ortega Hall 103","campus":"Albuquerque"},{"id":"bpCoronadoWEntrance","name":"Coronado W Entrance","campus":"Albuquerque"},{"id":"bpStudentServicesSE","name":"Student Services SE","campus":"Albuquerque"},{"id":"bpHumanitiesSouth","name":"Humanities South","campus":"Albuquerque"},{"id":"bpJohnsonFieldNorth","name":"Johnson Field North","campus":"Albuquerque"},{"id":"bpCarlisleGymEast","name":"Carlisle Gym East","campus":"Albuquerque"},{"id":"bpRedondoANorthEntrance","name":"Redondo A North Entrance","campus":"Albuquerque"},{"id":"bpClarkHall","name":"Clark Hall ","campus":"Albuquerque"},{"id":"bpCentennialLibrary","name":"Centennial Library","campus":"Albuquerque"},{"id":"bpRedondoANWEntrance","name":"Redondo A NW Entrance","campus":"Albuquerque"},{"id":"bpRedondoNE","name":"Redondo NE","campus":"Albuquerque"},{"id":"bpSHACParkingLotSW","name":"SHAC Parking Lot SW","campus":"Albuquerque"},{"id":"bpRedondoAWestEntrance","name":"Redondo A West Entrance","campus":"Albuquerque"},{"id":"bpFineArtsB242","name":"Fine Arts B242","campus":"Albuquerque"},{"id":"bpStudentUnionSouth","name":"Student Union South","campus":"Albuquerque"},{"id":"bpArtNorth","name":"Art North","campus":"Albuquerque"},{"id":"bpRedondoASWEntrance","name":"Redondo A SW Entrance","campus":"Albuquerque"},{"id":"bpRedondoABEastEntrance","name":"Redondo AB East Entrance","campus":"Albuquerque"},{"id":"bpRedondoNW","name":"Redondo NW","campus":"Albuquerque"},{"id":"bpMechanicalEngineering","name":"Mechanical Engineering","campus":"Albuquerque"},{"id":"bpRedondoABWestEntrance","name":"Redondo AB West Entrance","campus":"Albuquerque"},{"id":"bpArt140","name":"Art 140","campus":"Albuquerque"},{"id":"bpRedondoBNWEntrance","name":"Redondo B NW Entrance","campus":"Albuquerque"},{"id":"bpFineArtB132","name":"Fine Art B132","campus":"Albuquerque"},{"id":"bpJohnsonFieldWest","name":"Johnson Field West","campus":"Albuquerque"},{"id":"bpRedondoBWestEntrance","name":"Redondo B West Entrance","campus":"Albuquerque"},{"id":"bpJohnsonMainEntrance","name":"Johnson Main Entrance","campus":"Albuquerque"},{"id":"bpRedondoBSWEntrance","name":"Redondo B SW Entrance","campus":"Albuquerque"},{"id":"bpArt252","name":"Art 252","campus":"Albuquerque"},{"id":"bpRedondoBCEastEntrance","name":"Redondo BC East Entrance","campus":"Albuquerque"},{"id":"bpRegenerHall103","name":"Regener Hall 103","campus":"Albuquerque"},{"id":"bpRedondoBCWestEntrance","name":"Redondo BC West Entrance","campus":"Albuquerque"},{"id":"bpRedondoLaundryRoom","name":"Redondo Laundry Room","campus":"Albuquerque"},{"id":"bpRedondoSW","name":"Redondo SW","campus":"Albuquerque"},{"id":"bpJohnsonEastEntrance","name":"Johnson East Entrance","campus":"Albuquerque"},{"id":"bpRedondoDNWEntrance","name":"Redondo D NW Entrance","campus":"Albuquerque"},{"id":"bpRedondoSE","name":"Redondo SE","campus":"Albuquerque"},{"id":"bpRedondoCNWEntrance","name":"Redondo C NW Entrance","campus":"Albuquerque"},{"id":"bpRedondoDWestEntrance","name":"Redondo D West Entrance","campus":"Albuquerque"},{"id":"bpRegenerHall114","name":"Regener Hall 114","campus":"Albuquerque"},{"id":"bpCornellParkingStructureBasementNW","name":"Cornell Parking Structure Basement NW","campus":"Albuquerque"},{"id":"bpCornellParkingStructure4thFloorNW","name":"Cornell Parking Structure 4th Floor NW","campus":"Albuquerque"},{"id":"bpCornellParkingStructureGroundNW","name":"Cornell Parking Structure Ground NW","campus":"Albuquerque"},{"id":"bpCornellParkingStructure3rdFloorNW","name":"Cornell Parking Structure 3rd Floor NW","campus":"Albuquerque"},{"id":"bpRedondoCSWEntrance","name":"Redondo C SW Entrance","campus":"Albuquerque"},{"id":"bpCornellParkingStructure5thFloorNW","name":"Cornell Parking Structure 5th Floor NW","campus":"Albuquerque"},{"id":"bpCornellParkingStructure2ndFloorNW","name":"Cornell Parking Structure 2nd Floor NW","campus":"Albuquerque"},{"id":"bpRedondoDSWEntrance","name":"Redondo D SW Entrance","campus":"Albuquerque"},{"id":"bpYaleBusStop","name":"Yale Bus Stop","campus":"Albuquerque"},{"id":"bpLoganHall","name":"Logan Hall","campus":"Albuquerque"},{"id":"bpCornellParkingStructure3rdFloorSE","name":"Cornell Parking Structure 3rd Floor SE","campus":"Albuquerque"},{"id":"bpCornellParkingStructureGroundfloorSE","name":"Cornell Parking Structure Ground floor SE","campus":"Albuquerque"},{"id":"bpCornellParkingStructure4thFloorSE","name":"Cornell Parking Structure 4th Floor SE","campus":"Albuquerque"},{"id":"bpCornellParkingStructureBasementSE","name":"Cornell Parking Structure Basement SE","campus":"Albuquerque"},{"id":"bpCornellParkingStructure5thFloorSE","name":"Cornell Parking Structure 5th Floor SE","campus":"Albuquerque"},{"id":"bpCornellParkingStructure2ndFloorSE","name":"Cornell Parking Structure 2nd Floor SE","campus":"Albuquerque"},{"id":"bpRedondoCSEntrance","name":"Redondo C S Entrance","campus":"Albuquerque"},{"id":"bpJohnsonFieldSouth","name":"Johnson Field South","campus":"Albuquerque"},{"id":"bpParkingServices","name":"Parking Services","campus":"Albuquerque"},{"id":"bpRedondoSouthALot","name":"Redondo South A Lot","campus":"Albuquerque"},{"id":"bpPearlHallPatioBasement","name":"Pearl Hall Patio Basement","campus":"Albuquerque"},{"id":"bpPearlHallNE","name":"Pearl Hall NE","campus":"Albuquerque"},{"id":"bpPearlHall2ndFloorStudio","name":"Pearl Hall 2nd Floor Studio","campus":"Albuquerque"},{"id":"bpPearlHallNW","name":"Pearl Hall NW","campus":"Albuquerque"},{"id":"bpSouthLot","name":"South Lot","campus":"Albuquerque"},{"id":"bpJohnsonWomenStaffLockerRoom","name":"Johnson Women's Staff Locker Room","campus":"Albuquerque"},{"id":"bpJohnsonWomenStudentLockerRoom","name":"Johnson Women's Student Locker Room","campus":"Albuquerque"}]},{"id":"unmshuttles","label":"UNM Shuttle Stops","icon":"http:\/\/google-maps-icons.googlecode.com\/files\/bus.png","locs":[{"id":"ATC1","name":"ATC-Railrunner Shuttle 1","campus":"Albuquerque"},{"id":"ATC2","name":"ATC-Railrunner Shuttle 2","campus":"Albuquerque"},{"id":"ATC3","name":"ATC-Railrunner Shuttle 3","campus":"Albuquerque"},{"id":"ATC4","name":"ATC-Railrunner Shuttle 4","campus":"Albuquerque"},{"id":"GQ1","name":"GQ Lot Shuttle 1","campus":"Albuquerque"},{"id":"GQ2","name":"GQ Lot Shuttle 2","campus":"Albuquerque"},{"id":"GQ3","name":"GQ Lot Shuttle 3","campus":"Albuquerque"},{"id":"GQ4","name":"GQ Lot Shuttle 4","campus":"Albuquerque"},{"id":"RS1","name":"Redondo Shuttle 1","campus":"Albuquerque"},{"id":"RS10","name":"Redondo Shuttle 10","campus":"Albuquerque"},{"id":"RS11","name":"Redondo Shuttle 11","campus":"Albuquerque"},{"id":"RS12","name":"Redondo Shuttle 12","campus":"Albuquerque"},{"id":"RS13","name":"Redondo Shuttle 13","campus":"Albuquerque"},{"id":"RS14","name":"Redondo Shuttle 14","campus":"Albuquerque"},{"id":"RS15","name":"Redondo Shuttle 15","campus":"Albuquerque"},{"id":"RS16","name":"Redondo Shuttle 16","campus":"Albuquerque"},{"id":"RS17","name":"Redondo Shuttle 17","campus":"Albuquerque"},{"id":"RS18","name":"Redondo Shuttle 18","campus":"Albuquerque"},{"id":"RS2","name":"Redondo Shuttle 2","campus":"Albuquerque"},{"id":"RS3","name":"Redondo Shuttle 3","campus":"Albuquerque"},{"id":"RS4","name":"Redondo Shuttle 4","campus":"Albuquerque"},{"id":"RS5","name":"Redondo Shuttle 5","campus":"Albuquerque"},{"id":"RS6","name":"Redondo Shuttle 6","campus":"Albuquerque"},{"id":"RS7","name":"Redondo Shuttle 7","campus":"Albuquerque"},{"id":"RS8","name":"Redondo Shuttle 8","campus":"Albuquerque"},{"id":"RS9","name":"Redondo Shuttle 9","campus":"Albuquerque"},{"id":"S1","name":"South Lot Shuttle 1","campus":"Albuquerque"},{"id":"S2","name":"South Lot Shuttle 2","campus":"Albuquerque"},{"id":"S3","name":"South Lot Shuttle 3","campus":"Albuquerque"},{"id":"SS1","name":"SSSC Shuttle 1","campus":"Albuquerque"},{"id":"SS2","name":"SSSC Shuttle 2","campus":"Albuquerque"},{"id":"T1","name":"T Lot Shuttle 1","campus":"Albuquerque"},{"id":"T2","name":"T Lot Shuttle 2","campus":"Albuquerque"},{"id":"T3","name":"T Lot Shuttle 3","campus":"Albuquerque"},{"id":"SS3","name":"SSSC Shuttle 3","campus":"Albuquerque"}]},{"id":"restrooms","label":"Restrooms - Gender Neutral","icon":"http:\/\/maps.google.com\/mapfiles\/ms\/micons\/toilets.png","locs":[{"id":"restroom1","name":"UNM LGBTQ Resource Center","campus":"Albuquerque"},{"id":"restroom2","name":"Satellite Coffee","campus":"Albuquerque"},{"id":"restroom3","name":"UNM Communication and Journalism Department","campus":"Albuquerque"},{"id":"restroom4","name":"Winnings Coffee Co","campus":"Albuquerque"},{"id":"restroom5","name":"Satellite Coffee","campus":"Albuquerque"},{"id":"restroom6","name":"Flying Star","campus":"Albuquerque"},{"id":"restroom7","name":"La Montanita Coop","campus":"Albuquerque"},{"id":"restroom8","name":"Geckos Bar","campus":"Albuquerque"},{"id":"restroom9","name":"Walmart","campus":"Albuquerque"},{"id":"restroom10","name":"Yale Art Center","campus":"Albuquerque"},{"id":"restroom11","name":"UNM Ortega Hall First Floor SE Entrance","campus":"Albuquerque"},{"id":"restroom12","name":"Isotopes Park","campus":"Albuquerque"},{"id":"restroom13","name":"UNM Women's Resource Center Mesa Vista Hall","campus":"Albuquerque"},{"id":"restroom14","name":"Harold's Laundry","campus":"Albuquerque"},{"id":"restroom16","name":"Harwood Art Center","campus":"Albuquerque"},{"id":"restroom17","name":"MasterPeace Mediation","campus":"Albuquerque"},{"id":"restroom18","name":"National Hispanic Cultural Center","campus":"Albuquerque"},{"id":"restroom19","name":"Village Inn","campus":"Albuquerque"}]},{"id":"computerpods","label":"Computer Pods","icon":"http:\/\/google-maps-icons.googlecode.com\/files\/computer.png","locs":[{"id":"podengineeringscience","name":"Engineering & Science Computer Pod","campus":"Albuquerque"},{"id":"podsciencemath","name":"Science & Math Computer Pod","campus":"Albuquerque"},{"id":"podmitchellhall","name":"Mitchell Hall Computer Pod","campus":"Albuquerque"},{"id":"poddanesmithhall","name":"Dane Smith Hall Computer Pod","campus":"Albuquerque"},{"id":"podeconomics","name":"Economics Computer Pod","campus":"Albuquerque"},{"id":"podjohnsoncenter","name":"Johnson Center Computer Pod","campus":"Albuquerque"},{"id":"podstudentunion","name":"Student Union Computer Pod","campus":"Albuquerque"},{"id":"podstudentservicescenter","name":"Student Services Center Computer Pod","campus":"Albuquerque"},{"id":"podcommunicationjournalism","name":"Communication & Journalism Computer Pod","campus":"Albuquerque"},{"id":"podinformationtechnologies","name":"Information Technologies Computer Pod","campus":"Albuquerque"},{"id":"podstudentsupportservicescenter","name":"Student Support & Services Center Computer Pod","campus":"Albuquerque"},{"id":"podpearlhall","name":"George Pearl Hall Computer Pod","campus":"Albuquerque"},{"id":"podstudentresidencecenter","name":"Student Residence Center Computer Pod","campus":"Albuquerque"}]}]
+[
+  {
+    "id": "libraries",
+    "label": "Libraries",
+    "icon": "http://search.unm.edu/maps/images/libraryicon.png",
+    "locs": [
+      {
+        "id": "zimmermanlibrary",
+        "name": "Zimmerman Library",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "parishlibrary",
+        "name": "Parish Library",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "healthscienceslibrary",
+        "name": "Health Sciences Library",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "fineartslibrary",
+        "name": "Fine Arts & Design Library",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "lawlibrary",
+        "name": "School of Law Library",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "centenniallibrary",
+        "name": "Centennial Library",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "taoslibrary",
+        "name": "Taos Library",
+        "campus": "Taos"
+      },
+      {
+        "id": "zollingerlibrary",
+        "name": "Gallup Zollinger Library",
+        "campus": "Gallup"
+      },
+      {
+        "id": "valencialibrary",
+        "name": "Valencia Library",
+        "campus": "Valencia"
+      },
+      {
+        "id": "losalamoslibrary",
+        "name": "Los Alamos Library",
+        "campus": "Los Alamos"
+      }
+    ]
+  },
+  {
+    "id": "meteredparking",
+    "label": "Visitor Parking",
+    "icon": "http://maps.google.com/mapfiles/kml/shapes/parking_lot.png",
+    "locs": [
+      {
+        "id": "cornellparkingstructure",
+        "name": "Cornell Parking Structure",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "yaleparkingstructure",
+        "name": "Yale Parking Structure",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "dining",
+    "label": "Dining",
+    "icon": "http://maps.google.com/mapfiles/ms/micons/restaurant.png",
+    "locs": [
+      {
+        "id": "subdining",
+        "name": "Student Union Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "laposadadining",
+        "name": "La Posada Dining Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "danesmithdining",
+        "name": "Danes Deli @ Dane Smith Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "mitchelldining",
+        "name": "Mitchell Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "starbuckszimmermandining",
+        "name": "Starbucks Zimmerman",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "satellitebookstoredining",
+        "name": "Satellite Coffee @ UNM Book Store",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "mediicafedining",
+        "name": "Med II Cafe",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "srccornerstoredining",
+        "name": "SRC Corner Store",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "outtakeslawschooldining",
+        "name": "Outtakes Law School",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "outtakeswestdining",
+        "name": "Outtakes West",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "lamantanitadining",
+        "name": "La Mantanita Grab and Go",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "facultyclubdining",
+        "name": "UNM Faculty/Staff Club",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "infocenters",
+    "label": "Info Centers",
+    "icon": "http://maps.google.com/mapfiles/kml/shapes/info.png",
+    "locs": [
+      {
+        "id": "communicationsinfocenter",
+        "name": "Welcome Center/University Communications and Marketing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "subinfocenter",
+        "name": "Welcome Center/Student Union Building",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "abqbuildings-A_E",
+    "label": "ABQ Buildings A_E",
+    "icon": "http://maps.google.com/mapfiles/ms/micons/red-pushpin.png",
+    "locs": [
+      {
+        "id": "AEROb159",
+        "name": "Aerospace Studies",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ALUMNIb25",
+        "name": "Alumni Memorial Chapel",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ALVRDOb157",
+        "name": "Alvarado Hall Dormitory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ANTHOb11",
+        "name": "Anthropology",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ANTHXb12",
+        "name": "Anthropology Annex",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ANTHSTb220",
+        "name": "Anthropology Storage And PPD Training",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ARMYb175",
+        "name": "Army ROTC",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b175A",
+        "name": "Army Rotc Annex",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ARTb84",
+        "name": "Art Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ARTXb105",
+        "name": "Art Annex",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ATHLETb307",
+        "name": "Athletics",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ATHMNTb353",
+        "name": "Athletics Maintenance Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "AUTOMOb216",
+        "name": "Automotive",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b314",
+        "name": "Baker Memorial Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "BANDEb8",
+        "name": "Bandelier Hall East",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "BANDWb16",
+        "name": "Bandelier Hall West",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b286",
+        "name": "Barbara And Bill Richardson Pavilion",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b309A",
+        "name": "Baseball Batting Cages",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b309",
+        "name": "Baseball Press Box",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "BSMBb211",
+        "name": "Basic Medical Sciences",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "BIOANXb19",
+        "name": "Biology Annex",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "BRFb253",
+        "name": "Biomedical Research Facility",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b102",
+        "name": "Bookstore",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "BRATTNb218",
+        "name": "Bratton Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "DATAb168",
+        "name": "Bureau Of Business And Economic Research Data Bank",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b272",
+        "name": "Bus Stop Shelter",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CRFb229",
+        "name": "Cancer Research Facility",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CARLb4",
+        "name": "Carlisle Gymnasium",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CTHOSPb270",
+        "name": "Carrie Tingley Hospital",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b184",
+        "name": "CARS (Counseling, Assistance And Referral Service)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b279",
+        "name": "Casita De Milagros",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CASTb21",
+        "name": "Castetter Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b112",
+        "name": "Centennial Engineering Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CTRARTb62",
+        "name": "Center For The Arts",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "WILDLWb280",
+        "name": "Center For Wildlife Law",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b277",
+        "name": "Child Care Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b281A",
+        "name": "Child Care Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b281B",
+        "name": "Child Care Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b281C",
+        "name": "Child Care Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b194",
+        "name": "Chilled Water Plant",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CLARKb22",
+        "name": "Clark Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CRTCb227",
+        "name": "Clinical and Translational Science Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b176",
+        "name": "Cogeneration Plant",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "COMMJb115",
+        "name": "Communication And Journalism",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301E",
+        "name": "Concession Stand",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301T",
+        "name": "Concessions",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301V",
+        "name": "Concessions",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301W",
+        "name": "Concessions",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CERIAb83",
+        "name": "Consortium For Enviro. Research, Informatics and Art",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CENORb259",
+        "name": "Continuing Education",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CESOUb258",
+        "name": "Continuing Education South Wing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CONTARb273",
+        "name": "Contract Archeology and P.P.D. Warehouse",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b155",
+        "name": "Coronado Hall Dormitory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CRYSTLb331",
+        "name": "Crystal Growth Facility",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "DSHb48",
+        "name": "Dane Smith Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b420",
+        "name": "Dermatology Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "DEVARGb75",
+        "name": "Devargas Hall Dormitory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "DIABETb264",
+        "name": "Diabetes Control And Complications Trial",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "DISPb29",
+        "name": "Dispute Resolution",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "DOMCTRb200",
+        "name": "Domenici Center For Health Sciences Education",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bDP1",
+        "name": "Duck Pond",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ECONb57",
+        "name": "Economics",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "EDUCb67",
+        "name": "Education Classrooms",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "EECEb46",
+        "name": "Electrical And Computer Engineering",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "EEGb231",
+        "name": "Empirical Ethics Group, HSC Department Of Psychiatry",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b440",
+        "name": "Encino Plaza #09",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "EOPb42",
+        "name": "Equal Opportunity Programs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b47",
+        "name": "Estufa",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ExtendedUniversity",
+        "name": "Extended University",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "emsacademy",
+        "name": "EMS Academy",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "abqbuildings-F_L",
+    "label": "ABQ Buildings F_L",
+    "icon": "http://maps.google.com/mapfiles/ms/micons/red-pushpin.png",
+    "locs": [
+      {
+        "id": "FAMILYb271",
+        "name": "Family Health: University Clinic",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "FPCTb248",
+        "name": "Family Practice Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "FECb119",
+        "name": "Farris Engineering Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b62C",
+        "name": "Fine Arts Museum",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "FordUtilitiesCenter",
+        "name": "Ford Utilities Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b124",
+        "name": "Gazebo",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b24A",
+        "name": "Geology Museum",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b195",
+        "name": "George Pearl Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b275",
+        "name": "Golf Course Maintenance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b21A",
+        "name": "Greenhouse Conservatory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "HSSBb266",
+        "name": "Health Sciences And Services Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "HSCUCb232",
+        "name": "Health Sciences Center University Counsel",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "HIBBb15",
+        "name": "Hibben Center For Archaeology Research",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b126",
+        "name": "High Performance Computing Center (HPC)/ Art, Research, Technology and Science Laboratory (Arts Lab Old) (Galles Bldg)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "HODGINb103",
+        "name": "Hodgin Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "HOKWb58",
+        "name": "Hokona Hall (Housing)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b345",
+        "name": "Hospital Operations For Patients And Employees",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b191",
+        "name": "House Of Prevention Epidemiology (Hope)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "HSCPAb221",
+        "name": "HSC Public Affairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b140",
+        "name": "Huber House",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b183A",
+        "name": "Human Resources",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "HUMb81",
+        "name": "Humanities",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b354",
+        "name": "Indoor Practice Facility",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "TENNISb311B",
+        "name": "Indoor Tennis Dome",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ITBb153",
+        "name": "Information Technologies Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ITNb255",
+        "name": "Information Technologies North",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ETHICb225",
+        "name": "Institute For Ethics",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b185",
+        "name": "Institute For Public Policy",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "InstituteforSocialResearch",
+        "name": "Institute for Social Research",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b424",
+        "name": "Integrity Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b183",
+        "name": "John And June Perovich Business Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bJF1",
+        "name": "Johnson Field",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b62E",
+        "name": "Johnson Gallery",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "JONGALb152",
+        "name": "Jonson Gallery/RWJ",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b182C",
+        "name": "Jorrin Seminar Room",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "KIVAb69",
+        "name": "Kiva Lecture Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b265",
+        "name": "KNME TV Store and Development Dept.",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "KNMEb217",
+        "name": "KNME TV Studio",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b77",
+        "name": "La Posada Dining Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "LAGUNAb74",
+        "name": "Laguna Hall Dormitory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b276",
+        "name": "Landscape And Grounds Greenhouse",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b49",
+        "name": "Landscape Equipment Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "LADBb182A",
+        "name": "Latin American Data Base And Latin American Outreach",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "LAIIb165",
+        "name": "Latin American/Iberian Institute",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b165A",
+        "name": "Latin American/Iberian Institute Garage",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b60A",
+        "name": "Lobo Lab At Student Union",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b311",
+        "name": "Lobo Tennis Club",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "LoboVillage",
+        "name": "Lobo Village",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "LOGANb34",
+        "name": "Logan Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "LomasParkingStructure",
+        "name": "Lomas Parking Structure",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "abqbuildings-M_P",
+    "label": "ABQ Buildings M_P",
+    "icon": "http://maps.google.com/mapfiles/ms/micons/red-pushpin.png",
+    "locs": [
+      {
+        "id": "MANZb70",
+        "name": "Manzanita Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MARNb9",
+        "name": "Marron Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MASLEYb68",
+        "name": "Masley Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b68A",
+        "name": "Masley Hall Art Gallery",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b262",
+        "name": "Materiel Management (Records Management And Postal Services)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MATTOXb123",
+        "name": "Mattox Sculpture Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MECHb122",
+        "name": "Mechanical Engineering",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b299B",
+        "name": "Mental Health Center: Administration / Activity",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b299C",
+        "name": "Mental Health Center: Inpatient",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b299D",
+        "name": "Mental Health Center: Programs For Children",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b299A",
+        "name": "Mental Health Center: Psycho Social Rehab",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MVHb56",
+        "name": "Mesa Vista Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b24B",
+        "name": "Meteoric Museum",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MITCHb23",
+        "name": "Mitchell Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b215",
+        "name": "Multidisciplinary Research Facility",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "NAVALb151",
+        "name": "Naval Science",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHADMb236A",
+        "name": "New Mexico Children's Psychiatric Center Administration Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHBRAb239",
+        "name": "New Mexico Children's Psychiatric Center Brazos Cottage",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHCPTb240",
+        "name": "New Mexico Children's Psychiatric Center Capitan Cottage",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHCHAb237",
+        "name": "New Mexico Children's Psychiatric Center Chama Cottage",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHCIBb242",
+        "name": "New Mexico Children's Psychiatric Center Cibola Cottage",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHCOMb243",
+        "name": "New Mexico Children's Psychiatric Center Commons And Service Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHDTCb254",
+        "name": "New Mexico Children's Psychiatric Center Day Treatment Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHEDUb236B",
+        "name": "New Mexico Children's Psychiatric Center Education Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHGILb238",
+        "name": "New Mexico Children's Psychiatric Center Gila Cottage",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHJEMb244",
+        "name": "New Mexico Children's Psychiatric Center Jemez Office Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CPHPECb241",
+        "name": "New Mexico Children's Psychiatric Center Pecos Cottage",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b245",
+        "name": "New Mexico Children's Psychiatric Center Storage/Shop",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "NewMexicoLawCenter",
+        "name": "New Mexico Law Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "NorthGolfCourseClubhouse",
+        "name": "North Golf Course Clubhouse",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "NTHPb24",
+        "name": "Northrop Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301P",
+        "name": "Novelty Booth",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301Q",
+        "name": "Novelty Booth",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301U",
+        "name": "Novelty Booth",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "NOVHb249",
+        "name": "Novitski Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "NUCLb121",
+        "name": "Nuclear Engineering Laboratory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "NRPHb228",
+        "name": "Nursing and Pharmacy",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "OBSVb208",
+        "name": "Observatory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "HRPERb26",
+        "name": "Office Of Research",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b725",
+        "name": "Office Of The Medical Investigator",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ONATEb156",
+        "name": "Onate Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ORTGb79",
+        "name": "Ortega Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b423",
+        "name": "Orthopaedics",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "OSICb283",
+        "name": "Outpatient Surgery and Imaging Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b274",
+        "name": "P.P.D. Storage",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b125",
+        "name": "Parking And Transportation Services",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b147",
+        "name": "PATS Parking Facility",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b146",
+        "name": "PATS Transportation Facility",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "LINKb20",
+        "name": "Payroll LINK",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "PAYRLb20A",
+        "name": "Payroll LINK",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b182B",
+        "name": "Peace Corps",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "DOMINb260",
+        "name": "Pete And Nancy Domenici Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "PHARMb247",
+        "name": "Pharmacy Programs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "PANDAb207",
+        "name": "Physics And Astronomy",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "PCDb203",
+        "name": "Planning And Campus Development - PCD",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b127",
+        "name": "PPD Annex",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ProjectLinkServiceCenter",
+        "name": "Project Link Service Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b268",
+        "name": "Psychiatry",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "PsychologyClinic",
+        "name": "Psychology Clinic",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b85A",
+        "name": "Pump House",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "abqbuildings-R_S",
+    "label": "ABQ Buildings R_S",
+    "icon": "http://maps.google.com/mapfiles/ms/micons/red-pushpin.png",
+    "locs": [
+      {
+        "id": "GSMb87",
+        "name": "R.O. Anderson Graduate School Of Management",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ASMb76",
+        "name": "R.O. Anderson School Of Management",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "BRIGGSb311A",
+        "name": "Randy Briggs Indoor Tennis Dome",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b193A",
+        "name": "Redondo Village Student Residences",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b193B",
+        "name": "Redondo Village Student Residences",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b193C",
+        "name": "Redondo Village Student Residences",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b193D",
+        "name": "Redondo Village Student Residences",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b193E",
+        "name": "Redondo Village Student Residences",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "REGHb35",
+        "name": "Regener Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b421",
+        "name": "Rehab Services",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RIBb205",
+        "name": "Research Incubator Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b180",
+        "name": "Residence",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b187",
+        "name": "Residence",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b190",
+        "name": "Residence",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b192",
+        "name": "Residence",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b179",
+        "name": "Residence Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301F",
+        "name": "Restrooms",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301G",
+        "name": "Restrooms",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301X",
+        "name": "Restrooms, Ticket Sales, and Storage",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RobertHartungBuilding",
+        "name": "Robert Hartung Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RudyDavalosBasketballCenter",
+        "name": "Rudy Davalos Basketball Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SHEAb233",
+        "name": "Safety, Health And Environmental Affairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b71",
+        "name": "Santa Ana Hall Dormitory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b61",
+        "name": "Santa Clara Hall Dormitory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SARARb104",
+        "name": "Sara Raynolds Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SCHLb10",
+        "name": "Scholes Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SOM2b201",
+        "name": "School Of Medicine Building No.2",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b14",
+        "name": "Science and Mathematics Learning Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b339",
+        "name": "Science And Technology Park (Park North) Office And Light Lab Facility Light",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "TCCb334",
+        "name": "Science And Technology Park and Technology Commercialization Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "CHTMb338",
+        "name": "Science And Technology Park Center For High Tech Materials",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MTTCb341",
+        "name": "Science And Technology Park Manufacturing Technology And Training Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "NMERIb333",
+        "name": "Science And Technology Park New Mexico Engineering Research Institute",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "STPCb332",
+        "name": "Science And Technology Park Park Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b340",
+        "name": "Science And Technology Park Parking Structure",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ADVMATb337",
+        "name": "Science And Technology Park UNM/SNL Advanced Materials Laboratory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SERVb204",
+        "name": "Service Building (PPD and OCP)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SIMPb66",
+        "name": "Simpson Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b422",
+        "name": "Sleep Disorders Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b219",
+        "name": "Small Engine Repair Shop",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bSP1",
+        "name": "Smith Plaza",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SSCOb78",
+        "name": "Social Sciences",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b343",
+        "name": "Softball Home Team Facility",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b347",
+        "name": "Softball Visitors Dugout",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SHRIb171",
+        "name": "Southwest Hispanic Research Institute And Chicano Studies",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "AAPb158",
+        "name": "Southwest Research And Information Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b149",
+        "name": "Special Programs: Ronald McNair Scholars Program, Research Opportunity Program, And College Preparation Program",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b317",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b318",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b319",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b320",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b321",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b322",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b323",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b324",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b325",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b326",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b327",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b328",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b329",
+        "name": "Student Family Housing",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SHCb73",
+        "name": "Student Health Center And Undergraduate Studies",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88A",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88B",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88C",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88D",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88E",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88F",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88G",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88H",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88I",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88J",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88K",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b88L",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b90A",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b90B",
+        "name": "Student Residence Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b89",
+        "name": "Student Residence Center Commons",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b346",
+        "name": "Student Support and Success Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SSDHHb150",
+        "name": "Student Support Services And Deaf and Hard Of Hearing Services",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "NMUb60",
+        "name": "Student Union Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SURGEb226",
+        "name": "Surge Building",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "abqbuildings-T_Z",
+    "label": "ABQ Buildings T_Z",
+    "icon": "http://maps.google.com/mapfiles/ms/micons/red-pushpin.png",
+    "locs": [
+      {
+        "id": "AAPXb162",
+        "name": "Tamarind Institute",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "TECHb64",
+        "name": "Technology and Education Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "TELEMEb263",
+        "name": "Telemedicine Program",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301C",
+        "name": "Tickets/Restrooms",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "PSYCb44",
+        "name": "Title V and Mentoring Institute",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "TOWDEHb308",
+        "name": "Tow Diehm Athletic Facility",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "TRAVb65",
+        "name": "Travelstead Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "UAECb85",
+        "name": "University Advisement and Enrichment Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b302",
+        "name": "University Arena (Basketball Arena - A.K.A. The Pit) Arena",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "UCLUBb160",
+        "name": "University Club",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "UNIVHb51",
+        "name": "University House",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "UNMHb235",
+        "name": "University Of New Mexico Hospital",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b235A",
+        "name": "University Of New Mexico Hospital - Central Utility Bldg",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "UniversityServices",
+        "name": "University Services",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "UniversityStadium",
+        "name": "University Stadium",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "STADb301",
+        "name": "University Stadium Electrical Vault",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b301A",
+        "name": "University Stadium Seating And Press Box",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b284",
+        "name": "UNM Cancer Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "UNMDentalClinic",
+        "name": "UNM Dental Clinic",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b278",
+        "name": "UNM Health Services Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ACCb269",
+        "name": "UNM Hospital Ambulatory Care Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b167",
+        "name": "UNM Main Substation",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MHCPb246",
+        "name": "UNM Mental Health Center Programs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b257",
+        "name": "UNM North Campus Substation",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "UNMPress",
+        "name": "UNM Press",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b178",
+        "name": "UNM Resident Theatre Group",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b128",
+        "name": "UNM Support Building 1",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b129",
+        "name": "UNM Support Building 2",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b148",
+        "name": "UNM Support Building 3",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b202",
+        "name": "UNMH Parking Structure",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "UNMHPatientFinancialServices",
+        "name": "UNMH Patient Financial Services",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b223",
+        "name": "Warehouse",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b250",
+        "name": "Warehouse Building (PPD Quonset No.1)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b251",
+        "name": "Warehouse Building (PPD Quonset No.2)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b252",
+        "name": "Welding Shop (PPD Quonset No.3)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b261",
+        "name": "Well No.8 North Golf Course",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b750",
+        "name": "Woodward Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "WOODb82",
+        "name": "Woodward Lecture Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bYM1",
+        "name": "Yale Mall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "unmemergencyroom",
+        "name": "UNM Hospitals Emergency Room / Urgent Care",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "othercampuses",
+    "label": "Other Campuses",
+    "icon": "http://maps.google.com/mapfiles/ms/micons/red-pushpin.png",
+    "locs": [
+      {
+        "id": "Valencia1",
+        "name": "Valencia Campus",
+        "campus": "Valencia"
+      },
+      {
+        "id": "Gallup450",
+        "name": "Zuni Educational Center",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Rio Rancho1",
+        "name": "UNM West Campus",
+        "campus": "Rio Rancho"
+      },
+      {
+        "id": "Gallup8",
+        "name": "Child Care Facility",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup4",
+        "name": "College Center",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup10",
+        "name": "Construction Tech House",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup3",
+        "name": "Construction Technology",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup2",
+        "name": "Gurley Hall",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup11",
+        "name": "Health Lab",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup13",
+        "name": "Health Lab 2",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup12",
+        "name": "Learning Center",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup1",
+        "name": "Lions Hall",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup9",
+        "name": "North Education Center",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup5",
+        "name": "Physical Education",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup7",
+        "name": "Pump House",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Gallup14",
+        "name": "Student Services Center",
+        "campus": "Gallup"
+      },
+      {
+        "id": "Young Ranch401",
+        "name": "Canada De Cochiti Residence",
+        "campus": "Young Ranch"
+      },
+      {
+        "id": "Los Alamos21",
+        "name": "Los Alamos Campus Housing - 1027 9th St",
+        "campus": "Los Alamos"
+      },
+      {
+        "id": "Los Alamos20",
+        "name": "Los Alamos Campus Housing - 1203 9th St",
+        "campus": "Los Alamos"
+      },
+      {
+        "id": "Los Alamos1",
+        "name": "Los Alamos Campus",
+        "campus": "Los Alamos"
+      },
+      {
+        "id": "Taos5",
+        "name": "Business And Computer Technology Center (Klauer Campus - Bldg. #5)",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos4",
+        "name": "Kids Campus - Center For Early Learning (Klauer Campus - Bldg. #4)",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos1",
+        "name": "Martinez Hall (Klauer Campus)",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos2",
+        "name": "Peralta Hall (Klauer Campus)",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos3",
+        "name": "Pueblo Hall (Klauer Campus)",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos1003",
+        "name": "Medical Sciences",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos1002",
+        "name": "Family Resource Center",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos1006",
+        "name": "Water Resource Center",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos1005",
+        "name": "Classroom Overflow Building",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos1004",
+        "name": "Classroom Building",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos400",
+        "name": "Harwood Library/Museum",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos1001",
+        "name": "Student Resource Center",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos1000",
+        "name": "Taos Edu Cntr",
+        "campus": "Taos"
+      },
+      {
+        "id": "Taos406",
+        "name": "D.H. Lawrence Ranch",
+        "campus": "Taos"
+      }
+    ]
+  },
+  {
+    "id": "placesofinterest",
+    "label": "Places of Interest",
+    "icon": "http://www.visual-case.it/vc/pics/casetta_green.png",
+    "locs": [
+      {
+        "id": "Sevilleta407",
+        "name": "Sevilleta Field Station",
+        "campus": "Sevilleta"
+      },
+      {
+        "id": "Capilla402",
+        "name": "Capilla Peak Observatory",
+        "campus": "Capilla"
+      },
+      {
+        "id": "DuckPond",
+        "name": "Duck Pond",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "JohnsonField",
+        "name": "Johnson Field",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "UNMGolfTeamPracticeFacility",
+        "name": "UNM Golf Team Practice Facility",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ChampionshipGolfCourseClubhouse",
+        "name": "Championship Golf Course Clubhouse",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "PattiHowardOfficeBuilding",
+        "name": "Patti Howard Office Building",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MaxwellMuseum",
+        "name": "Maxwell Museum",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "HumanResources",
+        "name": "Human Resources",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "GreenhouseConservatory",
+        "name": "Greenhouse Conservatory",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "GeologyMuseum",
+        "name": "The Silver Family Geology Museum",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MeteoricMuseum",
+        "name": "Meteoric Museum",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RodeyTheatre",
+        "name": "Rodey Theatre ",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "b62B",
+        "name": "Popejoy Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "FineArtsMuseum",
+        "name": "Fine Arts Museum",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ExperimentalTheatre",
+        "name": "Experimental Theatre (The X)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "JonsonGallery",
+        "name": "Jonson Gallery",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "KellerHall",
+        "name": "Keller Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "MasleyHallArtGallery",
+        "name": "Masley Hall Art Gallery",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SommersGallery",
+        "name": "Sommers Gallery",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SmithPlaza",
+        "name": "Smith Plaza",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "YaleMall",
+        "name": "Yale Mall",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "gyms",
+    "label": "Gyms",
+    "icon": "http://maps.google.com/mapfiles/kml/shapes/play.png",
+    "locs": [
+      {
+        "id": "johnsongym",
+        "name": "Johnson Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "carlislegym",
+        "name": "Carlisle Performance Space",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "bluephonesnorth",
+    "label": "Blue Phones",
+    "icon": "http://search.unm.edu/maps/images/blue-phone.png",
+    "locs": [
+      {
+        "id": "bpContinuingEducation",
+        "name": "Continuing Education",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpLandsWest5",
+        "name": "Lands West 5",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpQLot",
+        "name": "Q Lot",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpLandsWest6",
+        "name": "Lands West 6",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpChildcareN",
+        "name": "Childcare N",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpChildcareNorth",
+        "name": "Childcare North",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpDomeniciHallN",
+        "name": "Domenici Hall N",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpChildcareSouth",
+        "name": "Childcare South",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpLandsWest4",
+        "name": "Lands West 4",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpLandsWest1",
+        "name": "Lands West 1",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpLandsWest2",
+        "name": "Lands West 2",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpLandsWest3",
+        "name": "Lands West 3",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpBrattonNE",
+        "name": "Bratton NE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpGLot",
+        "name": "G Lot",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSleepDisorders",
+        "name": "Sleep Disorders",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpBrattonMainEntrance",
+        "name": "Bratton Main Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpObservatoryNE",
+        "name": "Observatory NE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpDomeniciCenterConS",
+        "name": "Domenici Center Con S",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpDomeniciCenterLounge",
+        "name": "Domenici Center Lounge",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpFamilyPracticeNE",
+        "name": "Family Practice NE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpMentalHealthCenterNE",
+        "name": "Mental Health Center NE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpObservatorySE",
+        "name": "Observatory SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpNovitskyHallSwitchRoom",
+        "name": "Novitsky Hall Switch Room",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpFamilyPracticeS",
+        "name": "Family Practice S",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpOMILoadingDockE",
+        "name": "OMI Loading Dock E",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpTLot",
+        "name": "T Lot",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCancerCenterNW",
+        "name": "Cancer Center NW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSURGEBuildingS",
+        "name": "SURGE Building S",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSURGEBuildingSE",
+        "name": "SURGE Building SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpMed1WalkwayGroundFloor",
+        "name": "Med 1 Walkway Ground Floor",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpMed1Walkway1stFloor",
+        "name": "Med 1 Walkway 1st Floor",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpBMSBEast",
+        "name": "BMSB East",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpMed1Walkway3rdFloor",
+        "name": "Med 1 Walkway 3rd Floor",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpMed1Walkway2ndFloor",
+        "name": "Med 1 Walkway 2nd Floor",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCancerCenter3rdFloorStairs",
+        "name": "Cancer Center 3rd Floor Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpBMSBTunnel",
+        "name": "BMSB Tunnel",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSpeechandHearingSciencesE",
+        "name": "Speech and Hearing Sciences E",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSpeechandHearingSciencesW",
+        "name": "Speech and Hearing Sciences W",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpDeVargasW",
+        "name": "De Vargas W",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpITS",
+        "name": "ITS",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpITS",
+        "name": "ITS",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpUNMHParkingStructureN4",
+        "name": "UNMH Parking Structure N 4",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpUNMHParkingStructureNG",
+        "name": "UNMH Parking Structure N G",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpUNMHParkingStructureN3",
+        "name": "UNMH Parking Structure N 3",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpUNMHParkingStructureNB",
+        "name": "UNMH Parking Structure N B",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpUNMHParkingStructureN2",
+        "name": "UNMH Parking Structure N 2",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpUNMHParkingStructureN1",
+        "name": "UNMH Parking Structure N 1",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpMesaVistaStreet",
+        "name": "Mesa Vista Street",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCARS",
+        "name": "CARS",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpUNMHParkingStructureSB",
+        "name": "UNMH Parking Structure S B",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpUNMHParkingStructureS1",
+        "name": "UNMH Parking Structure S 1",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSigmaChi",
+        "name": "Sigma Chi",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW4thFloorNStairs",
+        "name": "HPS W 4th Floor N Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW3rdFloorNStairs",
+        "name": "HPS W 3rd Floor N Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW2ndFloorNStairs",
+        "name": "HPS W 2nd Floor N Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW1stFloorNStairs",
+        "name": "HPS W 1st Floor N Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSWCodeBlue3rdFloorE",
+        "name": "HPS W CodeBlue 3rd Floor E",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSWCodeBLue2ndFloorE",
+        "name": "HPS W CodeBLue 2nd Floor E",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSWCodeBlue1stFloorE",
+        "name": "HPS W CodeBlue 1st Floor E",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSE2ndFloorNEStairs",
+        "name": "HPS E 2nd Floor NE Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSE1stFloorNEStairs",
+        "name": "HPS E 1st Floor NE Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW3rdFloorWStairs",
+        "name": "HPS W 3rd Floor W Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSWCodeBlue1stFloorW",
+        "name": "HPS W CodeBlue 1st Floor W",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSE3rdFloorNEStairs",
+        "name": "HPS E 3rd Floor NE Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW4thFloorWStairs",
+        "name": "HPS W 4th Floor W Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSE4thFloorNEStairs",
+        "name": "HPS E 4th Floor NE Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW2ndFloorWStairs",
+        "name": "HPS W 2nd Floor W Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW1stFloorWStairs",
+        "name": "HPS W 1st Floor W Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpParishLibrary",
+        "name": "Parish Library",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW1stFloorSStairs",
+        "name": "HPS W 1st Floor S Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW4thFloorSStairs",
+        "name": "HPS W 4th Floor S Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW2ndFloorSStairs",
+        "name": "HPS W 2nd Floor S Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSW3rdFloorSStairs",
+        "name": "HPS W 3rd Floor S Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpAnderson",
+        "name": "Anderson",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHokonaPoliceEntrance",
+        "name": "Hokona Police Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSE4thFloorSWStairs",
+        "name": "HPS E 4th Floor SW Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSE2ndFloorSWStairs",
+        "name": "HPS E 2nd Floor SW Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSE3rdFloorSWStairs",
+        "name": "HPS E 3rd Floor SW Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHPSE1stFloorSWStairs",
+        "name": "HPS E 1st Floor SW Stairs",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHokonaSEntrance",
+        "name": "Hokona S Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpDeVargasS",
+        "name": "De Vargas S",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "bluephonessouth",
+    "label": "Blue Phones - South",
+    "icon": "http://search.unm.edu/maps/images/blue-phone.png",
+    "locs": [
+      {
+        "id": "bpITSS(CIRTPod)",
+        "name": "ITS S (CIRT Pod)",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpLagunaNorthEntrance",
+        "name": "Laguna North Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHokonaSouth",
+        "name": "Hokona South",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSocialSciencesSE",
+        "name": "Social Sciences SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpDuckPondBusStop",
+        "name": "Duck Pond Bus Stop",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSantaClaraNEntrance",
+        "name": "Santa Clara N Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpZimmermanBStairsNE",
+        "name": "Zimmerman B Stairs NE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSantaAnaNEntrance",
+        "name": "Santa Ana N Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSantaAnaS",
+        "name": "Santa Ana S",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpMasleyHallSouth",
+        "name": "Masley Hall South",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpScholesHall",
+        "name": "Scholes Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSantaAnaSEntrance",
+        "name": "Santa Ana S Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpZimmerman/DuckPond",
+        "name": "Zimmerman/Duck Pond",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSRCSouth",
+        "name": "SRC South",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpAlumniChapel",
+        "name": "Alumni Chapel",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpAlvaradoSEEntrance",
+        "name": "Alvarado SE Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpStudentUnionNE",
+        "name": "Student Union NE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpOnateHall",
+        "name": "Onate Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpFordCenter",
+        "name": "Ford Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpOrtegaHall129",
+        "name": "Ortega Hall 129",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpStudentServiceCourtyard",
+        "name": "Student Service Courtyard",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHumanitiesNorth",
+        "name": "Humanities North",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCoronadoEEntrance",
+        "name": "Coronado E Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpOrtegaHall103",
+        "name": "Ortega Hall 103",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCoronadoWEntrance",
+        "name": "Coronado W Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpStudentServicesSE",
+        "name": "Student Services SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpHumanitiesSouth",
+        "name": "Humanities South",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpJohnsonFieldNorth",
+        "name": "Johnson Field North",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCarlisleGymEast",
+        "name": "Carlisle Gym East",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoANorthEntrance",
+        "name": "Redondo A North Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpClarkHall",
+        "name": "Clark Hall ",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCentennialLibrary",
+        "name": "Centennial Library",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoANWEntrance",
+        "name": "Redondo A NW Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoNE",
+        "name": "Redondo NE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSHACParkingLotSW",
+        "name": "SHAC Parking Lot SW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoAWestEntrance",
+        "name": "Redondo A West Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpFineArtsB242",
+        "name": "Fine Arts B242",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpStudentUnionSouth",
+        "name": "Student Union South",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpArtNorth",
+        "name": "Art North",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoASWEntrance",
+        "name": "Redondo A SW Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoABEastEntrance",
+        "name": "Redondo AB East Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoNW",
+        "name": "Redondo NW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpMechanicalEngineering",
+        "name": "Mechanical Engineering",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoABWestEntrance",
+        "name": "Redondo AB West Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpArt140",
+        "name": "Art 140",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoBNWEntrance",
+        "name": "Redondo B NW Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpFineArtB132",
+        "name": "Fine Art B132",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpJohnsonFieldWest",
+        "name": "Johnson Field West",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoBWestEntrance",
+        "name": "Redondo B West Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpJohnsonMainEntrance",
+        "name": "Johnson Main Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoBSWEntrance",
+        "name": "Redondo B SW Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpArt252",
+        "name": "Art 252",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoBCEastEntrance",
+        "name": "Redondo BC East Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRegenerHall103",
+        "name": "Regener Hall 103",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoBCWestEntrance",
+        "name": "Redondo BC West Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoLaundryRoom",
+        "name": "Redondo Laundry Room",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoSW",
+        "name": "Redondo SW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpJohnsonEastEntrance",
+        "name": "Johnson East Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoDNWEntrance",
+        "name": "Redondo D NW Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoSE",
+        "name": "Redondo SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoCNWEntrance",
+        "name": "Redondo C NW Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoDWestEntrance",
+        "name": "Redondo D West Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRegenerHall114",
+        "name": "Regener Hall 114",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructureBasementNW",
+        "name": "Cornell Parking Structure Basement NW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructure4thFloorNW",
+        "name": "Cornell Parking Structure 4th Floor NW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructureGroundNW",
+        "name": "Cornell Parking Structure Ground NW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructure3rdFloorNW",
+        "name": "Cornell Parking Structure 3rd Floor NW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoCSWEntrance",
+        "name": "Redondo C SW Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructure5thFloorNW",
+        "name": "Cornell Parking Structure 5th Floor NW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructure2ndFloorNW",
+        "name": "Cornell Parking Structure 2nd Floor NW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoDSWEntrance",
+        "name": "Redondo D SW Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpYaleBusStop",
+        "name": "Yale Bus Stop",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpLoganHall",
+        "name": "Logan Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructure3rdFloorSE",
+        "name": "Cornell Parking Structure 3rd Floor SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructureGroundfloorSE",
+        "name": "Cornell Parking Structure Ground floor SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructure4thFloorSE",
+        "name": "Cornell Parking Structure 4th Floor SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructureBasementSE",
+        "name": "Cornell Parking Structure Basement SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructure5thFloorSE",
+        "name": "Cornell Parking Structure 5th Floor SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpCornellParkingStructure2ndFloorSE",
+        "name": "Cornell Parking Structure 2nd Floor SE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoCSEntrance",
+        "name": "Redondo C S Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpJohnsonFieldSouth",
+        "name": "Johnson Field South",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpParkingServices",
+        "name": "Parking Services",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpRedondoSouthALot",
+        "name": "Redondo South A Lot",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpPearlHallPatioBasement",
+        "name": "Pearl Hall Patio Basement",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpPearlHallNE",
+        "name": "Pearl Hall NE",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpPearlHall2ndFloorStudio",
+        "name": "Pearl Hall 2nd Floor Studio",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpPearlHallNW",
+        "name": "Pearl Hall NW",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpSouthLot",
+        "name": "South Lot",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpJohnsonWomenStaffLockerRoom",
+        "name": "Johnson Women's Staff Locker Room",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "bpJohnsonWomenStudentLockerRoom",
+        "name": "Johnson Women's Student Locker Room",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "unmshuttles",
+    "label": "UNM Shuttle Stops",
+    "icon": "http://google-maps-icons.googlecode.com/files/bus.png",
+    "locs": [
+      {
+        "id": "ATC1",
+        "name": "ATC-Railrunner Shuttle 1",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ATC2",
+        "name": "ATC-Railrunner Shuttle 2",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ATC3",
+        "name": "ATC-Railrunner Shuttle 3",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "ATC4",
+        "name": "ATC-Railrunner Shuttle 4",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "GQ1",
+        "name": "GQ Lot Shuttle 1",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "GQ2",
+        "name": "GQ Lot Shuttle 2",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "GQ3",
+        "name": "GQ Lot Shuttle 3",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "GQ4",
+        "name": "GQ Lot Shuttle 4",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS1",
+        "name": "Redondo Shuttle 1",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS10",
+        "name": "Redondo Shuttle 10",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS11",
+        "name": "Redondo Shuttle 11",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS12",
+        "name": "Redondo Shuttle 12",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS13",
+        "name": "Redondo Shuttle 13",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS14",
+        "name": "Redondo Shuttle 14",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS15",
+        "name": "Redondo Shuttle 15",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS16",
+        "name": "Redondo Shuttle 16",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS17",
+        "name": "Redondo Shuttle 17",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS18",
+        "name": "Redondo Shuttle 18",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS2",
+        "name": "Redondo Shuttle 2",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS3",
+        "name": "Redondo Shuttle 3",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS4",
+        "name": "Redondo Shuttle 4",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS5",
+        "name": "Redondo Shuttle 5",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS6",
+        "name": "Redondo Shuttle 6",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS7",
+        "name": "Redondo Shuttle 7",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS8",
+        "name": "Redondo Shuttle 8",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "RS9",
+        "name": "Redondo Shuttle 9",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "S1",
+        "name": "South Lot Shuttle 1",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "S2",
+        "name": "South Lot Shuttle 2",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "S3",
+        "name": "South Lot Shuttle 3",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SS1",
+        "name": "SSSC Shuttle 1",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SS2",
+        "name": "SSSC Shuttle 2",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "T1",
+        "name": "T Lot Shuttle 1",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "T2",
+        "name": "T Lot Shuttle 2",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "T3",
+        "name": "T Lot Shuttle 3",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "SS3",
+        "name": "SSSC Shuttle 3",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "restrooms",
+    "label": "Restrooms - Gender Neutral",
+    "icon": "http://maps.google.com/mapfiles/ms/micons/toilets.png",
+    "locs": [
+      {
+        "id": "restroom1",
+        "name": "UNM LGBTQ Resource Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom2",
+        "name": "Satellite Coffee",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom3",
+        "name": "UNM Communication and Journalism Department",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom4",
+        "name": "Winnings Coffee Co",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom5",
+        "name": "Satellite Coffee",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom6",
+        "name": "Flying Star",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom7",
+        "name": "La Montanita Coop",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom8",
+        "name": "Geckos Bar",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom9",
+        "name": "Walmart",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom10",
+        "name": "Yale Art Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom11",
+        "name": "UNM Ortega Hall First Floor SE Entrance",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom12",
+        "name": "Isotopes Park",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom13",
+        "name": "UNM Women's Resource Center Mesa Vista Hall",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom14",
+        "name": "Harold's Laundry",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom16",
+        "name": "Harwood Art Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom17",
+        "name": "MasterPeace Mediation",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom18",
+        "name": "National Hispanic Cultural Center",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "restroom19",
+        "name": "Village Inn",
+        "campus": "Albuquerque"
+      }
+    ]
+  },
+  {
+    "id": "computerpods",
+    "label": "Computer Pods",
+    "icon": "http://google-maps-icons.googlecode.com/files/computer.png",
+    "locs": [
+      {
+        "id": "podengineeringscience",
+        "name": "Engineering & Science Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podsciencemath",
+        "name": "Science & Math Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podmitchellhall",
+        "name": "Mitchell Hall Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "poddanesmithhall",
+        "name": "Dane Smith Hall Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podeconomics",
+        "name": "Economics Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podjohnsoncenter",
+        "name": "Johnson Center Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podstudentunion",
+        "name": "Student Union Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podstudentservicescenter",
+        "name": "Student Services Center Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podcommunicationjournalism",
+        "name": "Communication & Journalism Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podinformationtechnologies",
+        "name": "Information Technologies Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podstudentsupportservicescenter",
+        "name": "Student Support & Services Center Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podpearlhall",
+        "name": "George Pearl Hall Computer Pod",
+        "campus": "Albuquerque"
+      },
+      {
+        "id": "podstudentresidencecenter",
+        "name": "Student Residence Center Computer Pod",
+        "campus": "Albuquerque"
+      }
+    ]
+  }
+]
