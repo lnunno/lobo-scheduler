@@ -15,8 +15,8 @@ def get_campus(campus='ABQ'):
     query_str = ".//campus[@code='%s']" % (campus)
     return root.findall(query_str)[0]  # Get all the elements related to ABQ campus.
 
-def get_department(name, elt):
-    return elt.findall(".//department[@name='%s']" % (name))[0]
+def get_department(code, elt):
+    return elt.findall(".//department[@code='%s']" % (code))[0]
 
 def get_departments(elt):
     return elt.findall(".//department")
@@ -29,3 +29,6 @@ def get_college(code, elt):
 
 def get_courses(elt):
     return elt.findall('.//course')
+
+def get_course(course_number, elt):
+    return elt.findall(".//course[@number='%s']" % (course_number))[0]

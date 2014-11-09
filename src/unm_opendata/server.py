@@ -31,6 +31,20 @@ class UnmOpenDataApp(object):
         departments = schedule.get_departments(college)
         return template.render(college=college, departments=departments)
     
+    @cherrypy.expose
+    def department(self, code):
+        template = env.get_template('department.html')
+        department = schedule.get_department(code, self.campus)
+        courses = schedule.get_courses(department)
+        return template.render(department=department, courses=courses)
+    
+    @cherrypy.expose
+    def course(self, department_code, course_number):
+        template = env.get_template('course.html')
+        department = schedule.get_department(department_code, self.campus)
+        course = schedule.get_course(course_number, department)
+        return template.render(course=course)
+    
 if __name__ == '__main__':
     base_directory = os.path.dirname(os.path.abspath(__file__))
     
