@@ -56,4 +56,5 @@ if __name__ == '__main__':
                    'tools.staticdir.dir': 'static'
                    }
               }
+    cherrypy.server.socket_host = '0.0.0.0'
     cherrypy.quickstart(UnmOpenDataApp(), '/', config=config)
