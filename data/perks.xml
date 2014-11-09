@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--DO NOT USE & (AMPERSAND) - SPELL OUT "AND" OTHERWISE LOBOPERKS WILL BREAK-->
+<perks>
+
+    <perk>
+        <category>Fun/Entertainment</category>
+        <vendor>Birthday in a Box</vendor>
+        <description>15% off entire order.  Use code BB926Z.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>birthdayinabox.com</url>
+    </perk>
+
+    <perk>
+        <category>Medical</category>
+        <vendor>CPRCertified.com</vendor>
+        <description>50% off online CPR certification training.  Use code "STUDENT50".  Maximum discount is $50.</description>
+        <eligible>S</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>cprcertified.com</url>
+    </perk>
+
+    <perk>
+        <category>Safety/Protection</category>
+        <vendor>A1 Security Cameras</vendor>
+        <description>10% off professional S3-brand cameras and security systems with code UNMPROMO and UNM email address</description>
+        <eligible>SHEA</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>a1securitycameras.com</url>
+    </perk>
+
+    <perk>
+        <category>Automotive</category>
+        <vendor>Pop-A-Lock</vendor>
+        <description>$5 off locksmith service.  24/7</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone>505-242-4550</phone>
+        <email></email>
+        <url>popalockabq.com</url>
+    </perk>
+
+    <perk>
+        <category>Food/Restaurants</category>
+        <vendor>Cheese and Coffee Cafe Downtown</vendor>
+        <description>10% off lunch with purchase of sandwich and beverage - 119 San Pasquale Ave SW only. UNM ID required.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>cheeseandcoffee.com</url>
+    </perk>
+
+    <perk>
+        <category>Medical</category>
+        <vendor>RespShop</vendor>
+        <description>Use code "lobosave" for 10% off all items</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>respshop.com</url>
+    </perk>
+
+    <perk>
+        <category>Safety-Protection</category>
+        <vendor>Protect America</vendor>
+        <eligible>A</eligible>
+        <description>Up to 25% off home security!  Mention promo code "LoboRewards" while getting a home security system</description>
+        <contact>Zane Schwarzlose</contact>
+        <phone>800-951-5190</phone>
+        <email>zaneschwarzlose@protectamerica.com</email>
+        <url>protectamerica.com</url>
+    </perk>
+
+<perk>
+        <category>Healing -- Alternative</category>         
+        <vendor>Christian Raphael Hypnotherapy</vendor>
+        <description>$99 sessions (regularly $120)</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>christianraphaelhypnotherapy.com</url>
+    </perk>
+
+<perk>
+        <category>Phones/Accessories</category>         
+        <vendor>My Trendy Phone</vendor>
+        <description>15% off anything under $200 that is not already discounted.  Use mtpNPVR9 at checkout</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>mytrendyphone.com</url>
+    </perk>
+    
+<perk>
+        <category>Automotive</category>         
+        <vendor>CARiD.com</vendor>
+        <description>5% off.  Use code EDU-UNM-5 at checkout</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.CARiD.com</url>
+    </perk>
+    
+<perk>
+        <category>Insurance</category>         
+        <vendor>New York Life</vendor>
+        <description>Free Custom Financial Plan</description>
+        <eligible>SHEAR</eligible>
+        <contact>A. Tafoya</contact>
+        <phone>505-514-9310</phone>
+        <email>atafoya@ft.newyorklife.com</email>
+        <url>newyorklife.com</url>
+    </perk>
+
+<perk>
+        <category>Medical</category>         
+        <vendor>Lasik Vision Institute</vendor>
+        <description>25% off all procedures</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>(866) 368-1336 </phone>
+        <email></email>
+        <url>lasikvisioninstitute.com</url>
+    </perk>
+
+<perk>
+        <category>Automotive</category>         
+        <vendor>Galles Chevrolet Sales and Service</vendor>
+        <description>LoboPerks Pricing.  Also 10% off all service.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>505-814-1123</phone>
+        <email></email>
+        <url>GallesChevy.com</url>
+    </perk>
+   
+
+<perk>
+        <category>Fun/Entertainment</category>         
+        <vendor>Rukkus</vendor>
+        <description>10% discount.  Before purchase: must email with subject line "loboperks".</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email>concierge@rukkus.com</email>
+        <url>rukkus.com</url>
+    </perk>
+
+<perk>
+        <category>Services, Other</category>         
+        <vendor>SignPlex</vendor>
+        <description>Discounts vary per your needs.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>signplex.biz</url>
+    </perk>
+<perk>
+        <category>House/Home</category>         
+        <vendor>Homes By Helen</vendor>
+        <description>Many discounts.  Contact for details.</description>
+        <eligible>SHEAR</eligible>
+        <contact>Helen Hernandez</contact>
+        <phone>505-620-0599</phone>
+        <email>hernandez0599@msn.com</email>
+        <url>homesbyhelen.kwrealty.com</url>
+    </perk>
+<perk>
+        <category>Automotive</category>         
+        <vendor>Lobo Glassworks</vendor>
+        <description>Various discounts.  Call for details and appointment.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>505-252-5566</phone>
+        <email></email>
+        <url></url>
+    </perk>
+
+<perk>
+        <category>Online Training</category>         
+        <vendor>Kaplan Test Prep, Graduate Programs</vendor>
+        <description>10% discount on all comprehensive prep courses for:  GRE, GMAT, LSAT, MCAT, DAT, OAT, PCAT.  Can't combine with national discounts.</description>
+        <eligible>SEA</eligible>
+        <contact>Contact Rachel Ochoa to redeem your discount.</contact>
+        <phone>505-870-5985</phone>
+        <email></email>
+        <url>kaptest.com</url>
+    </perk>
+
+<perk>
+        <category>House/Home</category>         
+        <vendor>deerBrooke the LAWNSPRINKLER EXPERTS</vendor>
+        <description>5% off all service call fees and cost of materials.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>505-319-5730</phone>
+        <email>deerBrooke@msn.com</email>
+        <url>nmlawnsprinklerexperts.com</url>
+    </perk>
+
+<perk>
+        <category>Fashion/Accessories</category>         
+        <vendor>Tayloright LLC</vendor>
+        <description>Buy one get one free.  J095C tungsten carbide ring free with purchase. Checkout - in Customer Comments include "Free J095C".</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>801-755-1661</phone>
+        <email></email>
+        <url>mensweddingbands.com</url>
+    </perk>
+
+<perk>
+        <category>House/Home</category>         
+        <vendor>Backyard Buildings</vendor>
+        <description>10% off sheds and accessories.  Can't combine with other offers.  Use promo code UNM2013.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>backyardbuildings.com</url>
+    </perk>
+
+<perk>
+        <category>Phones/Accessories</category>         
+        <vendor>AT and T</vendor>
+        <description>17% off qualified service for employees.  10% for students</description>
+        <eligible>SE</eligible>
+        <contact></contact>
+        <phone>or 505-830-2720 Albuquerque</phone>
+        <email>ss4197@att.com</email>
+        <url></url>
+    </perk>
+
+<perk>
+        <category>Banking</category>         
+        <vendor>Rochelle at Rocky Mountain Mortgage</vendor>
+        <description>free home buyers seminar and prequalification</description>
+        <eligible>SHEAR</eligible>
+        <contact>Rochelle Higgin</contact>
+        <phone>505-292-0405</phone>
+        <email>rhiggin@huildmortgage.net</email>
+        <url>rmmltd.com</url>
+    </perk>
+
+<perk>
+        <category>Fun/Entertainment</category>         
+        <vendor>Costume Discounters</vendor>
+        <description>16% off.  Use discount code LPUNM. </description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>costumediscounters.com</url>
+    </perk>
+
+<perk>
+        <category>Automotive</category>         
+        <vendor>Buses for Sale</vendor>
+        <description>10% off.  Use coupon code lobo10off when submitting an inquiry. </description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>bargainbusnews.com</url>
+    </perk>
+
+<perk>
+        <category>Services/Other</category>         
+        <vendor>Anser Services</vendor>
+        <description>Free set-up and 2nd mo. call answering services free.  Mention code lobo10off. </description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>anser.com</url>
+    </perk>
+
+<perk>
+        <category>Insurance</category>         
+        <vendor>AFLAC</vendor>
+        <description>Up to 50% off individ rates!  Must work at least 19 hrs per wk at UNM.</description>
+        <eligible>HE</eligible>
+        <contact>Joshua Lawyer</contact>
+        <phone>505-901-1406</phone>
+        <email>joshua_lawyer@us.aflac.com</email>
+        <url>aflac.com</url>
+    </perk>
+
+<perk>
+        <category>Health/Fitness</category>         
+        <vendor>Stretching and Conditioning with Ballet Techniques</vendor>
+        <description>30% off.  Bring Lobo ID to 1st class at 3215 Central, Maple St. Dance Space</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>stretchingandconditioning.com</url>
+	</perk>
+
+<perk>
+        <category>Art</category>         
+        <vendor>Cozy Wall Art</vendor>
+        <description>10% off.  Use UNM10 at checkout.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+    	<url>cozywallart.com</url>
+	</perk>
+
+<perk>
+        <category>Fun/Entertainment</category>         
+        <vendor>Orlando Vacations</vendor>
+        <description>10% off.  Use LOBO10 at checkout and UNM email.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+		<url>Orlando Vacations.com/discounts</url>
+	</perk>
+
+
+<perk>
+        <category>Fun/Entertainment</category>         
+        <vendor>StubZero.com</vendor>
+        <description>10% off all tickets.  Use code LOBO10 at checkout.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+    	<email>info@stubzero.com</email>
+		<url>stubzero.com</url>
+	</perk>
+
+<perk>
+        <category>Fun/Entertainment</category>         
+        <vendor>Performance Santa Fe</vendor>
+        <description>50% discount on most presentations.  Must call.</description>
+        <eligible>S</eligible>
+        <contact></contact>
+        <phone>505-984-8759</phone>
+		<email></email>
+		<url>performancesantafe.org</url>
+	</perk>
+
+<perk>
+        <category>House/Home</category>         
+        <vendor>Myers and Myers</vendor>
+        <description>15% discount on full service listing</description>
+        <eligible>SHEAR</eligible>
+        <contact>John Myers</contact>
+    	<phone>505-401-7500</phone>
+		<email>myersandmyersrealestate@gmail.com</email>
+		<url>myersandmyersrealestate.com</url>
+	</perk>
+
+<perk>
+        <category>Health/Fitness</category>         
+        <vendor>Mantis Kung Fu Academy</vendor>
+        <description>20%off tuition</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+		<phone>505-350-1161</phone>
+		<email>nic.mantis@gmail.com</email>
+		<url>kungfuabq.com</url>
+	</perk>
+
+<perk>
+        <category>Medical</category>
+        <vendor>CPAP.com</vendor>
+        <description>10% off.  Use code "lobodiscount".</description>
+        <eligible>SHEAR</eligible>
+    	<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>CPAP.com</url>
+	</perk>
+
+<perk>
+        <category>Services, Other</category>
+        <vendor>Sky Cleaning Company</vendor>
+        <description>10% off residential cleaning.  Use code "UNM".</description>
+        <eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>skycleaningcompany.com</url>
+	</perk>
+
+<perk>
+        <category>Moving/Storage</category>
+        <vendor>USSelfStorageLocator</vendor>
+        <description>10% discount rebate</description>
+    	<eligible>SHE</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>usselfstoragelocator.com/nm/university-of-new-mexico-self-storage</url>
+	</perk>
+
+<perk>
+        <category>Safety-Protection</category>
+        <vendor>Legal Club of America</vendor>
+        <description>Family Protection Plan $11.90 monthly</description>
+		<eligible>SHEAR</eligible>
+		<contact>Rob Mabie</contact>
+		<phone></phone>
+		<email>rmabie@legalclub.com</email>
+		<url>legalcaredirect.com/partners/default.asp?ID=RMAB</url>
+	</perk>
+
+<perk>
+        <category>Services, Other</category>
+        <vendor>FreeTaxUSA.com</vendor>
+    	<description>File federal for free, state $12.95</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>freetaxusa.com</url>
+	</perk>
+
+<perk>
+        <category>Food/Restaurants</category>
+        <vendor>Milton's Cafe</vendor>
+		<description>25% discount with Lobo ID</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>Miltoncater.com</url>
+	</perk>
+
+<perk>
+        <category>Florists/Gifts</category>
+        <vendor>Gift Baskets Overseas</vendor>
+		<description>15% off most gift baskets. Promo code UNIGBO15</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>giftbasketsoverseas.com</url>
+	</perk>
+
+<perk>
+        <category>Food/Restaurants</category>
+    	<vendor>Torpedo Dog</vendor>
+		<description>10% discount with Lobo ID</description>
+		<eligible>SHE</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>torpedodog.com</url>
+	</perk>
+
+    <perk>
+        <category>Fun/Entertainment</category>
+		<vendor>Santa Ana Star Center</vendor>
+		<description>Use promo code GSLOBOPERKS.</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone>888-694-4849</phone>
+		<email>ticketoffice@santaanastarcenter.com</email>
+		<url>santaanastarcenter.com</url>
+	</perk>
+
+    <perk>
+    	<category>Automotive</category>
+		<vendor>Ford Partner Recognition</vendor>
+		<description>X-Plan pricing.  Use code unvnm.</description>
+		<eligible>HE</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>fordpartner.com</url>
+	</perk>
+
+    <perk>
+		<category>Automotive</category>
+		<vendor>Chrysler Affiliate Rewards</vendor>
+		<description>1% below factory invoice.  Call for a control #.  Use code DU0Y6S.</description>
+		<eligible>ER</eligible>
+		<contact></contact>
+		<phone>888-444-4321</phone>
+		<email></email>
+		<url>chrysleraffiliates.com</url>
+	</perk>
+
+
+<perk>
+        <category>Fun and Entertainment</category>
+        <vendor>SW Chocolate and Coffee Fest</vendor>
+        <description>20% off adult tickets online.  Use code: UNM.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+    	<phone></phone>
+		<email></email>
+		<url>ChocolateAndCoffeeFest.com</url>
+	</perk>
+
+<perk>
+        <category>Fun and Entertainment</category>
+        <vendor>Albuquerque Folk Festival</vendor>
+        <description>$3 discount coupon at abqfolkfest.org/unm/AFF_UNM_2014.pdf</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>abqfolkfest.org</url>
+	</perk>
+
+<perk>
+        <category>Automotive</category>
+        <vendor>CJ Pony Parts</vendor>
+        <description>10% off online.  Promo code:  EDUCATION</description>
+        <eligible>SHEAR</eligible>
+    	<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>cjponyparts.com</url>
+	</perk>
+
+<perk>
+        <category>Banking</category>
+        <vendor>Mountain America Credit Union</vendor>
+        <description>$100 bonus with new checking account</description>
+        <eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>macu.com/lp/mystyle-coupon-new-mexico#Mountain%20America</url>
+	</perk>
+
+<perk>
+        <category>Services Other</category>
+        <vendor>Crispy Clean Dry Cleaners</vendor>
+        <description>15% off regular prices</description>
+    	<eligible>SHE</eligible>
+		<contact></contact>
+		<phone>505-903-9347</phone>
+		<email></email>
+		<url>crispycleancleaners.com</url>
+	</perk>
+
+<perk>
+        <category>Insurance</category>
+        <vendor>Liberty Mutual</vendor>
+        <description>UNM negotiated group discounts</description>
+    	<eligible>SHEAR</eligible>
+		<contact>Ed Kibbee or Lisa Rodriquez</contact>
+		<phone>505-899-5171</phone>
+		<email>Edward.Kibbee@libertymutual.com or Lisa Rodriguez@libertymutual.com</email>
+		<url>LibertyMutual.com</url>
+	</perk>
+
+<perk>
+        <category>Banking</category>
+        <vendor>Provident Funding</vendor>
+        <description>0.25% off the cost of a home loan.  Use code M03CNJ622</description>
+		<eligible>HE</eligible>
+		<contact>Luke Olszewski</contact>
+		<phone>888-547-4050 x5078</phone>
+		<email>LOlszewski@provident.com</email>
+		<url>provident.com</url>
+	</perk>
+
+<perk>
+        <category>Apartments</category>
+        <vendor>Broadstone Apartments</vendor>
+    	<description>Deposit waived for UNM and UNMH employees</description>
+		<eligible>HE</eligible>
+		<contact></contact>
+		<phone>505-798-0505</phone>
+		<email>Broadstoneleasing@irliving.com</email>
+		<url>LiveatBroadstoneHeights.com</url>
+	</perk>
+
+<perk>
+        <category>Fun/Entertainment</category>
+        <vendor>California Theme Parks (Tix2Fun)</vendor>
+		<description>discount tickets to theme parks, attractions, etc.</description>
+		<eligible>SHEAR</eligible>
+		<contact>log in to MyUNM, Campus Life tab</contact>
+		<phone></phone>
+		<email></email>
+		<url>link is Tix2Fun logo/</url>
+	</perk>
+
+<perk>
+        <category>House/Home</category>
+        <vendor>Dish Network by Connect Your Home</vendor>
+		<description>Array of discounts on home entertainment services.  Call.</description>
+		<eligible>HEAR</eligible>
+		<contact></contact>
+		<phone>866-395-9955</phone>
+		<email></email>
+		<url>connectyourhome.com/</url>
+	</perk>
+
+<perk>
+        <category>Safety/Protection</category>
+    	<vendor>Protect Your Home by Connect Your Home</vendor>
+		<description>New customer discounts,$100 Visa card, more, code: 1068003</description>
+		<eligible>HEAR</eligible>
+		<contact></contact>
+		<phone>866-982-6612</phone>
+		<email></email>
+		<url>connectyourhome.com/</url>
+	</perk>
+
+<perk>
+        <category>Moving/Storage</category>
+		<vendor>Move 'N Store Direct</vendor>
+		<description>10% off.  Promocode = 3DUL9B910.</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>www.boxesaz.com</url>
+	</perk>
+
+<perk>
+    	<category>House/Home</category>
+		<vendor>Select Blinds</vendor>
+		<description>35% off.  Use code LOBO35 at checkout.</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>www.selectblinds.com</url>
+	</perk>
+
+
+<perk>
+        <category>Printing Promotion</category>
+    	<vendor>PensXpress.com Inc</vendor>
+		<description>10% off.  Use code cp4ed10 at checkout.</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.pensxpress.com/custompens.html</url>
+	</perk>
+
+<perk>
+        <category>Fashion/Accessories</category>
+		<vendor>Mall of Style</vendor>
+		<description>30% off Trendy Jewelry and Accessories.  Use code EDU.</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://mallofstyle.com</url>
+	</perk>
+
+<perk>
+    	<category>Online Training</category>
+		<vendor>Zaner-Bloser</vendor>
+		<description>ZB Fonts Online for $14.99.  Educational programs K - 8.  Enter code ZPFOP.</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.Zaner-Bloser.com</url>
+	</perk>
+
+
+<perk>
+    	<category>Medical</category>
+		<vendor>SeniorAdvisor.com</vendor>
+		<description>Free senior care consultation</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.SeniorAdvisor.com</url>
+	</perk>
+
+    
+
+
+
+
+    <perk>
+		<category>Health/Fitness</category>
+		<vendor>Winks Gym MMA and Fitness </vendor>
+		<description>15% off all memberships and Smart Girl Self Defense Seminars</description>
+		<eligible>SHER</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.Winksgym.com</url>
+	</perk>
+
+
+    <perk>
+    	<category>Automotive</category>
+		<vendor>Ford Partner Recognition</vendor>
+		<description>X-Plan Vehicle Pricing Program.  Use code unvnm on the website.</description>
+		<eligible>H E</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.fordpartner.com</url>
+	</perk>
+
+
+    <perk>
+		<category>Health/Fitness</category>
+		<vendor>Gonstead Family Chiropractic</vendor>
+		<description>Free in-person or phone consultation with one of our doctors. Locations at Paseo/Wyoming and Alameda/Coors</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.gonstead-nm.com</url>
+	</perk>
+	<perk>
+		<category>Health/Fitness</category>
+		<vendor>Complete Nutrition</vendor>
+		<description>25% off in-store purchases by showing LoboCard or HSC badge. Locations at ABQ Uptown and Cottonwood Corners</description>
+		<eligible></eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.completenutrition.com</url>
+	</perk>
+
+	<perk>
+		<category>Florists/Gifts</category>
+		<vendor>Gift Tree</vendor>
+		<description>15% off gift baskets, flowers and personalized gifts. Use coupon code UNM15 at checkout</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.gifttree.com</url>
+	</perk>
+    
+	<perk>
+		<category>Computers</category>
+		<vendor>The Snugg</vendor>
+		<description>10% off cases and covers for tablets, iPads, phones and other electronic equipment. Use coupon code NEXMEXICO10 at checkout</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.thesnugg.com</url>
+	</perk>
+	<perk>
+		<category>Computers</category>
+		<vendor>i-Adapters</vendor>
+		<description>10% discount on purchases of cables, adapters, and accesseories for the iPhone, iPad and iPad Minis with the lightening connector. Use coupon code UNM10 at checkout.</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.i-adapters.com</url>
+	</perk>
+	<perk>
+		<category>Automotive</category>
+		<vendor>Andy's Auto Sport</vendor>
+		<description>5% off any purchase at online store. Use coupon code LOBOPERKS at checkout</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.andysautosport.com</url>
+	</perk>
+    <perk>
+		<category>Health/Fitness</category>
+		<vendor>Bodylanguage</vendor>
+		<description>Discount packages on Barre, pilates, spinning, TRX, and fitness in Albuquerque</description>
+		<eligible>SHEA</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.bodylanguageabq.com</url>
+	</perk>
+	<perk>
+		<category>Automotive</category>
+		<vendor>Recarnation</vendor>
+		<description>$500 minimum price reduction for vehicle purchase - valid only at initial financing; 10% discount on extended service agreement, more</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.recarnationabq.com</url>
+	</perk>	
+    <perk>
+		<category>Wholesale Shopping</category>
+		<vendor>Costco</vendor>
+		<description>Receive a $10/$20 cash card with new membership. Available at any Costco location</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.costco.com</url>
+	</perk>
+	<perk>
+		<category>Taxes</category>
+		<vendor>Internal Revenue Service</vendor>
+		<description>Individual/family w/combined income less than $57,000/yr may qualify to prepare and file own taxes for free online</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.myfreetaxes.com/cnm</url>
+	</perk>
+	<perk>
+		<category>Safety/Protection</category>
+		<vendor>YourLocalSecurity.com</vendor>
+		<description>Free security system ($850 value) w/payment of $99 installation fee and purchase of alarm monitoring service</description>
+		<eligible>ER</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.yourlocalsecurity.com/nm/albuquerque</url>
+	</perk>
+	
+	<perk>
+		<category>Safety/Protection</category>
+		<vendor>EZWatch.com</vendor>
+		<description>10% off home and small business video security systems. Use code "LOBO10" at checkout</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.ezwatch.com</url>
+	</perk>
+    <perk>
+    	<category>Safety/Protection</category>
+		<vendor>Enchantment Fingerprinting Services, LLC</vendor>
+		<description>10% off fingerprinting services. Located at 2900 Louisiana Blvd NE, Suite A-3, in Albuquerque</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.enchantmentfingerprinting.com</url>
+	</perk>
+	<perk>
+		<category>Office/School Supply</category>
+		<vendor>Staples Advantage</vendor>
+		<description>Register your credit/debit card on a secure link and receive the UNM institutional price or store price, whichever is lower, when it's used at any location</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>https://contractservices.staples.com/CustomerSetupExtWeb/pcardReg.faces?campaignId=8023</url>
+	</perk>
+	<perk>
+		<category>Insurance</category>
+		<vendor>California Casualty Auto and Home Insurance</vendor>
+		<description>Higher Ed group discount</description>
+		<eligible>HEAR</eligible>
+		<contact></contact>
+		<phone>866-680-5142</phone>
+		<email></email>
+		<url>http://www.calcas.com/unm</url>
+	</perk>
+	<perk>
+		<category>Furniture</category>
+		<vendor>CORT Furniture Rental</vendor>
+		<description>various discounts on furniture and accessory packages. Use code "SHERSAR". Located at 5901 Pan American Fwy NE, in Albuquerque</description>
+		<eligible></eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.cort.com/student</url>
+	</perk>
+	<perk>
+		<category>Corporate Shopping - Custom UNM Portal</category>
+		<vendor>Corporate Shopping Company</vendor>
+		<description>various discounts from over 200 vendors who partner with Corporate Shopping Company</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.corporateshopping.com/login/lobo</url>
+	</perk>
+	<perk>
+		<category>Pets</category>
+		<vendor>Country Brook Design</vendor>
+		<description>5% off entire website including dog collars, leashes, webbing and webbing hardware. Use code "GOLOBOS" at checkout</description>
+		<eligible></eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.countrybrookdesign.com</url>
+	</perk>
+	<perk>
+		<category>Health/Fitness</category>
+		<vendor>UFC Gym</vendor>
+		<description>Employee discount: $0 enrollment; $20 off yearly membership; $200 off paid-in-full memberhship; $10 off month-to-month membership. Student discount: $10 off any membership</description>
+		<eligible>SHE</eligible>
+		<contact></contact>
+		<phone>505-341-4269</phone>
+		<email></email>
+		<url>http://www.ufcgym.com</url>
+	</perk>
+	<perk>
+		<category>Health/Fitness</category>
+		<vendor>Relax and Renew</vendor>
+		<description>$10 off first massage. Located at 1400 Carlisle NE, Suite F, in Albuquerque</description>
+		<eligible></eligible>
+		<contact></contact>
+		<phone>505-401-7927</phone>
+		<email></email>
+		<url></url>
+	</perk>
+	<perk>
+		<category>Health/Fitness</category>
+		<vendor>Powerflex Gym</vendor>
+		<description>10% off any membership program. Located at 1635 Eubank NE and 6601 4th St NW, in Albuquerque</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.powerflexgym.com</url>
+	</perk>
+	<perk>
+		<category>Health/Fitness</category>
+		<vendor>Medested Integrative Health</vendor>
+		<description>30% off introductory appointment fee and 10% off all services.  Located at 3901 Georgia St NE, in Albuquerque</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone>505-883-9355</phone>
+		<email></email>
+		<url>http://www.medested.com</url>
+	</perk>
+	<perk>
+		<category>Health/Fitness</category>
+		<vendor>eVolv Fitness</vendor>
+		<description>$10 off monthly membership fee and no sign-up fee. Plus one free week with membership. Located at 7900 San Pedro NE, in Albuquerque</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone>505-990-9395</phone>
+		<email></email>
+		<url>http://www.evolvfitnessnm.com</url>
+	</perk>
+	<perk>
+		<category>Health/Fitness</category>
+		<vendor>EarQ Family Hearing Plan</vendor>
+		<description>35% off MSRP for hearing aids.</description>
+		<eligible></eligible>
+		<contact></contact>
+		<phone>866-432-7500</phone>
+		<email></email>
+		<url>http://www.earq.com</url>
+	</perk>
+	<perk>
+		<category>Medical</category>
+		<vendor>The CPAP Shop</vendor>
+		<description>10% off all sales. Use code "Lobo10off" at checkout</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone>866-414-9700</phone>
+		<email></email>
+		<url></url>
+	</perk>
+	<perk>
+		<category>Health/Fitness</category>
+		<vendor>Compassionate Counseling</vendor>
+		<description>20% of first counseling session for adult individuals and couples.  Located at 1400 Carlisle NE, Suite F, in Albuquerque</description>
+		<eligible>SHER</eligible>
+		<contact></contact>
+		<phone>505-401-7927</phone>
+		<email></email>
+		<url>http://www.johanneleger.com</url>
+	</perk>
+	<perk>
+		<category>Health/Fitness</category>
+		<vendor>Aikido of Albuquerque</vendor>
+		<description>Free registration - $35 value. Located at 5600 McLeod NE, Suite P, in Albuquerque</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.aikidoofabq.com</url>
+	</perk>
+	<perk>
+		<category>Food/Restaurants</category>
+		<vendor>Lindy's Restaurant</vendor>
+		<description>Buy one entree and beverage and receive one entree of equal or lesser value free. Offer valid until 12/20/13. Visit us at 500 Central Av SW, in Albuquerque</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url></url>
+	</perk>
+
+	<perk>
+		<category>Food/Restaurants</category>
+		<vendor>Bistronomy B2B</vendor>
+		<description>20 off all food purchases on Tuesday between 4:00 pm - 9:00 pm (excludes alcohol purchases). Visit us at 3118 Central Av SW, in Albuquerque</description>
+		<eligible>HEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.bistronomyb2b.com</url>
+	</perk>
+	<perk>
+		<category>Moving/Storage</category>
+		<vendor>VOOVit Shipping</vendor>
+		<description>up to 25% discount per box shipped online</description>
+		<eligible>S</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.movers.com</url>
+	</perk>
+	<perk>
+		<category>Moving/Storage</category>
+		<vendor>Movers Corp</vendor>
+		<description>10% off moving labor, packing and unpacking services</description>
+		<eligible>SE</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.movers.com</url>
+	</perk>
+	<perk>
+		<category>House/Home</category>
+		<vendor>Lomas True Value Hardware</vendor>
+		<description>15% discount on all purchases. Located at 5112 Lomas Blvd NE, in Albuquerque</description>
+		<eligible></eligible>
+		<contact></contact>
+		<phone></phone>
+		<email>mailto:burtstephenson@lomastruevalue.com</email>
+		<url>http://ww3.truevalue.com/lomas</url>
+	</perk>
+	<perk>
+		<category>House/Home</category>
+		<vendor>Keepsakes Etc.</vendor>
+		<description>10% off all throw blankets and wall tapestries. Enter code "UNM10" at checkout</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.keepsakes-etc.com</url>
+	</perk>
+	<perk>
+		<category>House/Home</category>
+		<vendor>Glass Tile Store</vendor>
+		<description>10% off any purchase. Use discount code "edudiscount" at checkout</description>
+		<eligible></eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.glasstilestore.com</url>
+	</perk>
+	<perk>
+		<category>House/Home</category>
+		<vendor>DISH Network by Connect Your Home</vendor>
+		<description>Various discounts and special offers on home entertainment services</description>
+		<eligible>HEAR</eligible>
+		<contact></contact>
+		<phone>866-395-9955</phone>
+		<email></email>
+		<url>http://www.connectyourhome.com/edp/?id=cye1006%20</url>
+	</perk>
+	<perk>
+		<category>Fun/Entertainment</category>
+		<vendor>iT'Z Family Fun</vendor>
+		<description>Group rate discounts on Basic, Deluxe, and Premium packages</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>https://webhost.corecashless.com/itzusa/albuquerque/sales/index.php?p=is12t4ym</url>
+	</perk>
+	<perk>
+		<category>Fun/Entertainment</category>
+		<vendor>Costume SuperCenter</vendor>
+		<description>15% off costumes for all ages. Use promo code "DSCC159124" at checkout</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.costumesupercenter.com</url>
+	</perk>
+	<perk>
+		<category>Florists/Gifts</category>
+		<vendor>Gift Tree</vendor>
+		<description>15% off gift baskets, flowers and personalized gifts. Use promo code UNM15 at checkout</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.gifttree.com</url>
+	</perk>
+	<perk>
+		<category>Printing/Promotional</category>
+		<vendor>DIY Awards</vendor>
+		<description>15% discount on any purchase. Use code "UNEWMEXICO15" at checkout</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.diyawards.com</url>
+	</perk>
+	<perk>
+		<category>Printing/Promotional</category>
+		<vendor>CustomButtonCo.com</vendor>
+		<description>10% off custom campaign-style buttons. Use promo code "UNM10" at checkout</description>
+		<eligible>SHE</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.custombuttonco.com</url>
+	</perk>
+	<perk>
+		<category>Printing/Promotional</category>
+		<vendor>Company Folders, Inc.</vendor>
+		<description>10% off all printing and graphic design service - use discount code "LOBO10" at checkout. 20% off all photo folders - use discount code "LOBO20" at checkout </description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.companyfolders.com</url>
+	</perk>
+	<perk>
+		<category>Medical</category>
+		<vendor>Medical Goods, Inc.</vendor>
+		<description>15% off any purchase, including personal care items</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email>mailto:jon@medicalgoods.com</email>
+		<url>http://www.medicalgoods.com</url>
+	</perk>
+	
+	<perk>
+		<category>Hotels</category>
+		<vendor>Residence Inn by Marriott - ABQ Sunport</vendor>
+		<description>25% off regular room rates for Studios, 1 and 2 BR suites</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.albuquerque-inn.com</url>
+	</perk>
+	<perk>
+		<category>Hotels</category>
+		<vendor>Marriott Pyramid Albuquerque</vendor>
+		<description>$109 room rate. Ask for UNM rate</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.marriott.com/abqmc</url>
+	</perk>
+	<perk>
+		<category>Hotels</category>
+		<vendor>Embassy Suites Hotel and Spa Albuquerque</vendor>
+		<description>$129/suite (all rooms). Ask for UNM rate</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.albuquerque.embassysuites.com</url>
+	</perk>
+	<perk>
+		<category>Fashion/Accessories</category>
+		<vendor>UV Raze Sunglasses</vendor>
+		<description>$4 off retail price for sunglasses</description>
+		<eligible>SE</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.uvraze.com</url>
+	</perk> 
+	<perk>
+		<category>Fashion/Accessories</category>
+		<vendor>Simply Bags</vendor>
+		<description>10% discount on all fashion bags. Use code "UNM10" at checkout</description>
+		<eligible></eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.simply-bags.com</url>
+	</perk> 
+	<perk>
+		<category>Fashion/Accessories</category>
+		<vendor>Raymond Lee Jewelers</vendor>
+		<description>10% off purchase of $100 or more. Use code "EDU10RLJ" at checkout</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.raymondleejewelers.net</url>
+	</perk> 
+	<perk>
+		<category>Fashion/Accessories</category>
+		<vendor>Priceless Patches</vendor>
+		<description>15% discount on custom embroidered patches w/free setup</description>
+		<eligible>SE</eligible>
+		<contact></contact>
+		<phone>877-757-0055</phone>
+		<email></email>
+		<url>http://www.pricelesspatches.com</url>
+	</perk> 
+	<perk>
+		<category>Fashion/Accessories</category>
+		<vendor>Patch Superstore</vendor>
+		<description>15% discount on custom embroidered patches</description>
+		<eligible>SE</eligible>
+		<contact></contact>
+		<phone>866-577-2824</phone>
+		<email></email>
+		<url>http://www.patchsuperstore.com</url>
+	</perk> 
+	<perk>
+		<category>Fashion/Accessories</category>
+		<vendor>Origami Owl through Jaime Bengston</vendor>
+		<description>Custom jewelry purchased in a home party format</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email>mailto:JaisOwlTree@gmail.com</email>
+		<url>http://jaistree.origamiowl.com/index.cfm</url>
+	</perk> 
+	<perk>
+		<category>Children</category>
+		<vendor>Simply Unique Baby Gifts</vendor>
+		<description>10% off order w/checkout code unm10</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.simplyuniquebabygifts.com</url>
+	</perk> 
+	<perk>
+		<category>Children</category>
+		<vendor>New Mexico Kids Child Care Resource and Referral</vendor>
+		<description>Program helps families find child card in NM at no charge</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://www.newmexicokids.org</url>
+	</perk> 
+	<perk>
+		<category>Children</category>
+		<vendor>eChannel Solutions</vendor>
+		<description>10-15% discounts on baby furniture and bedding, and kid's furniture and toys. Check out the links at the LoboPerks site.</description>
+		<eligible>SHE</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://loboperks.unm.edu/categorical-listings/children.html</url>
+	</perk> 
+	<perk>
+		<category>Automotive</category>
+		<vendor>Automotive Specialists</vendor>
+		<description>$10 off 1st 5K mile oil change; 20% off labor for invoices over $200</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+		<url>http://autospecialistsabq.com</url>
+	</perk> 
+	<perk>
+		<category>Automotive</category>
+		<vendor>Go-Parts.com</vendor>
+		<description>15% discount on auto parts</description>
+		<eligible>SHEAR</eligible>
+		<contact></contact>
+		<phone></phone>
+		<email></email>
+  		<url>http://www.go-parts.com/unm</url>
+	</perk> 
+    <perk>
+        <category>Children</category>
+        <vendor>Bambi Baby</vendor>
+        <description>10% discount at online store. Use code BAMBI10 at checkout</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>http://bambibaby.com</url>
+    </perk>
+    <perk>
+        <category>Moving/Storage</category>
+        <vendor>SpareFoot</vendor>
+        <description>Receive $25 off of a storage unit.</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>http://www.sparefoot.com/Albuquerque-NM-self-storage/university-of-new-mexico.html</url>
+    </perk>
+   
+    <perk>
+        <category>Cosmetics</category>
+        <vendor>Belleza Med Spa</vendor>
+        <description>20% off skin care treatments, waxing, laser treatments (including laser tattoo removal); 10% off Image skin care products, Botox, Juvederm and Latisse</description>
+        <eligible>SHEA</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.bellezamedspa.com</url>
+    </perk>
+    <perk>
+        <category>Food/Restaurants</category>
+        <vendor>Olo Yogurt</vendor>
+        <description>20% off Olo gift cards valued at $10 or higher.  Available from our location at 3939 Central Av., ABQ</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.oloyogurt.com</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>Eat Well, Live Well, Be Well</vendor>
+        <description>Free 30 minute phone consultation, scheduled by appointment.  15% discount on Nutrition Programs for individual and small group services, including "VIP" days, 3-month or 6-month programs.</description>
+        <eligible>SHER</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email>SRaelRD@aol.com</email>
+        <url>ShelleyRael.com</url>
+    </perk>
+    <perk>
+        <category>House/Home</category>
+        <vendor>Door Emporium</vendor>
+        <description>15% discount on orders under $2,000 and 20% off orders over that amount. Use discount code "EDUDESALE15" at checkout.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.dooremporium.com</url>
+    </perk>
+    <perk>
+        <category>Food/Restaurants</category>
+        <vendor>Denny's Restaurant</vendor>
+        <description>15% on food and beverage purchases. Discount available from our locations at 2608 Central Av SE; 11261 Menaul Blvd NE; 1602 Coors Rd NW </description>
+        <eligible>SHEAR</eligible>
+        <contact>Marilyn Costanza</contact>
+        <phone></phone>
+        <email>marilyn_costanza@yahoo.com</email>
+        <url></url>
+    </perk>
+    <perk>
+        <category>House/Home</category>
+        <vendor>Air Purifier Source</vendor>
+        <description>10% discount off all air purifiers, air filters and replacement parts by Surround Air and NQ Industries.  Use discount code LOBO10 at checkout.</description>
+        <eligible>SHEAR</eligible>  
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.airpurifiersource.com</url>
+    </perk>
+    <perk>
+        <category>Fashion/Accessories</category>
+        <vendor>Brilliance, LLC</vendor>
+        <description>$50 off any product offered. Brilliance is the smarter way to buy diamonds and jewelry online</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.brilliance.com</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>Amway - Chau International </vendor>
+        <description> 10% off Nutrilite, Artistry and Legacy of Clean products</description>
+        <eligible>SHEAR</eligible>
+        <contact>Anthony Chau</contact>
+        <phone></phone>
+        <email>chau.intnl@gmail.com</email>
+        <url>www.amway.com/anthonychau</url>
+    </perk>
+    <perk>
+        <category>Online Training</category>
+        <vendor>ExamFX</vendor>
+        <description>5% discount on all training and assessments for online Insurance training courses and Series 7 Exam training</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.examfx.com</url>
+    </perk>
+    <perk>
+        <category>Fun/Entertainment</category>
+        <vendor>Dream Factory Productions</vendor>
+        <description>Receive a 10% discount on any DJ entertainment package</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email>Dreamfactory009@aol.com</email>
+        <url>Dreamfactorydjs.net</url>
+    </perk>
+    <perk>
+        <category>Fun/Entertainment</category>
+        <vendor>Orlando Vacations</vendor>
+        <description>Discounts on theme park tickets, hotels, vacation homes, car rentals and Orlando vacation packages. Log in w/user ID UNM.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email>info@orlandovacation.com</email>
+        <url>www.orlandovacation.com/discounts/</url>
+    </perk>
+    <perk>
+        <category>Computers/Electronics</category>
+        <vendor>Dell</vendor>
+        <description>2 - 30% discount on computers, other electronics and accessories. Receive Dell's Best Price Guarantee as well as their highest level of tech support</description>
+        <eligible>SEA</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.dell.com/unm</url>
+    </perk>
+    <perk>
+        <category>Fun/Entertainment</category>
+        <vendor>UNM Championship Golf Course</vendor>
+        <description>minimum 15% discount on riding rates. Call the golf shop for details as rates vary by time/day.</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone>5052774546</phone>
+        <email></email>
+        <url>www.unmgolf.com</url>
+    </perk>
+    <perk>
+        <category>Travel</category>
+        <vendor>Enterprise Car Rental</vendor>
+        <description>5% discount on rental rates when you call using code XZL3401</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.enterprise.com</url>
+    </perk>
+    <perk>
+        <category>Travel</category>
+        <vendor>National Car Rental</vendor>
+        <description>10% discount on rental rates when you call using code XZL3401</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.nationalcar.com</url>
+    </perk>
+    <perk>
+        <category>Weddings</category>
+        <vendor>A Celebration of Love Wedding Chapel</vendor>
+        <description>10% off Weddings, Renewal of Vows, and Commitment ceremonies.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email>acelebrationofloveweddings@gmail.com</email>
+        <url></url>
+    </perk>
+    <perk>
+        <category>Cosmetics</category>
+        <vendor>Avon</vendor>
+        <description>Receive 10% discount on all regularly priced items through representative deliver orders.  Avon has so much to offer!  A new catalog is available every two weeks.</description>
+        <eligible>SHEAR</eligible>
+        <contact>Lillian Valdez</contact>
+        <phone></phone>
+        <email>lillian@abq.com</email>
+        <url>www.youravon.com/lillianvaldez</url>
+    </perk>
+    <perk>
+        <category>Automotive</category>
+        <vendor>Hertz Auto Sales</vendor>
+        <description>$100 discount when using this innovative way to purchase a used car.  Use discount code R2B-CSU.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.hertzcarsales.com</url>
+    </perk>
+    <perk>
+        <category>Fashion/Accessories</category>
+        <vendor>Eddie Bauer</vendor>
+        <description>15% discount on all regularly priced merchandise.  Discount available at all Eddie Bauer locations.</description>
+        <eligible>SE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.eddiebauer.com</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>Heartline Massage Therapy</vendor>
+        <description>10% off massage therapy services. Call and ask for extension 3.</description>
+        <eligible>SHEAR</eligible>
+        <contact>Amy Zampella</contact>
+        <phone>5052552203</phone>
+        <email>amy@heartlinemassage.com</email>
+        <url>www.heartlinemassage.com</url>
+    </perk>
+    <perk>
+        <category>Banking</category>
+        <vendor>Frost Mortgage Banking Group</vendor>
+        <description>$495.00 off closing costs</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.frostmortgage.com</url>
+    </perk>
+    <perk>
+        <category>Food/Restaurants</category>
+        <vendor>Cecilia's Cafe</vendor>
+        <description>20% off your entire check (not valid on Daily Specials); 25% off Catering; from 2:00 pm 'til 5:00 pm enjoy 1/2 priced appetizers.  Discount available from our location at 2933 Monte Vista Blvd. NE (in Nob Hill).</description>
+        <eligible>HEA</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email>ceciliascafe@hotmail.com</email>
+        <url></url>
+    </perk>
+    <perk>
+        <category>Web Hosting</category>
+        <vendor>myhosting.com</vendor>
+        <description>myhosting, a global provider of Windows VPS hosting and Windows web hosting has extended a $10 off coupon when purchasing premium hosting and email sign up at their site, enter code myhostingPremSH at checkout.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>myhosting.com/windows-hosting/</url>
+    </perk>
+    <perk>
+        <category>Printing/Promotional</category>
+        <vendor>Tinyprints</vendor>
+        <description>10% discount on purchases of personalized birth announcements, business cards, party invitations and more at Tinyprints! Use discount code 10TPSPECIAL at checkout. Excludes gifts and calendars, photo books, stamps, and William Arthur and Eric Condren products. Join the Tinyprints community, check out the blog at our website.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.tinyprints.com/businesscards.htm</url>
+    </perk>
+    <perk>
+        <category>Printing/Promotional</category>
+        <vendor>Simply One Stop</vendor>
+        <description>10% off any service. We are New Mexico's only all inclusive print studio, offering business cards, post cards, flyers, banners, T-shirts and more. Discount available from our location at 1915 Menaul Blvd NE, Suite 7, in Albuquerque.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>5058830030</phone>
+        <email></email>
+        <url>www.sosprints.com/</url>
+    </perk>
+    <perk>
+        <category>Printing/Promotional</category>
+        <vendor>Shutterfly</vendor>
+        <description>15% discount on all cards and stationery! Use discount code CARDS15 at checkout from our online store. Check out the blog at our website for photo tips and ideas.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.shutterfly.com/</url>
+    </perk>
+    <perk>
+        <category>Printing/Promotional</category>
+        <vendor>MOO.com</vendor>
+        <description>10% off printing of business cards, mini-cards, postcards and more! Enter code MOOUNM at checkout. Discount available from our online store. We love to print!</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>us.moo.com/</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>GNC Health Haven</vendor>
+        <description>10% discount of retail purchases. GNC Health Haven is a family owned and operated franchise of General Nutrition Centers. Health Haven is the oldest and ONLY locally owned franchise in Central New Mexico. We provide a wide range of GNC and other Name Brand products, personalized service, low price guarantees, delivery service, knowledgeable staff, shipping and assistance with special orders. Whether you are looking for vitamins, sports nutrition, protein bars and drinks, energy products, health and beauty or weight control solutions. Come in and see us at our 1619 San Mateo Blvd NE location here in Albuquerque.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.hhgnc.com/</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>Jazzercise</vendor>
+        <description>Dance your way to health in a FUN filled hour and burn up to 600 calories. Discounted monthly pass is $30 (and no activation fee) with our auto-pay program. Membership is valid at all Albuquerque, Rio Rancho, Cedar Crest, Los Lunas, and Bosque Farms locations. Look for "Find a Class" in the top menu bar at our website for a complete schedule for each location.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.jazzercise.com/</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>CYL Fitness</vendor>
+        <description>25% off regular monthly membership fee of $40 and $1 off the regular single class price of $6. We offer fitness classes in Zumba, Yoga, Fitness BootCamp, Cardio KickBoxing, and Pilates. Discount available at our 6001 San Mateo, Suite D-1 location here in Albuquerque.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.cylabq.com/</url>
+    </perk>
+    <perk>
+        <category>Books/Periodicals</category>
+        <vendor>Bloomberg Businessweek</vendor>
+        <description>85% off regular Businessweek Magazine subscription pricing, follow the link below. No special code required.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.businessweek.com/subscribe/</url>
+    </perk>
+    <perk>
+        <category>Fashion/Accessories</category>
+        <vendor>Thirty-One Gifts</vendor>
+        <description>10% off any catalog item. Does not include hostess specials, monthly guest specials, or hostess exclusives. Please e-mail Thirty-One before placing order to request the LoboPerks discount.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email>DAMagee112@yahoo.com</email>
+        <url>www.mythirtyone.com/DennaeMagee/</url>
+    </perk>
+    <perk>
+        <category>Art</category>
+        <vendor>Tamarind Institute</vendor>
+        <description>20% discount on our inventory of fine art lithographs (call for exclusions). Discounts available from our physical location at 2500 Central Av NE (Stanford and Central) or online.</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone>5052773901</phone>
+        <email></email>
+        <url>tamarind.unm.edu/printinventory.html</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>BodyWorkNM</vendor>
+        <description>10% discount applied to currently advertised prices for affordable massage and bodywork services. A range of treatments is available including Swedish, Deep Tissue, Shiatsu, Reflexology and Polarity. Each treatment is customized to the needs of the client. Services are provided from our location at 2117 San Mateo Blvd NE. Discount cannot be applied to special offers or other discounted pricing. LoboCard must be presented at time of service to obtain discount.</description>
+        <eligible>HE</eligible>
+        <contact>Danny Lee, Licensed Massage Therapist (LMT #6910) and Natural Therapeutics Specialist (NTS)</contact>
+        <phone>5053073491</phone>
+        <email></email>
+        <url>bodyworknm.com/bwnm/</url>
+    </perk>
+    <perk>
+        <category>Cosmetics</category>
+        <vendor>Mary Kay Cosmetics</vendor>
+        <description>Receive 10% discount on all product orders. Beauty on a Budget! Skin care packed with multiple benefits. On trend color and application techniques; free samples so you can try before you buy; free makeovers and expert tips. Shop at your convenience with my personal delivery. No crowd, no parking hassles, no drain on your gas tank. My job is to help you be the best YOU that you can be!</description>
+        <eligible>SHEAR</eligible>
+        <contact>Chris Gentry, Independent Beauty Consultant</contact>
+        <phone>5055549975</phone>
+        <email>chrisgentry@marykay.com</email>
+        <url>http://www.marykay.com/chrisgentry</url>
+    </perk>
+    <perk>
+        <category>Art</category>
+        <vendor>Imagiframes</vendor>
+        <description>Imagiframes Unique Name Art. 10% discount on all website orders. We are an Albuquerque-based business and we specialize in creating distinctive one-of-a-kind "word" art using alphabet shapes found in nature. We do it all from the photography to the framing! To receive the discount, at checkout simply type in LOBOPERKS.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email>imagiframes@comcast.net</email>
+        <url>www.imagiframes.com/</url>
+    </perk>
+    <perk>
+        <category>Automotive</category>
+        <vendor>Nitrogen 2 Go</vendor>
+        <description>10% discount when converting your tires from air to nitrogen. Making this change will increase your gas mileage 4%-10%, increase your tire life up to 50%, prevent rim corrosion, and reduce your tires rolling resistance. Not to mention that the nitrogen leaks 4X slower than air. If everyone converted to nitrogen we, as a Nation, could save 3.8 billion gallons of gas per year, which would reduce the CO2 emissions by 76 trillion lbs per year -- the equivalent of planting 7,000,000 acres of forest per year! We are a mobile service and we will deliver to your home or work place.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>nitrogen2go.com/</url>
+    </perk>
+    <perk>
+        <category>Banking</category>
+        <vendor>Bank of America at Work</vendor>
+        <description>Receive discounts on banking services when you register an existing checking account with the Bank of America at Work program, or receive addtional incentive when you open a new account. Visit any banking center to register an existing or open a new account.  Be sure to notify the banking center that you are employed at UNM and would like to be a part of the Bank of America at Work program.</description>
+        <eligible>HE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>bankatwork.bankofamerica.com/homeloans/</url>
+    </perk>
+    <perk>
+        <category>House/Home</category>
+        <vendor>Allmighty Clean</vendor>
+        <description>20% discount on all cleaning services.  These Include Carpet Steam Cleaning, Tile and Grout Steam Cleaning and Upholstery Steam Cleaning. The 20% discount also applies to Carpet repair services. These services include Carpet Re-Stretch, Patching, Transition Repair and Spot Color Matching. In the event you need Emergency Flood Services we will discount our emergency service call 50%. We work with all Insurance companies so this discount will give relief for your deductible if you need Emergency Water Extraction or Structural Drying Services.  Discount available from Our World HQ located in Rio Rancho Serving the Entire Metro area.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.allmightyclean.com/</url>
+    </perk>
+   
+    
+    <perk>
+        <category>Medical</category>
+        <vendor>An Angel's Touch Massage</vendor>
+        <description>10% discount on therapeutic/medical massage and angelic intuitive. Experience healing physically and spiritually. Release scar tissue, facilitate rehabilitation from surgery, carpal tunnel system, and whiplash. Heavenly relaxation at 40 First Plaza, SW Center for Pain Management.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>5052343920</phone>
+        <email>queenwillowja@gmail.com</email>
+        <url></url>
+    </perk>
+    <perk>
+        <category>Food/Restaurants</category>
+        <vendor>The Cube BBQ</vendor>
+        <description>Receive a 10% discount everyday; on Lobo Tuesdays, receive a free soft drink with any purchase (10% discount still applies). Free deliver for students on or around campus. Discount available from our location at 1520 Central Av SE (2 blocks west of University Blvd.</description>
+        <eligible>SHEA</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.thecuberestaurant.com/</url>
+    </perk>
+    <perk>
+        <category>Healing - Alternative</category>
+        <vendor>Nob Hill Psychics and Healers</vendor>
+        <description>20 minute Psychic reading for $20. Initial Transformational Coaching, Arjuna REIKI session for $30. Nob Hill Psychics offers Tarot, Astrology, and Intuitive Guidance to help you navigate through life. We specialize in life and business coaching, and transformational support. We also offer: REIKI, Heart Healings, and classes in Meditation and Self Healing. Classes and sessions in English and Spanish. Located in Nob Hill just east of Kellys at 106 Wellesley SE. Open 7 days a week, 12-8pm. Walk ins welcome. Reiki by appointment.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email>Luis.nobhillpsychics@gmail.com</email>
+        <url></url>
+    </perk>
+    <perk>
+        <category>House/Home</category>
+        <vendor>Coldwell Banker Legacy</vendor>
+        <description>50% discount on inspections when selling or buying a home. Discount available from our location at 8900 Carmel NE.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.edsellmyhouse.com/</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>Tennis Club of Albuquerque</vendor>
+        <description>$200 activates your membership. The 1st 30 Days of Membership are FREE. We're located at 2901 Indian School Rd NE.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>5052621691</phone>
+        <email></email>
+        <url>www.tca-tennis.net/</url>
+    </perk>
+    <perk>
+        <category>Travel</category>
+        <vendor>UNM Travel Portal</vendor>
+        <description>UNM Purchasing has negotiated discounted rates with local vendors for travel and lodging. Individuals traveling out-of-state may also take advantage of negotiated rates with Colleague Campus Hotels travel and lodging discounts. Follow the Staff and Faculty link in the upper left hand corner at the website.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.campustravel.com/university/unm/index.html</url>
+    </perk>
+    <perk>
+        <category>Medical</category>
+        <vendor>SW Center for Pain</vendor>
+        <description>SW Center for Pain Management $50.00 rate (over 20% discount off regular rate) on Naprapathic treatments alternating the following: Gentle manipulation and mobilization of muscles and related soft tissue surrounding the spine and throughout the body. Some of the therapeutic agents that we use include: Electro-Therapy, Ultrasound, Traction, Moist Heat, and rehabilitative/therapeutic exercises. Discount available from our location at 40 First Plaza, Suite 62 in Albuquerque.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.swpainnm.com/</url>
+    </perk>
+    <perk>
+        <category>Hotels</category>
+        <vendor>Clarion Hotel</vendor>
+        <description>Clarion Hotel Albuquerque rates start at $59 for a standard room, $69 for a one bedroom suite (preferred UNM vendor). Hot breakfast and Wi-Fi is included. Simply ask for the University of New Mexico rate when you call the hotel. NOT valid during Balloon Fiesta or the Gathering of Nations Pow Wow. Save 15% on our banquet and meeting rooms when you show your LoboCard. Discount available from our location at 7620 Pan American Fwy NE in Albuquerque. </description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.clarionhotel.com/hotel-albuquerque-new_mexico-NM028</url>
+    </perk>
+    <perk>
+        <category>Apartments</category>
+        <vendor>Copper Ridge Apts.</vendor>
+        <description>3% discount on 1, 2 and 3 bedroom apartment homes. We're located at 557 Tramway Blvd NE in Albuquerque.</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.copperridgeaptliving.com/</url>
+    </perk>
+    <perk>
+        <category>Apartments</category>
+        <vendor>Candlelight Square Apts.</vendor>
+        <description>3% discount for UNM students. 3% Preferred Employer Discount and half off deposit on approved credit.</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.candlelightsquarenm.com/</url>
+    </perk>
+    <perk>
+        <category>Apartments</category>
+        <vendor>Las Mananitas Apts.</vendor>
+        <description>All UNM and UNMH Employees will receive a reduced deposit of $99 (usually $200-$400), and will have their application fee waived (normally $50/person). Las Mananitas is located at 6200 Montano Plaza Dr NW in Albuquerque.</description>
+        <eligible>H E</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.lasmananitasapts.com/</url>
+    </perk>
+    <perk>
+        <category>Automotive</category>
+        <vendor>Jiffy Lube</vendor>
+        <description>15% discount on all Jiffy Lube Services. Discount available at any Albuquerque Jiffy Lube location.</description>
+        <eligible>S H E A R</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.myjiffy.com/</url>
+    </perk>
+    <perk>
+        <category>Automotive</category>
+        <vendor>MVD Now</vendor>
+        <description>15% off service fee. Not to be accompanied with another discount or coupon offered by MVD Now. Discount available at all 6 Albuquerque locations.</description>
+        <eligible>S H E A</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>mvdnow.com/</url>
+    </perk>
+    <perk>
+        <category>Automotive</category>
+        <vendor>TechnaGlass</vendor>
+        <description>$25.00 off any future auto glass replacement.</description>
+        <eligible>S H E A R</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.myjiffy.com/technaglass.php</url>
+    </perk>
+    <perk>
+        <category>Bicycles</category>
+        <vendor>Fixed and Free Bike Shop</vendor>
+        <description>10% discount on service and accessories at our 114 Tulane Dr. SE location. Discount not valid on complete bikes and Oakley products.</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone>505-350-3818</phone>
+        <email></email>
+        <url></url>
+    </perk> 
+    <perk>
+        <category>Food/Restaurants</category>
+        <vendor>Arby's</vendor>
+        <description>10% discount on regular priced menu items. Value meals and advertised specials excluded. Offer available from all participating Arby's Restaurants in New Mexico.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url></url>
+    </perk>
+    <perk>
+        <category>Food/Restaurants</category>
+        <vendor>Waffle House</vendor>
+        <description>10% discount on any meal purchase. Available at the 13207 Central Ave. and 2250 Yale Blvd. locations.</description>
+        <eligible>SHEAR</eligible>
+        <contact>Donald Love</contact>
+        <phone></phone>
+        <email>donaldlove08@comcast.net</email>
+        <url>www.wafflehouse.com/menu</url>
+    </perk>
+    <perk>
+        <category>Fun/Entertainment</category>
+        <vendor>Cliff's Amusement Park</vendor>
+        <description>Cliff's offers 20% off each ride pass bought online.</description>
+        <eligible>SHEA</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>webhost.corecashless.com/cliffsamusementpark/sales/</url>
+    </perk>
+    <perk>
+        <category>Fun/Entertainment</category>
+        <vendor>Santa Fe Concert Association</vendor>
+        <description>Students -- a standing 50% off tickets on all performances of the Santa Fe Concert Association. Must call the SFCA office directly at 505-948-8759. Tickets are picked up at Will Call and student ID must be presented. Only offered while supplies last -- 50% tickets not available at the door. For H E A R -- in certain circumstances the 50% discount is offered more widely. Please check out our performance schedule and then visit the LoboPerks site a few days before your preferred concert(s) to see if a discount is being offered. Discounted tickets are offered for performances at the Lensic Performing Arts Center; St. Francis Auditorium, Cathedral Basilica, and Scottish Rite Center.</description>
+        <eligible>SHEAR</eligible>
+        <contact>SFCA Office</contact>
+        <phone>5053527426</phone>
+        <email></email>
+        <url>www.santafeconcerts.org/performances_date.php</url>
+    </perk>
+    <perk>
+        <category>Florists</category>
+        <vendor>From You Flowers</vendor>
+        <description>SAVE 20% on all regularly priced floral and gift items with From You Flowers. Use code 1046 when you order. Choose over 2,000 exquisite gift items like our bouquet of roses, voted as a CBS Morning show Best Value, or select and of our florist designed arrangements, all available nationwide for same day delivery.  Your 20% discount is also valid on our entire New line of award winning cookies, cakes and brownies. As the leader in the industry on customer service standards we have confidence your order will always be perfect so we back it with a 100% product and service guarantee. Make someone smile today - send Flowers!!!!</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>8008388853</phone>
+        <email></email>
+        <url>www.fromyouflowers.com/loboperks</url>
+    </perk>
+    <perk>
+        <category>Phones/Accessories</category>
+        <vendor>Sprint EVP</vendor>
+        <description>Sprint Employee Value Program. 18% discount on Sprint Nextel monthly services (as well as discounted accessories, no activation fee and free shipping) when ordered from the Employee Value Program. Visit the URL below and lgo in with your UNM email address.</description>
+        <eligible>HER</eligible>
+        <contact>Andrew</contact>
+        <phone>8884576294</phone>
+        <email>andrew@evpdiscount.com</email>
+        <url>www.evpdiscount.com/</url>
+    </perk>
+    <perk>
+        <category>Phones/Accessories</category>
+        <vendor>T-Mobile Employees</vendor>
+        <description>T-Mobile Advantage Program. 15% discount on T-Mobile monthly service.  Free activation.  Discounted phones/devices.  Must call 1-866-464-8662 with code 867TMOFAV.</description>
+        <eligible>HE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>pages.iloqal.com/UNM_Employees/</url>
+    </perk>
+    <perk>
+        <category>Phones/Accessories</category>
+        <vendor>T-Mobile Students</vendor>
+        <description>T-Mobile Advantage Program. 15% discount on T-Mobile monthly service.  Free activation.  Discounted phones/devices.  Must call 1-866-464-8662 with code 12761TMOFAV.</description>
+        <eligible>SA</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>pages.iloqal.com/UNM_Employees/</url>
+    </perk>
+    <perk>
+        <category>Phones/Accessories</category>
+        <vendor>Verizon EVP</vendor>
+        <description>Verizon Employee Value Program. 17% discount on Verizon monthy service (as well as 20% off accessories) when ordered from the Employee Value Program. Call to order new phones, weekdays from 7 a.m. - 4 p.m. MST.</description>
+        <eligible>HE</eligible>
+        <contact>Andrew</contact>
+        <phone>8884576294</phone>
+        <email>andrew@evpdiscount.com</email>
+        <url></url>
+    </perk>
+    <perk>
+        <category>Printing/Promotional</category>
+        <vendor>All Sports Trophies</vendor>
+        <description>10 cents per character on plaque engraving. 20% off AIRFLYTE products, excluding acrylics and glass. Discount available at our 2939 Monte Vista Blvd NE location.</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.allsportstrophies.net</url>
+    </perk>
+    <perk>
+        <category>House/Home</category>
+        <vendor>CORT Furniture</vendor>
+        <description>Student Rental Packages - (3) Room Furniture Rental Package on a 12 month lease $99.00 per month, (3) Room Furniture Rental package on a 9 month lease $129.00 per month. Add a bedroom $55 per month to any pkg, Add a study, (Desk, Chair and Lamp), $30 per month to any pkg. No Credit Check, Must have a valid Student ID, 1 Month Refundable Security Deposit Required. 10% off in our clearance center. Please mention you saw us on UNM's LoboPerks website. (Discount can be applied to all segments above "SHERSAR"). Discount available at our 5901 Pan American Fwy NE location.</description>
+        <eligible>S</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.cort.com/student</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>Aurafitness</vendor>
+        <description>$2 discount on yoga classes offered on the schedule. 10% off Personal Training packages. Discounts available from our location at 1337 Gusdorf Road, Suite S, Taos, NM.</description>
+        <eligible>SE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.aurafitnesstaos.com/</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>Defined Fitness</vendor>
+        <description>Commit to your health. Never to a contract. Receive a discounted rate of only $34+tax per month! Membership includes access to all club locations, group exercise classes, aquatics complex, state-of-the-art equipment and free supervised child care.</description>
+        <eligible>SHE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.defined.com</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>Dragonfire Self Defense</vendor>
+        <description>20% discount on any classes or training, whether ongoing or 1 - 2 day seminar style training courses we offer.  We offer training in Self Defense including; Kenpo Karate, Ground fighting applications, weapons training, Armored Reality Based training, and Firearms instruction. Discounts available from our location at 5200 Eubank Blvd NE, Suite #A-7.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.dragonfiredefense.com/</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>High Desert Yoga</vendor>
+        <description>Students:  $10 cash per class with ID.   Employees with ID: 10 class pack for $130.00. Discounts at the 4600 Copper Av NE location.  </description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.highdesertyoga.com/</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>LA Boxing</vendor>
+        <description>$20 discount on monthly dues and 50% off enrollment fees or $200 discount on paid-in-full membership. Discounts available at our 5400 Sevilla NW (Westside) and 4520 Alexander Blvd NE (Eastside) locations.</description>
+        <eligible>HER</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>laboxing.com/</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>Los Alamos Fitness Center</vendor>
+        <description>$39.95 + tax per month for 3 month commitment -- paid in full. Discount available from our location at 771 Central Avenue, Unit 28, Los Alamos, NM.</description>
+        <eligible>SE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.losalamosfitness.com/</url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>NM Sports and Wellness</vendor>
+        <description>Receive $8.00 off monthly dues and a reduced enrollment fee. Discounts available at all five New Mexico Sports and Wellness locations.</description>
+        <eligible>SHE</eligible>
+        <contact>Contact Nell Kane for a 3-day trial membership.</contact>
+        <phone>5058884811</phone>
+        <email>nkane@wellbridge.com</email>
+        <url></url>
+    </perk>
+    <perk>
+        <category>Health/Fitness</category>
+        <vendor>Snap Fitness</vendor>
+        <description>Discounted membership of $29.95 includes: 24/7 365 days a year access to all 4 Albuquerque area locations, plus access to clubs nationwide; no contracts, free enrollment; pre-pay discounts or pay month-to-month; free online resources (workout plans, meal plans, etc.); free equipment orientation for each member and consultation with a personal trainer every 3 months; 4th and Menaul location offers 24 hour non-stop group fitness classes (yoga, boot camp, Latin  dance, etc.).</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>5059089978</phone>
+        <email>abq4@snapfitness.com</email>
+        <url>www.snapfitness.com/</url>
+    </perk>
+    <perk>
+        <category>House/Home</category>
+        <vendor>Home Authority</vendor>
+        <description>15% discount on full service Easy Listing for home sales in the Albuquerque Metro area.</description>
+        <eligible>SHEAR</eligible>
+        <contact>John Myers</contact>
+        <phone>5054017500</phone>
+        <email></email>
+        <url>albuquerquenmrealestateandhomes.com/</url>
+    </perk>
+    <perk>
+        <category>House/Home</category>
+        <vendor>Just Sprinklers</vendor>
+        <description>5% discount from our DIY center for sprinklers, ponds, rain catchment systems and much, much more. Discount available from our location at 9140 Montgomery NE. All active and former military regardless of UNM status are also eligible for discount.</description>
+        <eligible>R</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.justsprinklers.com/</url>
+    </perk>
+    <perk>
+        <category>House/Home</category>
+        <vendor>RE/MAX Alliance Realtors</vendor>
+        <description>We offer home and real estate services for buyers and sellers in all areas of the Greater Albuquerque area -- free home showing consultation and representation for buyers; $400 listing fee waived for buyers.  Discount available at our location at 9577 Osuna Road, Suite B (Osuna @ Eubank).</description>
+        <eligible>SHEAR</eligible>
+        <contact>Matt Templeton</contact>
+        <phone>5053010694</phone>
+        <email></email>
+        <url>www.homesforsaleinabq.com/</url>
+    </perk>
+    <perk>
+        <category>Moving/Storage</category>
+        <vendor>Moving Companies</vendor>
+        <description>Comparison shopping on various moving services and a $50 check for a completed move to avail utilities at the new location. All it takes is a valid employee/student ID and the invoice, and we will mail a $50 check right back.</description>
+        <eligible>SE</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.movers.com</url>
+    </perk>
+    <perk>
+        <category>Printing/Promotional</category>
+        <vendor>Pegasus Printing and Marketing</vendor>
+        <description>20% off online advertised rates. We offer discounts on business cards, flyers, banners, postcards, newsletters and more, so please call us for special quotes and additional details including location information. Additional volume discounts available.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone>5057507280</phone>
+        <email></email>
+        <url>www.argyleprint.com/</url>
+    </perk>
+    <perk>
+        <category>Printing/Promotional</category>
+        <vendor>Burris Computer Forms</vendor>
+        <description>10% discount on blank, printable forms (see URL) on online orders up to $600. Print-your-own postcards, note cards, greeting cards, door hangers, etc. Use coupon code BURRISLOBO at checkout.</description>
+        <eligible>SHEA</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>pcforms.com/</url>
+    </perk>
+    <perk>
+        <category>Travel</category>
+        <vendor>FasTPark and Relax </vendor>
+        <description>FasTPark and Relax, Offsite Airport Parking and Shuttle Company. Savings of $.25/day on parking at the FastPark and Relax facility at 2801 Yale Blvd. Enroll (see URL) in our Free Relax for Rewards program to receive all benefits of this discount.</description>
+        <eligible>SHEAR</eligible>
+        <contact></contact>
+        <phone></phone>
+        <email></email>
+        <url>www.thefastpark.com/marketing/albuquerque/jr16corp.html</url>
+    </perk>
+</perks>
