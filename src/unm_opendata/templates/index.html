@@ -3,6 +3,24 @@
 {% block head %}
 {% endblock %}
 {% block content %}
+<div class="grid">
+<div class="row">
+<div class="span12">
+	<div class="tile span12 double-vertical live" data-role="live-tile" data-effect="slideLeft">
+    {% for i in images %}
+    <div class="tile-content image">
+    	<img src="{{i}}" style="min-width: 100%; min-height: 100%; max-height: 125%">
+    	<div class="tile-status bg-dark opacity">
+    		<span class="label">
+    			{{captions[loop.index0]}}
+    		</span>
+    	</div>
+    </div>
+    {% endfor %}
+</div>		
+</div>
+</div>
 <h1>Lobo Scheduler</h1>
 <p>Welcome to Lobo Scheduler! This site makes it easy to navigate the UNM course catalog and plan out your next semester.</p>
+</div>
 {% endblock %}

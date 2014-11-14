@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Lobo Scheduler - Colleges{% endblock %}
+{% block head %}
+{% endblock %}
+{% block content %}
+	<div class="listview-outlook">
+	{% for s in subjects %}
+		{% set code = s.attrib['code'] %}
+		<a href="/subject?code={{code}}" class="list">
+		<div class="list-content">
+            <span class="list-title">{{s.attrib['name']}}</span>
+        </div>
+		</a>
+	{% endfor %} 
+	</div>
+{% endblock %}

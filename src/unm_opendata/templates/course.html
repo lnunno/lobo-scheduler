@@ -4,6 +4,28 @@
 {% endblock %}
 {% block content %}
 <h1>{{course.heading()}}</h1>
-<p class="tertiary-text">{{course.description}}</p>
 
+<p class="tertiary-text"></p>
+<div class="accordion" data-role="accordion">
+    <div class="accordion-frame active">
+        <a href="#" class="heading">Course description</a>
+        <div class="content"><p>{{course.description}}</p></div>
+    </div>
+</div>
+
+<h2>Sections</h2>
+<div class="tab-control" data-role="tab-control">
+    <ul class="tabs">
+    	{# The actual tab controls, content is below in the frames div. #}
+    	{% for s in course.sections %}
+        <li {% if loop.index == 1 %}class="active"{% endif %}><a href="#_section_{{loop.index}}">Tab {{loop.index}}</a></li>
+        {% endfor %}
+    </ul>
+ 
+    <div class="frames">
+    	{% for s in course.sections %}
+        <div class="frame" id="_section_{{loop.index}}">page 1</div>
+        {% endfor %}
+    </div>
+</div>
 {% endblock %}
