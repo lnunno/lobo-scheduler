@@ -4,17 +4,14 @@
 {% endblock %}
 {% block content %}
 	{% set dcode = department.attrib['code'] %}
-	{% for c in courses %}
-		{% set course_number = c.attrib['number'] %}
-		<a href="/course?department_code={{dcode}}&course_number={{course_number}}">
-		<div class="tile double double-vertical bg-darkRed">
-		    <div class="tile-content icon">
-		        <i class="icon-lab"></i>
-		    </div>
-		    <div class="tile-status">
-		        <span class="name">{{c.attrib['title']}}</span>
-		    </div>
+	<div class="listview-outlook">
+	{% for s in subjects %}
+		{% set subject_code = s.attrib['code'] %}
+		<a href="/subject?code={{subject_code}}" class="list">
+		<div class="list-content">
+	        <span class="list-title">{{s.attrib['name']}}</span>
 		</div>	
 		</a>
 	{% endfor %} 
+	</div>
 {% endblock %}

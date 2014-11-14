@@ -3,17 +3,14 @@
 {% block head %}
 {% endblock %}
 {% block content %}
+	<div class="listview-outlook">
 	{% for c in colleges %}
 		{% set code = c.attrib['code'] %}
-		<a href="/college?code={{code}}">
-		<div class="tile double double-vertical bg-darkRed">
-		    <div class="tile-content icon">
-		        <i class="icon-lab"></i>
-		    </div>
-		    <div class="tile-status">
-		        <span class="name">{{c.attrib['name']}}</span>
-		    </div>
-		</div>	
+		<a href="/college?code={{code}}" class="list">
+		<div class="list-content">
+            <span class="list-title">{{c.attrib['name']}}</span>
+        </div>
 		</a>
 	{% endfor %} 
+	</div>
 {% endblock %}

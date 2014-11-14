@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}{{subject.attrib['name']}}{% endblock %}
+{% block head %}
+{% endblock %}
+{% block content %}
+	{% set scode = subject.attrib['code'] %}
+	<div class="listview-outlook" data-role="listview" id="course_list">
+	{% set prev_course_number = 'A' %}
+	{% for c in courses %}
+		{% set course_number = c.attrib['number'] %}
+		{% if util.is_new_course_level(prev_course_number,course_number) %}
+		{% if prev_course_number != 'A' %}
+		</div>
+		</div> {# Close old group. #}
+		{% endif %}
+		{# Need a new list group. #}
+		<div class="list-group"> 
+			<a href class="group-title">{{util.course_level_title(course_number)}}</a>
+			<div class="group-content">
+		{% endif %}
+			    <a href="/course?subject_code={{scode}}&course_number={{course_number}}" class="list">
+			        <div class="list-content">
+		                <span class="list-title">{{scode}} {{course_number}}: {{c.attrib['title']}}</span>
+			        </div>
+			    </a>
+	    {% set prev_course_number = course_number %}		
+	{% endfor %} 
+	</div>
+	</div>
+	</div>
+{% endblock %}
+{% block scripts %}
+<script type="text/javascript">
+	// To make sure that clicking on a link navigates the user to the course page.
+	$("#course_list").listview({
+		onListClick: function(_list){
+		document.location.href = list.attr('href');
+		}
+	});
+</script>
+{% endblock %}

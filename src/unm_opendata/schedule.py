@@ -21,6 +21,12 @@ def get_department(code, elt):
 def get_departments(elt):
     return elt.findall(".//department")
 
+def get_subjects(elt):
+    return elt.findall(".//subject")
+
+def get_subject(code, elt):
+    return elt.findall(".//subject[@code='%s']" % (code))
+    
 def get_colleges(elt):
     return elt.findall(".//college")
 
@@ -28,7 +34,20 @@ def get_college(code, elt):
     return elt.findall(".//college[@code='%s']" % (code))[0]
 
 def get_courses(elt):
-    return elt.findall('.//course')
+    if type(elt) is list:
+        # List of elements.
+        for e in elt:
+            for item in e.findall('.//course'):
+                yield item
+    else:    
+        return elt.findall('.//course')
 
 def get_course(course_number, elt):
-    return elt.findall(".//course[@number='%s']" % (course_number))[0]
+    if type(elt) is list:
+        # List of elements.
+        for e in elt:
+            ls = e.findall(".//course[@number='%s']" % (course_number))
+            if len(ls) > 0:
+                return ls[0]
+    else:
+        return elt.findall(".//course[@number='%s']" % (course_number))[0]

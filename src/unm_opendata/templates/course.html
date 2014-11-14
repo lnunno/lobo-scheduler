@@ -1,7 +1,9 @@
 {% extends "base.html" %}
-{% block title %}{{course.attrib['title']}}{% endblock %}
+{% block title %}{{course.title}}{% endblock %}
 {% block head %}
 {% endblock %}
 {% block content %}
-	 
+<h1>{{course.heading()}}</h1>
+<p class="tertiary-text">{{course.description}}</p>
+
 {% endblock %}

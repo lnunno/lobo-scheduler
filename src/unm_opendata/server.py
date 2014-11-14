@@ -7,6 +7,7 @@ import cherrypy
 import os
 from unm_opendata.jinja_init import env
 from unm_opendata import schedule
+from unm_opendata.models import Course
 
 class UnmOpenDataApp(object):
     
@@ -35,15 +36,24 @@ class UnmOpenDataApp(object):
     def department(self, code):
         template = env.get_template('department.html')
         department = schedule.get_department(code, self.campus)
-        courses = schedule.get_courses(department)
-        return template.render(department=department, courses=courses)
+        subjects = schedule.get_subjects(department)
+        return template.render(department=department, subjects=subjects)
     
     @cherrypy.expose
-    def course(self, department_code, course_number):
+    def subject(self, code):
+        template = env.get_template('subject.html')
+        subject = schedule.get_subject(code, self.campus)
+        courses = schedule.get_courses(subject)
+        return template.render(subject=subject[0], courses=courses)
+    
+    @cherrypy.expose
+    def course(self, subject_code, course_number):
         template = env.get_template('course.html')
-        department = schedule.get_department(department_code, self.campus)
-        course = schedule.get_course(course_number, department)
-        return template.render(course=course)
+        subject = schedule.get_subject(subject_code, self.campus)
+        course = schedule.get_course(course_number, subject)
+        course = Course(course, subject[0])
+        backlink = '/subject?code=%s' % (subject[0].attrib['code'])
+        return template.render(subject=subject, course=course, backlink=backlink)
     
 if __name__ == '__main__':
     base_directory = os.path.dirname(os.path.abspath(__file__))
