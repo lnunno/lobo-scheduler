@@ -28,6 +28,7 @@ class UnmOpenDataApp(object):
     def colleges(self):
         template = env.get_template('colleges.html')
         colleges = schedule.get_colleges(self.campus)
+        colleges = util.sort_by_attribute(colleges, 'name')
         return template.render(colleges=colleges)
     
     @cherrypy.expose
@@ -88,4 +89,5 @@ if __name__ == '__main__':
                    }
               }
     cherrypy.server.socket_host = '0.0.0.0'
+    cherrypy.server.socket_port = 8080
     cherrypy.quickstart(UnmOpenDataApp(), '/', config=config)
