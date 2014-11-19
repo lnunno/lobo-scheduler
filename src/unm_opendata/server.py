@@ -61,14 +61,11 @@ class UnmOpenDataApp(object):
         return template.render(subject=subject[0], courses=courses, backlink='/subjects')
     
     @cherrypy.expose
-    def course(self, course_number, course_title=None, subject_code=None):
+    def course(self, subject_code, course_number ):
         template = env.get_template('course.html')
-        if subject_code:
-            subject = schedule.get_subject(subject_code, self.campus)
-        elif course_title:
-            subject = schedule.get_subject_by_class(course_title, self.campus)
+        subject = schedule.get_subject(subject_code, self.campus)
         course = schedule.get_course(course_number, subject)
-        course = Course(course, subject[0])
+        course = Course(course)
         backlink = '/subject?code=%s' % (subject[0].attrib['code'])
         return template.render(subject=subject, course=course, backlink=backlink)
     

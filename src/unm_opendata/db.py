@@ -9,6 +9,7 @@ from unm_opendata.constants import SCHED_XML_PATH, BUILDING_JSON_PATH,\
     PERKS_JSON_PATH
 import json
 from unm_opendata import schedule
+from unm_opendata.models import Course, CourseEncoder
 
 client = MongoClient()
 db = client.unm_app_db
@@ -48,9 +49,18 @@ def load_perks_data():
     c = db.perks
     for i in js:
         c.insert(i)
+
+def load_courses():
+    campus = schedule.get_campus()
+    courses = [Course(c) for c in campus.findall('.//course')]
+    table = db.courses
+    encoder = CourseEncoder()
+    for c in courses:
+        value = encoder.default(c)
+        table.save(value)
     
 def main():
-    save_sample_data()
+    load_courses()
     
 if __name__ == '__main__':
     main()

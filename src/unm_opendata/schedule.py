@@ -5,7 +5,7 @@ Created on Nov 8, 2014
 
 @author: lnunno
 '''
-import xml.etree.ElementTree as ET
+from lxml import etree as ET  # @UnresolvedImport
 from unm_opendata.constants import SCHED_XML_PATH
 from unm_opendata.models import Course
 
@@ -28,9 +28,6 @@ def get_subjects(elt):
 def get_subject(code, elt):
     return elt.findall(".//subject[@code='%s']" % (code))
 
-def get_subject_by_class(title, elt):
-    return elt.find(".//subject/..course[@title='%s']" % (title))
-    
 def get_colleges(elt):
     return elt.findall(".//college")
 
@@ -51,11 +48,11 @@ def search_course(search_term, elt):
     ls = elt.findall('.//course')
     courses = [Course(c) for c in ls]
     for c in courses:
-        if search_term in c.number:
+        if c.number and search_term in c.number.lower():
             yield c
-        elif search_term in c.title.lower():
+        elif c.title and search_term in c.title.lower():
             yield c
-        elif search_term in c.description.lower():
+        elif c.description and search_term in c.description.lower():
             yield c
     
 def get_course(course_number, elt):
