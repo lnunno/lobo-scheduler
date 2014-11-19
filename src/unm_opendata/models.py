@@ -4,26 +4,43 @@ Created on Nov 13, 2014
 @author: lnunno
 '''
 from unm_opendata import util
+import time
 
 class Course(object):
     
-    def __init__(self, data, subject):
-        self.subject = subject
-        self.subject_name = subject.attrib['name']
-        self.subject_code = subject.attrib['code']
+    def __init__(self, data, subject=None):
+        if subject:
+            self.subject = subject
+            self.subject_name = subject.attrib['name']
+            self.subject_code = subject.attrib['code']
         self.data = data
         self.number = data.attrib['number']
         self.title = data.attrib['title']
         self.description = data.find('catalog-description').text
-        self.sections = [Section(s) for s in util.sort_by_attribute(data.findall('section'),'number')]
-        
+        self.sections = [Section(s) for s in util.sort_by_attribute(data.findall('section'), 'number')]
+    
+    def __repr__(self, *args, **kwargs):
+        return '%s %s: %s' % (self.number, self.title, self.description)
+    
     def heading(self):
         return '%s %s: %s' % (self.subject_code, self.number, self.title)
 
+def get_time_str(text):
+    if text:
+        time_obj = time.strptime(text, '%H%M')
+        return ('%d:%d' % (time_obj.tm_hour, time_obj.tm_min))
+    else:
+        return text
+    
 class MeetingTime(object):
     
     def __init__(self, data):
         self.data = data
+        self.start_date = data.find('start-date').text
+        self.end_date = data.find('end-date').text
+        self.start_time = get_time_str(data.find('start-time').text) 
+        self.end_time = get_time_str(data.find('end-time').text)
+        
     
 class Section(object):
     
@@ -35,11 +52,11 @@ class Section(object):
         wait_elem = data.find('waitlist')
         self.num_enrolled = enroll_elem.text
         self.max_enroll = enroll_elem.attrib['max']
-        self.percent_enrolled = min(100,int(self.num_enrolled)/int(self.max_enroll)*100) if int(self.max_enroll) > 0 else 0
+        self.percent_enrolled = min(100, int(self.num_enrolled) / int(self.max_enroll) * 100) if int(self.max_enroll) > 0 else 0
         self.num_wait = wait_elem.text
         self.max_wait = wait_elem.attrib['max']
         self.instructors = data.findall('.//instructor')
-        self.meeting_times = data.findall('.//meeting-time')
+        self.meeting_times = [MeetingTime(mt) for mt in data.findall('.//meeting-time')]
         self.credits = data.find('credits').text
         self.fees = data.find('fees')
 #         self.start_time = data.find('start-time').text

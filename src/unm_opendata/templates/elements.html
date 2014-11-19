@@ -1,4 +1,9 @@
 {# This contains generic HTML element macros. #}
 
-{% macro section_table() %}
+{% macro course_li(course) %}
+<a href="#" class="list">
+	<span class="list-title">{{c.number}}: {{c.title}}</span>
+    <div class="list-content">{{c.description}}</div>
+</a>
 {% endmacro %}
+

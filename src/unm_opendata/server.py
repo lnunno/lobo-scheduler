@@ -4,25 +4,16 @@ Created on Oct 5, 2014
 @author: lnunno
 '''
 import cherrypy
-from unm_opendata.constants import BASE_DIR, CAMPUS_IMAGES_DIR,\
-    CAMPUS_IMAGE_LIST
+from unm_opendata.constants import BASE_DIR
 from unm_opendata.jinja_init import env
 from unm_opendata import schedule
 from unm_opendata import util
 from unm_opendata.models import Course
-import os
 
 class UnmOpenDataApp(object):
     
     def __init__(self):
         self.campus = schedule.get_campus('ABQ') 
-    
-    @cherrypy.expose
-    def index(self):
-        template = env.get_template('index.html')
-        images = ['/images/campus_images/%s' % f for f in CAMPUS_IMAGE_LIST]
-        captions = [os.path.split(os.path.splitext(f)[0])[1] for f in CAMPUS_IMAGE_LIST]
-        return template.render(images=images, captions=captions)
     
     @cherrypy.expose
     def colleges(self):
@@ -45,7 +36,7 @@ class UnmOpenDataApp(object):
         subjects = schedule.get_subjects(department)
         return template.render(department=department, subjects=subjects)
     
-    @cherrypy.expose
+    @cherrypy.expose(alias='index')
     def subjects(self):
         template = env.get_template('subjects.html')
         subjects = schedule.get_subjects(self.campus)
@@ -70,14 +61,23 @@ class UnmOpenDataApp(object):
         return template.render(subject=subject[0], courses=courses, backlink='/subjects')
     
     @cherrypy.expose
-    def course(self, subject_code, course_number):
+    def course(self, course_number, course_title=None, subject_code=None):
         template = env.get_template('course.html')
-        subject = schedule.get_subject(subject_code, self.campus)
+        if subject_code:
+            subject = schedule.get_subject(subject_code, self.campus)
+        elif course_title:
+            subject = schedule.get_subject_by_class(course_title, self.campus)
         course = schedule.get_course(course_number, subject)
         course = Course(course, subject[0])
         backlink = '/subject?code=%s' % (subject[0].attrib['code'])
         return template.render(subject=subject, course=course, backlink=backlink)
     
+    @cherrypy.expose
+    def search(self, q):
+        results = schedule.search_course(q, self.campus)
+        for r in results:
+            print(r.title, r.description)
+       
 if __name__ == '__main__':
     
     config = {
