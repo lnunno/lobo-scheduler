@@ -10,7 +10,8 @@ import json
 
 class Course(object):
     
-    def __init__(self, data):
+    def __init__(self, data, semester=''):
+        self.semester = semester
         self.subject = data.getparent()
         self.subject_name = self.subject.attrib['name']
         self.subject_code = self.subject.attrib['code']
@@ -81,6 +82,7 @@ class Section(object):
     
     def __init__(self, data):
         self.data = data
+        self.title = data.find('section-title').text
         self.number = data.attrib['number']
         self.crn = data.attrib['crn']
         enroll_elem = data.find('enrollment')

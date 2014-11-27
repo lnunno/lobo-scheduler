@@ -52,12 +52,12 @@ def load_perks_data():
 
 def load_courses():
     campus = schedule.get_campus()
-    courses = [Course(c) for c in campus.findall('.//course')]
+    courses = [Course(c,semester=schedule.semester) for c in campus.findall('.//course')]
     table = db.courses
     encoder = CourseEncoder()
     for c in courses:
         value = encoder.default(c)
-        table.save(value)
+        table.insert(value)
     
 def main():
     load_courses()

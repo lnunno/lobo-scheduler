@@ -11,6 +11,7 @@ from unm_opendata.models import Course
 
 xml_file = ET.parse(SCHED_XML_PATH)
 root = xml_file.getroot()
+semester = root.find('semester').attrib['name']
 
 def get_campus(campus='ABQ'):
     query_str = ".//campus[@code='%s']" % (campus)
