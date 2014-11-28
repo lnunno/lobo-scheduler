@@ -39,7 +39,7 @@ class CourseEncoder(JSONEncoder):
 def get_time_str(text):
     if text:
         time_obj = time.strptime(text, '%H%M')
-        return ('%d:%d' % (time_obj.tm_hour, time_obj.tm_min))
+        return ('%02d:%02d' % (time_obj.tm_hour, time_obj.tm_min))
     else:
         return text
     

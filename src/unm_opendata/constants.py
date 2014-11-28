@@ -8,6 +8,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.abspath(os.path.join(BASE_DIR, '../../data/'))
 SCHED_XML_PATH = os.path.join(DATA_DIR, 'current.xml')
+SCHED_XML_PATH_SPRING2015 = os.path.join(DATA_DIR, 'next1.xml')
 SCHED_JSON_PATH = os.path.join(DATA_DIR, 'current.json')
 
 BUILDING_JSON_PATH = os.path.join(DATA_DIR, 'abqbuildings.json')

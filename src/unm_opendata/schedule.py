@@ -6,10 +6,10 @@ Created on Nov 8, 2014
 @author: lnunno
 '''
 from lxml import etree as ET  # @UnresolvedImport
-from unm_opendata.constants import SCHED_XML_PATH
+from unm_opendata.constants import SCHED_XML_PATH, SCHED_XML_PATH_SPRING2015
 from unm_opendata.models import Course
 
-xml_file = ET.parse(SCHED_XML_PATH)
+xml_file = ET.parse(SCHED_XML_PATH_SPRING2015)
 root = xml_file.getroot()
 semester = root.find('semester').attrib['name']
 
