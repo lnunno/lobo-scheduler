@@ -10,6 +10,7 @@ from unm_opendata.constants import SCHED_XML_PATH, BUILDING_JSON_PATH,\
 import json
 from unm_opendata import schedule
 from unm_opendata.models import Course, CourseEncoder
+import re
 
 client = MongoClient()
 db = client.unm_app_db
@@ -58,7 +59,13 @@ def load_courses():
     for c in courses:
         value = encoder.default(c)
         table.insert(value)
-    
+        
+def search_course(term):
+    cursor = db.courses.find( { '$text': { '$search': term } }).limit(10)
+    for item in cursor:
+        print(item['title'],item['description'])
+        
+
 def main():
     load_courses()
     

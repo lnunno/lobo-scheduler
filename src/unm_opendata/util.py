@@ -15,3 +15,17 @@ def course_level_title(num):
 def sort_by_attribute(element_list,attribute):
     d = {e.attrib[attribute]:e for e in element_list}
     return [d[key] for key in sorted(d)]
+
+def percent_color(percent):
+    '''
+    Semantic meaning of a percentage for color.
+    '''
+    if not percent:
+        return 'green'
+    percent = float(percent)
+    if percent > 75:
+        return 'red'
+    elif percent > 50:
+        return 'yellow'
+    else:
+        return 'green'

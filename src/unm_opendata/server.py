@@ -9,6 +9,7 @@ from unm_opendata.jinja_init import env
 from unm_opendata import schedule
 from unm_opendata import util
 from unm_opendata.models import Course
+from unm_opendata import db
 
 class UnmOpenDataApp(object):
     
@@ -71,9 +72,8 @@ class UnmOpenDataApp(object):
     
     @cherrypy.expose
     def search(self, q):
-        results = schedule.search_course(q, self.campus)
-        for r in results:
-            print(r.title, r.description)
+        results = db.search_course(q)
+        return results
        
 if __name__ == '__main__':
     

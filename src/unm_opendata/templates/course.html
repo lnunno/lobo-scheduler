@@ -17,34 +17,14 @@
     <div class="accordion" data-role="accordion">
     {% for s in course.sections %}
         <div class="accordion-frame {% if loop.index == 1 %}active{% endif %}">
-            <a href="#" class="heading">Section {{s.number}}</a>
+            <a href="#" class="heading">Section {{s.number}}{{um.iff(s.title,': '~s.title)}}</a>
             <div class="content">
-                {% set mt = s.meeting_times[0] %}
                 <div class="grid fluid">
                 <div class="row">
-                    <div class="toolbar-group">
-                        <button class="command-button primary">
-                            <i class="icon-calendar on-left"></i>
-                            {{mt.start_date}} to {{mt.end_date}}
-                        </button>
-                        <button class="command-button primary">
-                            <i class="icon-clock on-left"></i>
-                            {{mt.start_time}}-{{mt.end_time}}
-                        </button>
-                        <button class="command-button primary">
-                            <i class="icon-book on-left"></i>
-                            Yes, share and connect
-                        </button>
-                        <button class="command-button primary">
-                            <i class="icon-book on-left"></i>
-                            Yes, share and connect
-                        </button>
-                    </div>
-                </div>
-                <div class="row">
-                    <div id="progress-bar" class="span8 progress-bar" data-role="progress-bar" data-value="{{s.percent_enrolled}}"></div>
+                    <div id="progress-bar" class="span8 progress-bar" data-role="progress-bar" data-value="{{s.percent_enrolled}}" data-color="{{util.percent_color(s.percent_enrolled)}}"></div>
                     <span class="span4">{{s.num_enrolled}}/{{s.max_enroll}} enrolled</span>    
                 </div>
+
                 </div>
             </div>
         </div>

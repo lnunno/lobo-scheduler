@@ -1,0 +1,9 @@
+{# This contains utility macros. #}
+
+{%- macro iff(test,content,alternative='') -%}
+{%- if test -%}
+{{content}}
+{%- else -%}
+{{alternative}}
+{%- endif -%}
+{%- endmacro -%}

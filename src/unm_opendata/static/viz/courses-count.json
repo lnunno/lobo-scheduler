@@ -1,0 +1,486 @@
+[
+	[
+		"Subject",
+		"Number of Classes"
+	],
+	[
+		"A&S Cooperative Educ Program",
+		1
+	],
+	[
+		"Academics",
+		1
+	],
+	[
+		"Africana Studies",
+		21
+	],
+	[
+		"Air Force Aerospace Studies",
+		9
+	],
+	[
+		"American Studies",
+		37
+	],
+	[
+		"Anthropology",
+		66
+	],
+	[
+		"Arabic",
+		6
+	],
+	[
+		"Architecture",
+		44
+	],
+	[
+		"Art Education",
+		22
+	],
+	[
+		"Art History",
+		38
+	],
+	[
+		"Art Studio",
+		59
+	],
+	[
+		"Astronomy",
+		8
+	],
+	[
+		"Biochemistry",
+		8
+	],
+	[
+		"Biology",
+		57
+	],
+	[
+		"Biomedical Engineering",
+		8
+	],
+	[
+		"Biomedical Sciences",
+		39
+	],
+	[
+		"Chem & Biological Engineering",
+		26
+	],
+	[
+		"Chemistry",
+		36
+	],
+	[
+		"Chicana and Chicano Studies",
+		12
+	],
+	[
+		"Chinese",
+		8
+	],
+	[
+		"Civil Engineering",
+		53
+	],
+	[
+		"Classics",
+		7
+	],
+	[
+		"Clinical Science",
+		2
+	],
+	[
+		"Communication & Journalism",
+		67
+	],
+	[
+		"Community & Regional Planning",
+		35
+	],
+	[
+		"Comparative Literature",
+		10
+	],
+	[
+		"Computer Science",
+		42
+	],
+	[
+		"Counselor Education",
+		16
+	],
+	[
+		"Dance",
+		36
+	],
+	[
+		"Dental Hygiene",
+		11
+	],
+	[
+		"Early Childhood Multicult Ed",
+		10
+	],
+	[
+		"Earth & Planetary Sciences",
+		30
+	],
+	[
+		"Economics",
+		29
+	],
+	[
+		"Education",
+		33
+	],
+	[
+		"Educational Leadership",
+		13
+	],
+	[
+		"Educational Media/Library Sci",
+		3
+	],
+	[
+		"Educational Psychology",
+		20
+	],
+	[
+		"Electrical & Computer Engineer",
+		63
+	],
+	[
+		"Emergency Medical Services",
+		17
+	],
+	[
+		"Engineering",
+		2
+	],
+	[
+		"Engineering Coop Ed Prgrm",
+		6
+	],
+	[
+		"English",
+		91
+	],
+	[
+		"Environmental Science",
+		5
+	],
+	[
+		"Family Studies",
+		27
+	],
+	[
+		"Fine Art",
+		4
+	],
+	[
+		"French",
+		20
+	],
+	[
+		"Geography",
+		32
+	],
+	[
+		"German",
+		17
+	],
+	[
+		"Greek",
+		5
+	],
+	[
+		"Health Education",
+		24
+	],
+	[
+		"Health,Medicine & Human Values",
+		7
+	],
+	[
+		"History",
+		55
+	],
+	[
+		"Interdisc Film & Digital Media",
+		10
+	],
+	[
+		"International Studies",
+		4
+	],
+	[
+		"Internatnl Stud Xchange Prog",
+		2
+	],
+	[
+		"Introductory Studies - Math",
+		1
+	],
+	[
+		"Introductory Studies - Reading",
+		1
+	],
+	[
+		"Italian",
+		3
+	],
+	[
+		"Japanese",
+		7
+	],
+	[
+		"Landscape Architecture",
+		13
+	],
+	[
+		"Lang, Literacy & Sociocult St",
+		49
+	],
+	[
+		"Latin",
+		7
+	],
+	[
+		"Latin American Studies",
+		7
+	],
+	[
+		"Law",
+		52
+	],
+	[
+		"Liberal Arts & Integrative Stu",
+		2
+	],
+	[
+		"Linguistics",
+		30
+	],
+	[
+		"Management",
+		120
+	],
+	[
+		"Math, Sci, Environ & Tech Educ",
+		12
+	],
+	[
+		"Mathematics",
+		63
+	],
+	[
+		"Mechanical Engineering",
+		34
+	],
+	[
+		"Media Arts",
+		23
+	],
+	[
+		"Medical Laboratory",
+		18
+	],
+	[
+		"Medical Physics",
+		2
+	],
+	[
+		"Medieval Studies",
+		1
+	],
+	[
+		"Military Science & Leadership",
+		14
+	],
+	[
+		"Modern Language",
+		5
+	],
+	[
+		"Museum Studies",
+		9
+	],
+	[
+		"Music",
+		92
+	],
+	[
+		"Music - Applied",
+		30
+	],
+	[
+		"Music Education",
+		20
+	],
+	[
+		"Nanoscience & Microsystems",
+		7
+	],
+	[
+		"National Student Exchange Prog",
+		1
+	],
+	[
+		"Native American Studies",
+		14
+	],
+	[
+		"Natural Science",
+		3
+	],
+	[
+		"Navajo",
+		9
+	],
+	[
+		"Naval Science",
+		8
+	],
+	[
+		"Nuclear Engineering",
+		26
+	],
+	[
+		"Nuclear Medicine",
+		5
+	],
+	[
+		"Nursing",
+		32
+	],
+	[
+		"Nutrition",
+		19
+	],
+	[
+		"Occupational Therapy",
+		14
+	],
+	[
+		"Org, Info, & Learning Sciences",
+		17
+	],
+	[
+		"Peace Studies",
+		5
+	],
+	[
+		"Pharmacy",
+		82
+	],
+	[
+		"Philosophy",
+		33
+	],
+	[
+		"Physical Ed (Non-Professional)",
+		50
+	],
+	[
+		"Physical Ed (Professional)",
+		60
+	],
+	[
+		"Physical Therapy",
+		15
+	],
+	[
+		"Physician Assistant",
+		19
+	],
+	[
+		"Physics",
+		54
+	],
+	[
+		"Political Science",
+		36
+	],
+	[
+		"Portuguese",
+		15
+	],
+	[
+		"Psychology",
+		45
+	],
+	[
+		"Public Administration",
+		25
+	],
+	[
+		"Public Health",
+		16
+	],
+	[
+		"Radiologic Sciences",
+		2
+	],
+	[
+		"Religion",
+		13
+	],
+	[
+		"Russian",
+		7
+	],
+	[
+		"Sign",
+		11
+	],
+	[
+		"Sociology",
+		37
+	],
+	[
+		"Spanish",
+		35
+	],
+	[
+		"Special Education",
+		42
+	],
+	[
+		"Speech & Hearing Sciences",
+		17
+	],
+	[
+		"Statistics",
+		28
+	],
+	[
+		"Sustainability Studies",
+		7
+	],
+	[
+		"Theatre",
+		41
+	],
+	[
+		"UNM Honors Program",
+		18
+	],
+	[
+		"University",
+		7
+	],
+	[
+		"Water Resources",
+		5
+	],
+	[
+		"Women Studies",
+		14
+	]
+]

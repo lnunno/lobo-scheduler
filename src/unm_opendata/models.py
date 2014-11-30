@@ -36,12 +36,18 @@ class CourseEncoder(JSONEncoder):
         d['sections'] = [section_encoder.default(s) for s in d['sections']]
         return d
 
-def get_time_str(text):
+def get_time_obj(text):
     if text:
         time_obj = time.strptime(text, '%H%M')
-        return ('%02d:%02d' % (time_obj.tm_hour, time_obj.tm_min))
+        return time_obj
     else:
         return text
+    
+def military_time_str(time_obj):
+    if time_obj:
+        return ('%02d:%02d' % (time_obj.tm_hour, time_obj.tm_min))
+    else:
+        return None
     
 class MeetingTime(object):
     
@@ -49,8 +55,14 @@ class MeetingTime(object):
         self.data = data
         self.start_date = data.find('start-date').text
         self.end_date = data.find('end-date').text
-        self.start_time = get_time_str(data.find('start-time').text) 
-        self.end_time = get_time_str(data.find('end-time').text)
+        start_time_obj = get_time_obj(data.find('start-time').text)
+        end_time_obj = get_time_obj(data.find('end-time').text)
+        self.start_time = military_time_str(start_time_obj)
+        self.start_time_hour = start_time_obj.tm_hour if self.start_time else None
+        self.start_time_min = start_time_obj.tm_min if self.start_time else None
+        self.end_time = military_time_str(end_time_obj)
+        self.end_time_hour = end_time_obj.tm_hour if self.end_time else None
+        self.end_time_min = end_time_obj.tm_min if self.end_time else None
         self.days = [d.text for d in data.findall('.//day')]
         building_elem = data.find('.//bldg')
         self.building = building_elem.text
