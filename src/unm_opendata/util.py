@@ -3,6 +3,8 @@ Created on Nov 13, 2014
 
 @author: lnunno
 '''
+from unm_opendata.constants import VIZ_DIR
+import os
 
 def is_new_course_level(prev,current):
     '''
@@ -29,3 +31,8 @@ def percent_color(percent):
         return 'yellow'
     else:
         return 'green'
+
+def load_viz_file(filename):
+    fp = os.path.join(VIZ_DIR,filename)
+    return open(fp).read()
+    

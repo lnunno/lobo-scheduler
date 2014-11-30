@@ -71,6 +71,11 @@ class UnmOpenDataApp(object):
         return template.render(subject=subject, course=course, backlink=backlink)
     
     @cherrypy.expose
+    def stats(self):
+        template = env.get_template('stats.html')
+        return template.render()
+    
+    @cherrypy.expose
     def search(self, q):
         results = db.search_course(q)
         return results

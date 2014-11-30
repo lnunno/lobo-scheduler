@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block head %}
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+    google.load("visualization", "1", {
+        packages: ["corechart"]
+    });
+    google.setOnLoadCallback(drawAll);
+
+    function drawAll() {
+      drawSubjectFreq();
+      drawStartTimeFreq();
+    }
+
+    function drawStartTimeFreq () {
+        var f = {{util.load_viz_file('start-time-data.json')}};
+        var data = google.visualization.arrayToDataTable(f);
+        var view = new google.visualization.DataView(data);
+
+        // Forces the hour to be treated as a category on the x-axis.
+        view.setColumns([{calc: function(data, row) { return data.getFormattedValue(row, 0); }, type:'string'}, 1]);
+        var options = {
+            title: 'Section Frequency by Start Time Hour',
+            hAxis: {title: 'Start Time Hour'},
+            vAxis: {title: '# of Sections'}
+        };
+        var chart = new google.visualization.ColumnChart(document.getElementById('startTimeDiv'));
+        chart.draw(view, options);
+    }
+
+    function drawSubjectFreq() {
+
+        {# Load the courses-count file instead of having it defined here. #}
+        var cc = {{util.load_viz_file('courses-count.json')}};
+        var data = google.visualization.arrayToDataTable(cc);
+        var view = new google.visualization.DataView(data);
+        view.setRows(data.getFilteredRows([{column:1, minValue:30}]));
+        var options = {
+            title: 'Course Frequency by Subject'
+        };
+        var chart = new google.visualization.ColumnChart(document.getElementById('subjFreqDiv'));
+        chart.draw(view, options);
+    }
+    </script>
+{% endblock %}
+
+{% block content %}
+<div id="subjFreqDiv" style="width: 100%; height: 500px;"></div>
+<br>
+<div id="startTimeDiv" style="width: 100%; height: 500px;"></div>
+{% endblock %}

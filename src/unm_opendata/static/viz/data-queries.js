@@ -24,15 +24,11 @@ function semester_subject_stats(semester_name, out_name) {
     }, {
         $out: out_name
     }]);
-    var acc = [['Subject', 'Number of Classes']];
+    var acc = [['Subject', 'Number of Courses']];
     db[out_name].find().forEach(function(data) {
         acc.push([data._id, data.count]);
     });
     printjson(acc);
-}
-
-function course_time_range(){
-
 }
 
 semester_subject_stats('Spring 2015', 'springCount');

@@ -17,5 +17,6 @@ PERKS_JSON_PATH = os.path.join(DATA_DIR, 'perks.json')
 
 STATIC_DIR = os.path.abspath(os.path.join(BASE_DIR, 'static/'))
 IMAGE_DIR = os.path.join(STATIC_DIR, 'images')
+VIZ_DIR = os.path.join(STATIC_DIR, 'viz')
 CAMPUS_IMAGES_DIR = os.path.join(IMAGE_DIR, 'campus_images')
 CAMPUS_IMAGE_LIST = os.listdir(CAMPUS_IMAGES_DIR)
