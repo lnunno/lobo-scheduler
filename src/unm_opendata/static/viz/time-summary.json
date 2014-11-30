@@ -4,15 +4,15 @@
 		"Number of Sections"
 	],
 	[
-		"Morning",
+		"Morning (Before 11am)",
 		2111
 	],
 	[
-		"Mid-day",
+		"Mid-day (11am - 1pm)",
 		1149
 	],
 	[
-		"Afternoon",
+		"Afternoon (After 1pm)",
 		1500
 	]
 ]

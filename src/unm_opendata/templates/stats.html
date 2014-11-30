@@ -10,6 +10,7 @@
     function drawAll() {
       drawSubjectFreq();
       drawStartTimeFreq();
+      drawStartTimeSummary();
     }
 
     function drawStartTimeFreq () {
@@ -25,6 +26,18 @@
             vAxis: {title: '# of Sections'}
         };
         var chart = new google.visualization.ColumnChart(document.getElementById('startTimeDiv'));
+        chart.draw(view, options);
+    }
+
+    function drawStartTimeSummary () {
+        var f = {{util.load_viz_file('time-summary.json')}};
+        var data = google.visualization.arrayToDataTable(f);
+        var view = new google.visualization.DataView(data);
+
+        var options = {
+            title: 'Section Start Times by Time Period for Spring 2015',
+        };
+        var chart = new google.visualization.PieChart(document.getElementById('startTimeSummary'));
         chart.draw(view, options);
     }
 
@@ -48,4 +61,5 @@
 <div id="subjFreqDiv" style="width: 100%; height: 500px;"></div>
 <br>
 <div id="startTimeDiv" style="width: 100%; height: 500px;"></div>
+<div id="startTimeSummary" style="width: 100%; height: 500px;"></div>
 {% endblock %}
