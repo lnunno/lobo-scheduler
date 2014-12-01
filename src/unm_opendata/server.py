@@ -76,6 +76,12 @@ class UnmOpenDataApp(object):
         return template.render()
     
     @cherrypy.expose
+    def places(self):
+        template = env.get_template('places.html')
+        buildings = db.get_buildings()
+        return template.render(buildings=buildings)
+    
+    @cherrypy.expose
     def search(self, q):
         results = db.search_course(q)
         return results

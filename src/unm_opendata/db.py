@@ -41,6 +41,10 @@ def load_location_data():
     c = db.buildings
     for b in js:
         c.insert(b)
+        
+def get_buildings():
+    result = db.buildings.find().sort('title')
+    return result
 
 def load_perks_data():
     f = open(PERKS_JSON_PATH)
@@ -67,7 +71,7 @@ def search_course(term):
         
 
 def main():
-    load_courses()
+    load_location_data()
     
 if __name__ == '__main__':
     main()

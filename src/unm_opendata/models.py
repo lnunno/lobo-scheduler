@@ -17,6 +17,7 @@ class Course(object):
         self.subject_code = self.subject.attrib['code']
         self.data = data
         self.number = data.attrib['number']
+        self.level = util.course_level(self.number)
         self.title = data.attrib['title']
         self.description = data.find('catalog-description').text
         self.sections = [Section(s) for s in util.sort_by_attribute(data.findall('section'), 'number')]

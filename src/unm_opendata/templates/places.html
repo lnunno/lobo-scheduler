@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Places{% endblock %}
+{% block head %}
+{% endblock %}
+
+{% block content %}
+<div class="listview-outlook">
+    {% for b in buildings %}
+        {% set code = b['id'] %}
+        <a href="/building?code={{code}}" class="list">
+        <div class="list-content">
+            <span class="list-title">{{b['title']}}</span>
+        </div>
+    {% endfor %}
+</div>
+{% endblock %}
