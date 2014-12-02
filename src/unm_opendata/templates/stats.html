@@ -7,6 +7,13 @@
     });
     google.setOnLoadCallback(drawAll);
 
+    function chartAsPNG(chart,div){
+        google.visualization.events.addListener(chart, 'ready', function () {
+          div.innerHTML = '<img src="' + chart.getImageURI() + '">';
+          console.log(div.innerHTML);
+        });
+    }
+
     function drawAll() {
       drawSubjectFreq();
       drawStartTimeFreq();
@@ -25,7 +32,12 @@
             hAxis: {title: 'Start Time Hour'},
             vAxis: {title: '# of Sections'}
         };
-        var chart = new google.visualization.ColumnChart(document.getElementById('startTimeDiv'));
+
+        var div = document.getElementById('startTimeDiv');
+        var chart = new google.visualization.ColumnChart(div);
+
+        // chartAsPNG(chart,div);
+
         chart.draw(view, options);
     }
 
@@ -37,7 +49,12 @@
         var options = {
             title: 'Section Start Times by Time Period for Spring 2015',
         };
-        var chart = new google.visualization.PieChart(document.getElementById('startTimeSummary'));
+        
+        var div = document.getElementById('startTimeSummary');
+        var chart = new google.visualization.PieChart(div);
+
+        // chartAsPNG(chart,div);
+
         chart.draw(view, options);
     }
 
@@ -51,7 +68,12 @@
         var options = {
             title: 'Course Frequency by Subject'
         };
-        var chart = new google.visualization.ColumnChart(document.getElementById('subjFreqDiv'));
+
+        var div = document.getElementById('subjFreqDiv');
+        var chart = new google.visualization.ColumnChart(div);
+
+        // chartAsPNG(chart,div);
+
         chart.draw(view, options);
     }
     </script>

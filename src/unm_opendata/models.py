@@ -6,7 +6,6 @@ Created on Nov 13, 2014
 from unm_opendata import util
 import time
 from json.encoder import JSONEncoder
-import json
 
 class Course(object):
     

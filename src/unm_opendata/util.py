@@ -17,6 +17,10 @@ def course_level(num):
 def course_level_title(num):
     return '%s00 Level Courses' % (num[0])
 
+def course_title(data,is_json=False):
+    if is_json:
+        return '%s %s: %s' % (data['subject_code'],data['number'],data['title'])
+
 def sort_by_attribute(element_list, attribute):
     d = {e.attrib[attribute]:e for e in element_list}
     return [d[key] for key in sorted(d)]

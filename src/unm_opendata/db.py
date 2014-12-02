@@ -66,8 +66,7 @@ def load_courses():
         
 def search_course(term):
     cursor = db.courses.find( { '$text': { '$search': term } }).limit(10)
-    for item in cursor:
-        print(item['title'],item['description'])
+    return cursor
         
 
 def main():

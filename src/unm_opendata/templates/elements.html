@@ -1,10 +1,20 @@
 {# This contains HTML element macros. #}
 
-{% macro course_li(course) %}
+{% macro course_li(course,json_in=False) %}
+{% if not json_in %}
 <a href="#" class="list">
 	<span class="list-title">{{c.number}}: {{c.title}}</span>
     <div class="list-content">{{c.description}}</div>
 </a>
+{% else %}
+{% set link        = ('/course?subject_code=%s&course_number=%s' % (course['subject_code'],course['number'])) %}
+{% set title       = util.course_title(course,is_json=True) %}
+{% set description = course['description'] %}
+<a href="{{link}}" class="list">
+	<span class="list-title">{{title}}</span>
+    <div class="list-content">{{description}}</div>
+</a>
+{% endif %}
 {% endmacro %}
 
 {% macro meeting_time(mt) %}

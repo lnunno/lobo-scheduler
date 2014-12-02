@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Search Results{% endblock %}
+{% block head %}
+{% endblock %}
+{% block content %}
+	<div class="listview-outlook">
+	{% if results|length == 0 %}
+	<p class="readable-text">No results were found for your search. Please try again or view the <a href="/subjects">subjects</a> page for a complete list of subjects found at the University of New Mexico.</p>
+	{% endif %}
+	{% for r in results %}
+		{{elements.course_li(r,json_in=True)}}
+	{% endfor %} 
+	</div>
+{% endblock %}

@@ -24,7 +24,12 @@
                     <div id="progress-bar" class="span8 progress-bar" data-role="progress-bar" data-value="{{s.percent_enrolled}}" data-color="{{util.percent_color(s.percent_enrolled)}}"></div>
                     <span class="span4">{{s.num_enrolled}}/{{s.max_enroll}} enrolled</span>    
                 </div>
-
+                {% if s.percent_enrolled == 100 and s.max_wait|int > 0 %}
+                <div class="row">
+                    <div id="progress-bar" class="span8 progress-bar" data-role="progress-bar" data-value="{{s.num_wait|int/s.max_wait|int*100}}"></div>
+                    <span class="span4">{{s.num_wait}}/{{s.max_wait}} on wait list</span>    
+                </div>
+                {% endif %}
                 </div>
             </div>
         </div>
