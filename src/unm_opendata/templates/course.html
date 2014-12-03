@@ -19,7 +19,19 @@
         <div class="accordion-frame {% if loop.index == 1 %}active{% endif %}">
             <a href="#" class="heading">Section {{s.number}}{{um.iff(s.title,': '~s.title)}}</a>
             <div class="content">
+                <div class="toolbar">
+                    <div class="button primary">
+                    <strong>{{s.credits}}</strong> Credit Hours
+                    </div>
+                    <div class="button bg-darkGreen fg-white">
+                    <i class="fa fa-usd"></i><strong>{{s.fees}}</strong> Fee
+                    </div>
+                    <div class="button bg-orange fg-white">
+                    <strong>{{s.data.find('.//delivery-type').text}}</strong> Delivery
+                    </div>
+                </div>
                 <div class="grid fluid">
+                <h3>Enrollment</h3>
                 <div class="row">
                     <div id="progress-bar" class="span8 progress-bar" data-role="progress-bar" data-value="{{s.percent_enrolled}}" data-color="{{util.percent_color(s.percent_enrolled)}}"></div>
                     <span class="span4">{{s.num_enrolled}}/{{s.max_enroll}} enrolled</span>    
@@ -29,6 +41,34 @@
                     <div id="progress-bar" class="span8 progress-bar" data-role="progress-bar" data-value="{{s.num_wait|int/s.max_wait|int*100}}"></div>
                     <span class="span4">{{s.num_wait}}/{{s.max_wait}} on wait list</span>    
                 </div>
+                {% endif %}
+                {% if s.meeting_times|length > 0 %}
+                {# Meeting times. #}
+                <h3>Meeting times</h3>
+                <table class="table bordered hovered">
+                {% for mt in s.meeting_times %}
+                {% if loop.index == 1 %}
+                {# Create the header the first time around the loop. #}
+                <thead>
+                    <tr>
+                        <th class="text-left">Days</th>
+                        <th class="text-left">Time</th>
+                        <th class="text-left">Location</th>
+                        <th class="text-left">Date Range</th>
+                    </tr>
+                </thead>
+                {% endif %}
+                {{elements.meeting_time(mt)}}
+                {% endfor %}
+                </table>
+                {% endif %}
+                {% if s.instructors|length > 0 %}
+                <h3>Instructors</h3>
+                {% for teacher in s.instructors %}
+                    <div class="row">
+                        {{elements.instructor(teacher)}}    
+                    </div>
+                {% endfor %}
                 {% endif %}
                 </div>
             </div>

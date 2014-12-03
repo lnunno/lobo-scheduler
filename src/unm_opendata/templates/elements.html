@@ -1,3 +1,5 @@
+{% import 'util.html'     as um %}
+
 {# This contains HTML element macros. #}
 
 {% macro course_li(course,json_in=False) %}
@@ -18,5 +20,24 @@
 {% endmacro %}
 
 {% macro meeting_time(mt) %}
+<tr>
+<td>
+{% for d in mt.days %}
+{{d}}
+{% endfor %} 
+</td>
+<td>{% if mt.start_time and mt.end_time %}{{mt.start_time}}-{{mt.end_time}}{% endif %}</td>
+<td>{% if mt.building %}<a href="/place?name={{mt.building|e}}">{{mt.building}}</a> {{um.iff(mt.room,mt.room)}}{% endif %}</td>
+<td>{% if mt.start_date and mt.end_date %}{{mt.start_date}} to {{mt.end_date}}{% endif %}</td>
+</tr>
+{% endmacro %}
 
+{% macro instructor(i) %}
+<address>
+	<strong>{{i.first}} {{i.last}}</strong><br>
+	<a href="mailto:{{i.email}}">{{i.email}}</a><br>
+	{% if i.primary %}
+	<em>Primary instructor</em>
+	{% endif %}
+</address>
 {% endmacro %}
