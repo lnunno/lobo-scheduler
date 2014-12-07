@@ -132,8 +132,6 @@ class UnmOpenDataApp(object):
     def star(self, subject_code, number):
         self.ensure_initialized()      
         self.starred[(subject_code,number)] = not self.starred[(subject_code,number)]
-        for k,v in self.starred.items():
-            print(k,v)
     
     def is_starred(self, subject_code, number):
         return self.starred[(subject_code,number)]
