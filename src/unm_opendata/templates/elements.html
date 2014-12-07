@@ -27,7 +27,7 @@
 {% endfor %} 
 </td>
 <td>{% if mt.start_time and mt.end_time %}{{mt.start_time}}-{{mt.end_time}}{% endif %}</td>
-<td>{% if mt.building %}<a href="/place?name={{mt.building|e}}">{{mt.building}}</a> {{um.iff(mt.room,mt.room)}}{% endif %}</td>
+<td>{% if mt.building %}<a href="/place?name={{util.escape_url(mt.building)}}&code={{mt.building_code}}">{{mt.building}}</a> {{um.iff(mt.room,mt.room)}}{% endif %}</td>
 <td>{% if mt.start_date and mt.end_date %}{{mt.start_date}} to {{mt.end_date}}{% endif %}</td>
 </tr>
 {% endmacro %}

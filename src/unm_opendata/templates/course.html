@@ -3,7 +3,7 @@
 {% block head %}
 {% endblock %}
 {% block content %}
-<h1>{{course.heading()}}</h1>
+<h1>{{course.heading()}} <i class="fa fa-star" id="star"></i></h1>
 
 <div class="accordion" data-role="accordion">
     <div class="accordion-frame active">
@@ -76,4 +76,22 @@
     {% endfor %}
     </div>
 </div>
+{% endblock %}
+
+{% block scripts %}
+<script type="text/javascript">
+    var favorited = false;
+    $("#star").click(function(){
+        favorited = !favorited;
+        if(favorited) {
+            $(this).css("color","gold");
+        }
+        else {
+            $(this).css("color","");   
+        }
+        $.ajax({
+            url:"/star?subject_code={{course.subject_code}}&number={{course.number}}"
+        });
+    });
+</script>
 {% endblock %}

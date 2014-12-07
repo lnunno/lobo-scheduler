@@ -4,12 +4,13 @@
 {% endblock %}
 
 {% block content %}
+<h1>Places around Campus</h1>
 <div class="listview-outlook">
     {% for b in buildings %}
-        {% set code = b['id'] %}
-        <a href="/building?code={{code}}" class="list">
+        {% set title = b['title'] %}
+        <a href="/place?name={{title}}" class="list">
         <div class="list-content">
-            <span class="list-title">{{b['title']}}</span>
+            <span class="list-title">{{title}}</span>
         </div>
     {% endfor %}
 </div>

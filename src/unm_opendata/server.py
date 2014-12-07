@@ -8,13 +8,14 @@ from unm_opendata.constants import BASE_DIR
 from unm_opendata.jinja_init import env
 from unm_opendata import schedule
 from unm_opendata import util
-from unm_opendata.models import Course
+from unm_opendata.models import Course, Place
 from unm_opendata import db
 
 class UnmOpenDataApp(object):
     
     def __init__(self):
-        self.campus = schedule.get_campus('ABQ') 
+        self.campus = schedule.get_campus('ABQ')
+        cherrypy.session['starred'] = set()  # @UndefinedVariable
     
     @cherrypy.expose
     def colleges(self):
@@ -62,7 +63,7 @@ class UnmOpenDataApp(object):
         return template.render(subject=subject[0], courses=courses, backlink='/subjects')
     
     @cherrypy.expose
-    def course(self, subject_code, course_number ):
+    def course(self, subject_code, course_number):
         template = env.get_template('course.html')
         subject = schedule.get_subject(subject_code, self.campus)
         course = schedule.get_course(course_number, subject)
@@ -82,6 +83,18 @@ class UnmOpenDataApp(object):
         return template.render(buildings=buildings)
     
     @cherrypy.expose
+    def place(self, name, code=None):
+        template = env.get_template('place.html')
+        place = db.find_building(name)
+        if place.count() == 0:
+            if code is not None:
+                result = db.search_building(code)
+                if result.count() > 0:
+                    return template.render(place=Place(result[0]))
+            raise cherrypy.NotFound("Can not find the specified location.")
+        return template.render(place=Place(place[0]))
+    
+    @cherrypy.expose
     def search(self, q):
         template = env.get_template('search.html')
         results = db.search_course(q)
@@ -91,6 +104,10 @@ class UnmOpenDataApp(object):
     def not_found(self, status, message, traceback, version):
         template = env.get_template('404.html')
         return template.render()
+    
+    @cherrypy.expose
+    def star(self, subject_code, number):
+        print('starred')
        
 if __name__ == '__main__':
     

@@ -118,3 +118,11 @@ class SectionEncoder(JSONEncoder):
         me = MeetingTimeEncoder()
         d['meeting_times'] = [me.default(mt) for mt in d['meeting_times']]
         return d
+
+class Place(object):
+    
+    def __init__(self, data):
+        self.data = data
+        
+    def __getattr__(self, attr):
+        return self.data[attr]

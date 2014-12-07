@@ -10,7 +10,6 @@ from unm_opendata.constants import SCHED_XML_PATH, BUILDING_JSON_PATH,\
 import json
 from unm_opendata import schedule
 from unm_opendata.models import Course, CourseEncoder
-import re
 
 client = MongoClient()
 db = client.unm_app_db
@@ -44,6 +43,14 @@ def load_location_data():
         
 def get_buildings():
     result = db.buildings.find().sort('title')
+    return result
+
+def find_building(title):
+    result = db.buildings.find({'title':title})
+    return result
+
+def search_building(term):
+    result = db.buildings.find( { '$text': { '$search': term } }).limit(10)
     return result
 
 def load_perks_data():

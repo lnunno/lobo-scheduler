@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}{{place.title}}{% endblock %}
+{% block head %}
+{% endblock %}
+
+{% block content %}
+<h1>{{place.title}}</h1>
+<div class="toolbar">
+    <div class="button primary">
+    <strong>{{place.campus}}</strong>
+    </div>
+</div>
+<div class="accordion" data-role="accordion">
+    <div class="accordion-frame active">
+        <a href="#" class="heading bg-orange fg-white">Description</a>
+        <div class="content"><p>{{place.description}}</p></div>
+    </div>
+</div>
+
+{# Map #}
+<iframe
+  width="100%"
+  height="450"
+  frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDDHLA-44-fb8CE9lsX-XvVQd6XvX_oZOo
+  &q={{place.latitude}},{{place.longitude}}
+  &zoom=18">
+</iframe>
+{% endblock %}
