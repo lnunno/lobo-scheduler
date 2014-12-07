@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}My Schedule{% endblock %}
+{% block head %}
+{% endblock %}
+{% block content %}
+<h1>My Saved Courses</h1>
+    <div class="listview-outlook" data-role="listview" id="course_list">
+    {% set prev_course_number = 'A' %}
+    {% for c in saved_classes %}
+        {% set course_number = c['number'] %}
+        {% set scode = c['subject_code'] %}
+        {% set title = c['title'] %}
+        {% set description = c['title'] %}
+        <a href="/course?subject_code={{scode}}&course_number={{course_number}}" class="list">
+            <div class="list-content">
+                <span class="list-title">{{scode}} {{course_number}}: {{title}}</span>
+                <span class="list-remark">{{description}}</span>
+            </div>
+        </a>
+    {% endfor %} 
+    </div>
+    </div>
+    </div>
+{% endblock %}
+{% block scripts %}
+<script type="text/javascript">
+    // To make sure that clicking on a link navigates the user to the course page.
+    $("#course_list").listview({
+        onListClick: function(_list){
+        document.location.href = list.attr('href');
+        }
+    });
+</script>
+{% endblock %}

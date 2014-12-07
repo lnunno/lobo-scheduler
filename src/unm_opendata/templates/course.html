@@ -3,7 +3,7 @@
 {% block head %}
 {% endblock %}
 {% block content %}
-<h1>{{course.heading()}} <i class="fa fa-star" id="star"></i></h1>
+<h1>{{course.heading()}} <i class="fa fa-star" id="star" style="{{um.iff(is_starred,"color:gold;")}}"></i></h1>
 
 <div class="accordion" data-role="accordion">
     <div class="accordion-frame active">
@@ -80,7 +80,7 @@
 
 {% block scripts %}
 <script type="text/javascript">
-    var favorited = false;
+    var favorited = {{um.iff(is_starred,"true","false")}};
     $("#star").click(function(){
         favorited = !favorited;
         if(favorited) {

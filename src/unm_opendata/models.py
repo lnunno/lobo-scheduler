@@ -9,7 +9,7 @@ from json.encoder import JSONEncoder
 
 class Course(object):
     
-    def __init__(self, data, semester=''):
+    def __init__(self, data, semester='', from_json=False):
         self.semester = semester
         self.subject = data.getparent()
         self.subject_name = self.subject.attrib['name']

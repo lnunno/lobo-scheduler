@@ -10,12 +10,22 @@ from unm_opendata import schedule
 from unm_opendata import util
 from unm_opendata.models import Course, Place
 from unm_opendata import db
+from collections import defaultdict
 
 class UnmOpenDataApp(object):
     
+    def ensure_initialized(self):
+        if self.need_init:
+            self.init_saved()  
+            self.need_init = False      
+            
+    def init_saved(self):
+        cherrypy.session['starred'] = defaultdict(bool)  # @UndefinedVariable
+        self.starred = cherrypy.session['starred']  # @UndefinedVariable
+        
     def __init__(self):
         self.campus = schedule.get_campus('ABQ')
-        cherrypy.session['starred'] = set()  # @UndefinedVariable
+        self.need_init = True
     
     @cherrypy.expose
     def colleges(self):
@@ -64,12 +74,13 @@ class UnmOpenDataApp(object):
     
     @cherrypy.expose
     def course(self, subject_code, course_number):
+        self.ensure_initialized() 
         template = env.get_template('course.html')
         subject = schedule.get_subject(subject_code, self.campus)
         course = schedule.get_course(course_number, subject)
         course = Course(course)
         backlink = '/subject?code=%s' % (subject[0].attrib['code'])
-        return template.render(subject=subject, course=course, backlink=backlink)
+        return template.render(subject=subject, course=course, backlink=backlink, is_starred=self.is_starred(subject_code, course_number))
     
     @cherrypy.expose
     def stats(self):
@@ -81,6 +92,18 @@ class UnmOpenDataApp(object):
         template = env.get_template('places.html')
         buildings = db.get_buildings()
         return template.render(buildings=buildings)
+    
+    @cherrypy.expose
+    def my_schedule(self):
+        self.ensure_initialized()
+        saved_classes = []
+        for (subj,num),t in self.starred.items():
+            if not t:
+                continue
+            c = db.get_course(subj, num)[0]
+            saved_classes.append(c)
+        template = env.get_template('my_schedule.html')
+        return template.render(saved_classes=saved_classes)
     
     @cherrypy.expose
     def place(self, name, code=None):
@@ -107,8 +130,14 @@ class UnmOpenDataApp(object):
     
     @cherrypy.expose
     def star(self, subject_code, number):
-        print('starred')
-       
+        self.ensure_initialized()      
+        self.starred[(subject_code,number)] = not self.starred[(subject_code,number)]
+        for k,v in self.starred.items():
+            print(k,v)
+    
+    def is_starred(self, subject_code, number):
+        return self.starred[(subject_code,number)]
+        
 if __name__ == '__main__':
     
     instance = UnmOpenDataApp()
