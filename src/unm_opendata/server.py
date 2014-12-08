@@ -15,9 +15,10 @@ from collections import defaultdict
 class UnmOpenDataApp(object):
     
     def ensure_initialized(self):
-        if self.need_init:
+        key = cherrypy.session.get('init')
+        if not key:
             self.init_saved()  
-            self.need_init = False      
+            cherrypy.session['init'] = True     
             
     def init_saved(self):
         cherrypy.session['starred'] = defaultdict(bool)  # @UndefinedVariable
@@ -25,7 +26,6 @@ class UnmOpenDataApp(object):
         
     def __init__(self):
         self.campus = schedule.get_campus('ABQ')
-        self.need_init = True
     
     @cherrypy.expose
     def colleges(self):
@@ -97,7 +97,7 @@ class UnmOpenDataApp(object):
     def my_schedule(self):
         self.ensure_initialized()
         saved_classes = []
-        for (subj,num),t in self.starred.items():
+        for (subj,num),t in cherrypy.session['starred'].items():
             if not t:
                 continue
             c = db.get_course(subj, num)[0]
@@ -131,10 +131,10 @@ class UnmOpenDataApp(object):
     @cherrypy.expose
     def star(self, subject_code, number):
         self.ensure_initialized()      
-        self.starred[(subject_code,number)] = not self.starred[(subject_code,number)]
+        cherrypy.session['starred'][(subject_code,number)] = not cherrypy.session['starred'][(subject_code,number)]
     
     def is_starred(self, subject_code, number):
-        return self.starred[(subject_code,number)]
+        return cherrypy.session['starred'][(subject_code,number)]
         
 if __name__ == '__main__':
     
