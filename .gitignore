@@ -1,4 +1,6 @@
+..bfg-report
 # Byte-compiled / optimized / DLL files
+*.jar
 __pycache__/
 *.py[cod]
 
