@@ -1,29 +1,3 @@
-# README #
+# Lobo Scheduler
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+This is the source code for my winning Lobo Scheduler application for UNM's Open Data 2015 contest. Please note that I do not maintain this application anymore and it's mainly a proof of concept, I haven't modified this code in a long time!
